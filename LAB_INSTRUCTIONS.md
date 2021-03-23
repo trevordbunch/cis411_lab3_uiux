@@ -6,11 +6,11 @@
 3. Install a text editor or some sort of application for local development. Lately, I'm partial to [Visual Studio Code](https://code.visualstudio.com/) and my instructions assume it's use, but you're welcome to diviate. _Each one should choose their own sword, etc. etc._
 
 # Step 1: Fork this repository and create your lab report file
-1. After logging in, navigate to the [root](https://github.com/trevordbunch/cis411_lab2_arch) of this repository.
+1. After logging in, navigate to the [root](https://github.com/trevordbunch/cis411_lab3_uiux) of this repository.
 2. Fork this repository to your personal GitHub account (hint: read the page).
 3. Navigate to your forked repository in your GitHub account and copy the reference to your repository in from the <button class="btn btn-sm btn-primary">Clone or Download</button> button.
 4. Open the terminal or command line interface on your development machine, navigate to your chosen working directory, and execute the following command: ```git clone [YOUR COPIED GITHUB CLONE REFERENCE]```.
-5. Navigate to that directory ```cd cis411_lab2_arch```.
+5. Navigate to that directory ```cd cis411_lab3_uiux```.
 6. Create a lab report mardown file (ex. ```cp labreports/LAB_Template.md labreports/LAB_[GITHUB USERNAME].md``` ).
 7. Add your lab report ```git add *```
 8. Add the file to your branch ```git commit -a -m "your commit message"```.
@@ -57,7 +57,7 @@ With your newly formed team and your assigned product, complete the following st
 
 # Step 5: Submitting a Pull Request
 Once you've completed your report markdown, reviewed your markdown formatting, and have committed all your changes to your (primary) main branch, initiate a Pull Request in GitHub to submit your Lab Report.
-1. Navigate to the root of your forked repository (ex. https://github.com/YOURHANDLE/cis411_lab2_arch).
+1. Navigate to the root of your forked repository (ex. https://github.com/YOURHANDLE/cis411_lab3_uiux).
 2. Click the _New pull request_ button.
 3. Choose the base fork _tangollama/cis411_lab0_ is the target and that your fully updated _main_ branch is the source.
 4. Enter a title and description for the Pull Request (PR), **referencing at least one other student in the content via their GitHub handle**, and submit the PR.
