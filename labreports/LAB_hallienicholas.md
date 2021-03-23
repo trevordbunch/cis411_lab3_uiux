@@ -22,6 +22,7 @@ ___
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
+I already had an Indeed profile, but my login process is shown here. 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -35,8 +36,11 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+I already had a LinkUp profile as well, but here is the signin process I used.
+![LinkUp signin](Documents/../../labreports/linkup_signin.png)
 
+Upon signing in, the home page is a fairly simple one which seems easily navigable. However, 
+![Home Page](Documents/../../labreports/home_page.png)
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |  0 |  The search engine used in the site is not very well programmed and you have to search just the right thing in order to get the results you are looking for. |
