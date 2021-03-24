@@ -5,7 +5,7 @@ ___
 **Name:** Alec Chappell  
 **GitHub Handle:** [@alecclyde](https://github.com/alecclyde)  
 **Repository:** [My forked repository](https://github.com/alecclyde/cis411_lab3_uiux)   
-**Collaborators:** 
+**Collaborators:** [@Jmtonnies](https://github.com/Jmtonnies)
 ___
 
 # Step 1: Confirm Lab Setup
@@ -21,7 +21,6 @@ ___
 | Site 2 | 20 | Indeed.com has a little more of a cluttered website, but not by much more. The extra clutter comes from the added features they provide over Jobs.com. The user should never feel lost within this website, as they are really navigating between 2 to 3 pages typically. |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -35,7 +34,6 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** |16   |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -55,40 +53,45 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Sign up for an event. |
+| Description / Steps |A user will search and sign up for an event, filtering results as needed.  |
+| Primary Actor |User |
+| Preconditions |User must have account with the website. |
+| Postconditions |Sign-up process is logged with event site and with user. |
 
 ## Step 3.2 Identifier a competitive product
 
-List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+List of Competitors:
+1. Competitor 1: [Meetup](https://www.meetup.com/)
+2. Competitor 2: [Eventbrite](https://www.eventbrite.com/)
+3. Competitor 3: [Facebook](https://www.facebook.com/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |Use search to query for an event.   |The user should use search-bar to discover an event.   |
+| 2 |Choose desired event.   | User should parse through events, filtering as needed, to find desired event.  |
+| 3 |Use event page to find more information about event.   |This page should confirm to the user whether the event is what they thought it was from search results.   |
+| 4 |Register for event.  | If user desides they want to sign-up for event, the sign-up method should be on event page.  |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |Use search to query for an event.   |The user looked for the search bar, and then once they found it, searched for the event they wanted.   |
+| 2 | Choose desired event.  | The user event came right up at the top of the search results, no need for discovering events.  |
+| 3 |	Use event page to find more information about event.   | The user was easily able to see that the selected event was what they thought it would be.  |
+| 4 | Register for event.  |The user clicked a button and was able to sign up in less than 20 seconds.   |
 
 ## Step 3.5 Findings
-Organize your findings here.
+The user **did like being able to register for an event in one click, using the saved information about themselves to sign-up. The search also provided the results they thought it would, and there was no need to filter results. 
+
+The user did **not** like how there were no related or suggested results to chose from, the search was very literal and strict.
+
+Overall the process of signing up for an event on meetup.com was incredibly easy for the user. The event did not require much more information to sign-up, so that made the registration process incredibly easy. 
 
 # Extra Credit
-If you opt to do extra credit, then include it here.
+**Use user's muscle memory to your advantage.**
+
+Users are used to selecting the search bar at the top, the menu off to the left, and the logo to go back to the landing page up top. Use these common internet conventions to make navigating your website easy. If you try changing all of these to "stand apart from the rest," there is a good chance users will get frustrated at the fact that the website is not functioning as expected. 
