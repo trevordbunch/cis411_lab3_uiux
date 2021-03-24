@@ -39,8 +39,14 @@ I already had an Indeed profile, but my login process is shown here.
 I already had a LinkUp profile as well, but here is the signin process I used.
 ![LinkUp signin](Documents/../../labreports/linkup_signin.png)
 
-Upon signing in, the home page is a fairly simple one which seems easily navigable. However, 
-![Home Page](Documents/../../labreports/home_page.png)
+Upon signing in, the home page is a fairly simple one which seems easily navigable. You can search from jobs straight from here which is great, as that is the main purpose of the site. However, the algorithm is not very intuitive when it comes to showing the user what they want to see. We will get to that in more detail later.
+![Home Page](Documents/../../labreports/home_page_1.png)
+From the home page, if the user clicks their email at the top right, they see their profile and are able to navigate to certain pages from there. There is a saved jobs page where you can see the jobs you 'favorited' and easily access those which is nice.
+![My Account](Documents/../../labreports/home_page.png)
+Below is a screenshot of my saved jobs.
+![Favorites Page](Documents/../../labreports/favorites.png)
+Another nice feature is that whenever you click on the links on the left, the links stay there for simple navigation no matter where you go. You can easily log out from there as well.
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |  0 |  The search engine used in the site is not very well programmed and you have to search just the right thing in order to get the results you are looking for. |
@@ -65,11 +71,11 @@ Upon signing in, the home page is a fairly simple one which seems easily navigab
 | Preconditions | |
 | Postconditions | |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Charity Water](https://www.charitywater.org/)
+2. Competitor 2 [Bangarang Peter - find another one**](https://www.youtube.com/watch?v=4PNOccSUb1Q)
 
 ## Step 3.3 Write a Useability Test
 
