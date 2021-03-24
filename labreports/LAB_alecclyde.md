@@ -25,13 +25,13 @@ Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **User are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
+| 1. **Don't make me think:** How intuitive was this site? |1   |   |
+| 2. **User are busy:** Did this site value your time?  | 3  |   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3  |   |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1  |   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2  | They prioritize the wrong information which leads to the job title being cutoff. They  ![](../assets/Jobs%20whitespace.png)*Job search result with cutoff text* |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2  | There is no navigation features on their website, all of the options are either logos or icons that are not directly related to navigation. ![](../assets/Jobs%20navigation.png) *Jobs.com job search page with little to no navigational features.* |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2  |There is a large image that serves as the background for this homepage. This makes it fairly difficult to navigate. The rest of the website was fine, worked without CSS enabled, and functioned with only keyboard input. ![](../assets/Jobs%20high%20contrast.png) *The look of Jobs.com with high contrast mode on.*|
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
