@@ -47,16 +47,24 @@ Below is a screenshot of my saved jobs.
 ![Favorites Page](Documents/../../labreports/favorites.png)
 Another nice feature is that whenever you click on the links on the left, the links stay there for simple navigation no matter where you go. You can easily log out from there as well.
 
+All of the jobs that I clicked on included a button linking to the company website if you choose to apply. Below is a screenshot of an 'Apply' button for a specific job.
+![Link to Apply](Documents/../../labreports/apply.png)
+
+Next is an image of where that link takes you.
+
+![Application](Documents/../../labreports/application.png)
+
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |  0 |  The search engine used in the site is not very well programmed and you have to search just the right thing in order to get the results you are looking for. |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 2. **Users are busy:** Did this site value your time?  | 1.5  |  The site is great in the sense that immediately upon entering the home page there is a prompt to search for a job which is what the users are there for. However, the search engine isn't the best, so it might take longer than the user has time for. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 |  Yes, the steps are clear and it is easy to understand how to use the site. For example, the search box tells the user to either input a job title, company or keywords. There are also minimal words |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  1 |  The site tells the user what to do and is clear about that which is useful, but the search bar in LinkUp is demanding in the sense that it doesn't recognize certain keywords you type in. So, when you start to type a certain job title and it doesn't recognize it, you will be directed to something else it wants you to see.|
+| 5. **Omit Words:** How careful was this site with its use of copy? |  2 |  There are not too many words used on most of LinkUp's pages which is a good thing because it is precise, but there are still a couple of spots where they could've omitted some words when giving directions.|
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2 |  The navigation in this site is very effective and well done. There are not too many links and they are easy to follow, and there is also indication regarding which one you are on so that the user doesn't get confused. However, there could be more links and breadcrumbs in order to help the user get around the site.|
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  There are not many images on this site so it is hard to tell whether it is accessible, but there are explanations/keywords under the search boxes which can easily be read aloud if there were to be a need. There is also a tab order on the site for keyboard accessibility.|
+| **TOTAL** |  12.5 |   |
 
 
 # Step 3 Competitive Usability Test
