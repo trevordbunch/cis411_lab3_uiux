@@ -37,12 +37,12 @@ These are just a few of the many great features of Indeed. There is a reason thi
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? | 3 |  Indeed definitely knows what the user wants. It is easy to use, and the navigation is straight-forward and simple, which allows the users to move around the site seamlessly and do what they came on the site to do in the first place.  |
-| 2. **User are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
+| 2. **User are busy:** Did this site value your time?  |  3 | This site clearly does value the time of users, as it allows for quick searching right when you open up to the homepage. In addition, almost everywhere else you navigate to on the site provides the search bar in an easily accessible area for the user to make a search whenever is convenient for them. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 |  Indeed does well with informing the user about exactly what each button and text entry box does on the site. There are clear steps for how to get done what the user needs to, and it is easy to use. The site also has a message on the homepage about their stance on AAPI hate, which is currently a hot topic. This definitely is good for their site because it shows users that they are passionate and invokes feeling. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2 |  The site is straight-forward with what they want from you and how the user should navigate. However, with job searching comes a number of factors, and when the user does conduct a search, Indeed shows many different filters one can use. They are all towards the top which could prove difficult to the searcher and overwhelming at times. A better way for them to do this could be to hide the filters so that they can be used when desired, but not all bunched up at the top in a group. |
+| 5. **Omit Words:** How careful was this site with its use of copy? |  3 |  Indeed is precise with the words it uses in order to accurately portray what it wants visitors to know and understand. It does not include paragraphs explaining what the site is about or what needs to be done, but is simple and classy.|
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2 |  As I said earlier, navigation is very well done here. However, one thing they could do differently is have maybe one more navigation icon at the top. Currently, they have many links bundled into the user icon at the top right which lead you to many important things. However, Indeed might want to seperate those to make the workflow smoother and organized so the user doesn't have to go into that user icon first whenever they want something that is hidden inside it. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  Indeed seems to be very accomodating regarding accessibility. From what I  |
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
