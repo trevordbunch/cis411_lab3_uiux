@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Indeed | 19 | Summary 1 |
-| LinkUp | 12.5 | Summary 2 |
+| Indeed | 19 | Indeed is a well-known job search site and there is a reason for it. It values the user's time, has a clear and direct purpose which is quickly known by the user, and has set up simple navigation and ample accessibility for an overall enjoyable user experience.|
+| LinkUp | 12.5 | LinkUp is an example of a job finding site that is not as well-known, most likely due to its lacking in certain areas of user experience necessities. It still includes many good features and I am sure many have found valuable jobs by searching on this site. However, it has a lot to improve on in order to ensure consistent positive experiences among job-searchers and employers alike.|
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
