@@ -18,15 +18,25 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | Indeed | Score 1 | Summary 1 |
-| LinkUp | Score 2 | Summary 2 |
+| LinkUp | 12.5 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
-I already had an Indeed profile, but my login process is shown here. 
+I already had an Indeed profile, but my login process is shown here.
+![Indeed signin](Documents/../../labreports/indeed_sign_in.png)
+As can be seen in the image above, I used my signin info to log in, but it is a straight-forward process if I had needed to create a profile this time around.
+
+![Home page](Documents/../../labreports/indeed_home.png)
+
+As can be seen in the image above, the home page is extremely user friendly. It has a good amount of navigation, and there is a search tab right where users would look first in order to not waste their time. Below that, you can see my recent searches listed, and then suggested searches based on my history. There is also a way to save jobs which can be accessed by clicking the account icon at the top right. Below is a screenshot of my current saved jobs, and a button on each to quickly access the page where you can apply to the site if you would like to.
+![Saved jobs](Documents/../../labreports/saved.png)
+
+These are just a few of the many great features of Indeed. There is a reason this is such a well-known site among many who are searching for jobs, as well as employers looking to hire workers.
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 |  Indeed definitely knows what the user wants. It is easy to use, and the navigation is straight-forward and simple, which allows the users to move around the site seamlessly and do what they came on the site to do in the first place.  |
 | 2. **User are busy:** Did this site value your time?  |   |   |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
