@@ -17,7 +17,7 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Indeed | Score 1 | Summary 1 |
+| Indeed | 19 | Summary 1 |
 | LinkUp | 12.5 | Summary 2 |
 
 ## 2.2 Site 1
@@ -42,8 +42,8 @@ These are just a few of the many great features of Indeed. There is a reason thi
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2 |  The site is straight-forward with what they want from you and how the user should navigate. However, with job searching comes a number of factors, and when the user does conduct a search, Indeed shows many different filters one can use. They are all towards the top which could prove difficult to the searcher and overwhelming at times. A better way for them to do this could be to hide the filters so that they can be used when desired, but not all bunched up at the top in a group. |
 | 5. **Omit Words:** How careful was this site with its use of copy? |  3 |  Indeed is precise with the words it uses in order to accurately portray what it wants visitors to know and understand. It does not include paragraphs explaining what the site is about or what needs to be done, but is simple and classy.|
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |  2 |  As I said earlier, navigation is very well done here. However, one thing they could do differently is have maybe one more navigation icon at the top. Currently, they have many links bundled into the user icon at the top right which lead you to many important things. However, Indeed might want to seperate those to make the workflow smoother and organized so the user doesn't have to go into that user icon first whenever they want something that is hidden inside it. |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  Indeed seems to be very accomodating regarding accessibility. From what I  |
-| **TOTAL** |   |   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  Indeed seems to be very accomodating regarding accessibility. From what I have observed, the tab order is well layed out to make it easy for users to navigate the site using keys. Also, text entry bars have alternate text that could be read aloud if there were disabilities with sight. In addition to that, there is even an option at the bottom of the page for the spanish version of the website, which is great for visitors who are not english speakers. |
+| **TOTAL** |  19 |   |
 
 ## 2.3 Site 2
 I already had a LinkUp profile as well, but here is the signin process I used.
