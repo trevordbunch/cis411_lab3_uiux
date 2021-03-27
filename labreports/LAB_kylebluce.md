@@ -64,7 +64,7 @@ Insert Recorded Screenshots with captions and steps.
 ## Step 3.2 Identifier a competitive product
 
 Competitor Goal Setting App: </br>
-Daylio [https://daylio.net/](https://daylio.net/)
+**Daylio** [https://daylio.net/](https://daylio.net/)
 
 ## Step 3.3 Write a Useability Test
 
