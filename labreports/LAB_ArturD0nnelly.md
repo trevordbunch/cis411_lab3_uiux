@@ -5,7 +5,7 @@ ___
 **Name:** Artur Donnelly  
 **GitHub Handle:**  [@ArturD0nnelly](https://github.com/ArturD0nnelly)  
 **Repository:** [Forked Repository](https://github.com/ArturD0nnelly/cis411_lab3_uiux)   
-**Collaborators:**
+**Collaborators:** [@hallienicholas](https://github.com/hallienicholas)
 ___
 
 # Step 1: Confirm Lab Setup
@@ -141,7 +141,18 @@ List of Competitors
 | 5 |  Invite more people into the campaign | After I told the participant to invite more people into the campaign, he asked me a question: "Do Charity Water provides any ways to inform people about the campaign, or do I need to copy the URL and post it on the social media?". I told him that there are some methods they provide to spread the word about the campaign. After getting my answer, the participant navigated to the early created campaign, where he had found two social media tabs that were located beside the edit campaign button. After clicking on it he almost immediately figured out that it was for telling people about the campaign. The participant said: "It was not too hard to find the two tabs that were created for campaign advertisement, because Artur has told me that something that I'm looking for is there. But, I feel like some people probably wouldn't know what those buttons are for, and would use copied URL as the way of advertisement". The participant was also disappointed with so few options of campaign advertisement. |
 
 ## Step 3.5 Findings
-Organize your findings here.
 
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+ I thinking having the search bar that would be used to search for specific things would improve usability. So, instead of looking for things all over the place, the user can just search for a keyword. Also, having more sign-up options could be highly beneficial. This will give users freedom of how they would like to be connected to the website. Another thing that I think would be helpful is to improve communication between the users. Campaign creators should be able to communicate with each other, which will be highly beneficial in the long run. Having the way to communicate on the website would encourage collaboration. 
+
+Two experiences in the workflow that I think was of benefit to the user are how fast the user can get involved, and how quick is the sign-up process. It is without a dought that this website values users' time. So, if the user just wants to get in, get involved in something that makes a difference. It can be done in a matter of a couple of minutes.
+
+In the usability that we have conducted, we were testing what would be users' experience trying to get involved and give financial support. In the application that we would be building donations would be a really important aspect. So, I think that we did well by making the participant going through the steps of getting involved.
+
+For the next time, I think it would be important to conduct usability tests from a different OS like android, iOS, Linux, and so on. Also, maybe taking more people for the test would be helpful too. So, if all of the participants would be stuck in the same spot, or if most of the participants would like the same thing on the website, then we would have more accurate data.
+
+Conducting a usability test was interesting and I think it is highly helpful. Conducting this kind of test would help to identify what is something that users like about the website, something that they found helpful, something that they hate, or maybe something that made them frustrated. All of this information could be used for the future development of our application. So, whatever many users didn't like we'll make sure to stay away from it if possible, and whatever users found good would be implemented. 
+
+## 4. Your UX Rule (Extra Credit)
+
+### Give me the Freedom
+All people are different from each other, and everyone likes to do things differently. The user should be provided with more than three options of how to do things. For example, to sign-up, the user should be able to use personal email, Facebook, phone number, creating a user name and password, and so on. Users should not be limited to only one or two options.
