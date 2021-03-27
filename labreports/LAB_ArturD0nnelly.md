@@ -5,7 +5,7 @@ ___
 **Name:** Artur Donnelly 
 **GitHub Handle:** [@ArturD0nnelly](https://github.com/ArturD0nnelly)  
 **Repository:** [Forked Repository](https://github.com/ArturD0nnelly/cis411_lab3_uiux)
-**Collaborators:** [@alecclyde](https://github.com/alecclyde)
+**Collaborators:** 
 ___
 
 # Step 1: Confirm Lab Setup
@@ -105,10 +105,10 @@ When I was trying to sign up I have found that there was a proble with signing u
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
+| Title | See the ditails of broken pump |
+| Description / Steps | The maitmens worker would have to open the tab with damaged hand water pumps, and select the one that is in thier area. |
+| Primary Actor | Maitmens worker |
+| Preconditions | The maitmence worker is signed-up. The maitmens worker autorized to view the data |
 | Postconditions | |
 
 ## Step 3.2 Identifier a competitive product
