@@ -2,10 +2,10 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Artur Donnelly 
-**GitHub Handle:** [@ArturD0nnelly](https://github.com/ArturD0nnelly)  
-**Repository:** [Forked Repository](https://github.com/ArturD0nnelly/cis411_lab3_uiux)
-**Collaborators:** 
+**Name:** Artur Donnelly  
+**GitHub Handle:**  [@ArturD0nnelly](https://github.com/ArturD0nnelly)  
+**Repository:** [Forked Repository](https://github.com/ArturD0nnelly/cis411_lab3_uiux)   
+**Collaborators:**
 ___
 
 # Step 1: Confirm Lab Setup
@@ -106,36 +106,39 @@ When I was trying to sign up I have found that there was a proble with signing u
 | Use Case #1 | |
 |---|---|
 | Title | See the ditails of broken pump |
-| Description / Steps | The maitmens worker would have to open the tab with damaged hand water pumps, and select the one that is in thier area. |
-| Primary Actor | Maitmens worker |
-| Preconditions | The maitmence worker is signed-up. The maitmens worker autorized to view the data |
-| Postconditions | |
+| Description / Steps | The Maintenance worker would have to open the tab with damaged hand water pumps, and select the one that is in thier area. |
+| Primary Actor | Maintenance worker |
+| Preconditions | The Maintenance Worker needs to be a member of maintenance Organization. The Maintenance worker is signed-up. The Maintenance worker autorized to view the data.  |
+| Postconditions | The maintenance worker is able to view the list of broken water pumps in thier location. The maitenance worker was also able to view the details about selected water pump  |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [charity: water](https://www.charitywater.org/)
+2. Competitor 2 [World Vision](https://www.worldvision.org/)
 
 ## Step 3.3 Write a Useability Test
 
+
+### Charity: Water
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Find the fundraise page |  The user should open the fundraise page through involvement tab |
+| 2 |  Sign up | The user needs to sign up in order to creat fundraiser campain  |
+| 3 |  Create the campain |  The user needs to come up with the name and amount of money that they wish ro come up with |
+| 4 | Make first donation to created campaign |  To make a donation user has to enter the bank card information or use paypal |
+| 5 |  Invite more people into the campaine | To invite more people to the campain user is providet with the options to use facebook, twitter. User also can use their owen options of spreding the word about this campain  |
 
 ## Step 3.4 Observe User Interactions
 
-| Step | Tasks | Observations |
+### Charity: Water
+| Step | Tasks | Observation |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Find the fundraise page |  After making visual observation of the page partisipent have choce to click on "Get Involved Tab". From there partisipent choce to click on Fundraiser tab. Participant coment that it was wairly eassy to find.|
+| 2 |  Sign up | After I told the participant to sign up, he quickly clicked sign-in tab. After asking him why he did that, he said: "I clicked sign-in knowing that if I don't have an account, it will give me the opptions to sign-up". The participant was pleased to know that his predicament was right. After entering email, name, and password, participant was instenly signed up. The participant said that he expected it to have more uptions of how the user could sign-up. |
+| 3 |  Create the campain |  After i told the participant to create the campain, it took couple seconds to remember that he have saw the button to creat the campain on fundraiser page. The participant said that It probably would have take him longer to find where to create the campain at, if he would visit the fundraiser page before. After finding were to create the campaign all that participant had to do is enter the name for the campaign and amount of money the he would like to rais. The participant was pleasantly suprised how little it requiered to create the campaign. He said: "I though it would take a lot more steps than that, and that I would need to provide a lot more information. |
+| 4 | Make first donation to created campaign |  To make the donnation  |
+| 5 |  Invite more people into the campaine | To invite more people to the campain user is providet with the options to use facebook, twitter. User also can use their owen options of spreding the word about this campain  |
 
 ## Step 3.5 Findings
 Organize your findings here.
