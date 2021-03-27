@@ -17,84 +17,84 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| indeed.com | 21 | indeed.com is clean looking website with eassy sign up prosess and many futures. When signning up, it provides you visual anderstanding of how long it will take to sign in, by showing you the tabs that would need to be complete. There is no problmes signing up and by uploading the resume it will feel in some blanks using the information from resume. Searching for the jobs is couple step process and the results are most relevent with all information that is needet, like salary , location, ratings, discription. The website is also really clean without extra working or unneeded information. |
-| simplyhired.com | 16 | simplyhired.com is well designed website that takes only couple minuts to sign up. On the begginning there is unnesesery information on the buttom. It shows the jobs around you. Without knowing what the person is looking for, thins information in unrelevent and not needet. When searching for the job it provides all information that is needet, like salary, location, ratings, discription. The website is really clean looking, has no unnesesery information, and provides most useful tabs. Unfortunatly navigation prosses is not perfoct and can be improwed. |
+| indeed.com | 21 | indeed.com is a clean-looking website with an easy sign-up process and many futures. When signing up, it provides you a visual understanding of how long it will take to sign in, by showing you the tabs that would need to be complete. No problems with signing up and by uploading the resume it will feel in some blanks using the information from the resume. Searching for the jobs is couple step process and the results are most relevant with all information that is needed, like salary, location, ratings, and description. The website is also really clean without extra working or unneeded information. |
+| simplyhired.com | 16 | simplyhired.com is a well-designed website that takes only a couple of minutes to sign up. In the beginning, there is unnecessary information on the bottom. It shows the jobs around you. Without knowing what the person is looking for, this information is not relevant and not needed. When searching for the job it provides all information that is needed, like salary, location, ratings, and description. The website is clean-looking, has no unnecessary information, and provides the most useful tabs. Unfortunately, the navigation process is not perfect and can be improved. |
 
 ## 2.2 Site 1
 
 1. 
 ![Preferences](../assets/indeed_job_search.png)
-Something that I really liked about indeed is that in allowed alot of options of how to search for the job. So, the user would have better experince looking for the job that is wanted.
+Something that I really liked about indeed is that it allowed a lot of options of how to search for the job. So, the user would have a better experience looking for the job that is wanted.
  
 2. 
 ![Resume](../assets/indeed_resume.png)
-One future that I have found interesting and I think really usefull is that indeed could create resume for you. The resume is created from the information that is entered during the sign-up.
+One future that I have found interesting and I think really useful is that indeed could create a resume for you. The resume is created from the information that is entered during the sign-up.
 
 3. 
 ![Reviews](../assets/indeed_review.png)
-I have found the companies reviews really helpfull. I really like that indeed has a tab where the user can look up the reviews on different companies. This future can be really helpful if the user doesn't have the company in mined.
+I have found the companies reviews really helpful. I really like that indeed has a tab where the user can look up the reviews on different companies. This future can be really helpful if the user doesn't have the company in mind.
 
 4. 
 ![Sign-Up](../assets/indeed_sign-up.png)
-When I was signing up, I really liked that it had a scale on the top that says what you need to complete to finish. This is really hepful if the person is really inpatient or doesn't have much time.
+When I was signing up, I really liked that it had a scale on the top that says what you need to complete to finish. This is really helpful if the person is really inpatient or doesn't have much time.
 
 5. 
 ![Error](../assets/indeed_skills.png)
-There was one thing that I found to be really annoying. When I was entering the skills I clicked enter without having the skill entered, and after that it would not let me move on to the next step without reloading the page. There is nothing much that I would do besids fixing this error.
+There was one thing that I found to be really annoying. When I was entering the skills I clicked enter without having the skill entered, and after that, it would not let me move on to the next step without reloading the page. There is nothing much that I would do besides fixing this error.
 
 6. 
 ![Spelling](../assets/indeed_speling.png)
-One little thing that I thought was really interesting, is that indeed has it's owen speling check. This is really helpful, since many can make simple mistakes when feeling out the profile and the spelling errors would make the user look bad.
+One little thing that I thought was really interesting, is that indeed has its own spelling check. This is really helpful since many can make simple mistakes when feeling out the profile and the spelling errors would make the user look bad.
 
 7.
 ![Accessibility](../assets/indeed_accessibility.png)
-I think that everyone deserves to be treated well. So, I really like that indeed is dedicated to provide enjoible experince to every user.
+I think that everyone deserves to be treated well. So, I really like that indeed is dedicated to providing an enjoyable experience to every user.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |  3 | Indeed is well intuitive website that provides a lot of choices and functions. Everything on the website is acceseble and there is not problem with figuaring out how things work. everything is clear and easy to uderstand. |
-| 2. **Users are busy:** Did this site value your time?  |  3 | This website does values the time of the user. The sign up prosses is quick and easy. Even if the user is not signed up user can still search for the job positions without spending time on the sign up procces.   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | Indeed did a great job presenting only information that is needet. When cleaking the search button, it shows only information that is needet for the job search. When the resolt list is up only needet information about the position in providet.  |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  |  Indeed is great with leading the person through the steps. When signing-up indeed leads you through the sign-up steps. Also, indeed leads you though the steps when applying for the job. |
-| 5. **Omit Words:** How careful was this site with its use of copy? | 3  |  Indeed used as little words as posible while still covering all important information that user needs to know. |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3  | Indeed has a menu bar on top of the site that is really useful to navigate yourself from job search to your ptofile, from your profile to salaries tab. Also, when applying fo the job, it is easy to go back ti make changes to the application.   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  Indeed is great as supporting those with accessibility needs. The webside has the page that is dedicated to accessibility at indeed. On that page user can find everything that is needed to know if there is any accessibility chalenges. Also, indeed higly encoraging the users to give a feedback if tehre is something in accessibility area that they should work on. |
+| 1. **Don't make me think:** How intuitive was this site? |  3 | Indeed is a well intuitive website that provides a lot of choices and functions. Everything on the website is accessible and there is no problem with figuring out how things work. everything is clear and easy to understand. |
+| 2. **Users are busy:** Did this site value your time?  |  3 | This website does value the time of the user. The sign-up process is quick and easy. Even if the user is not signed up user can still search for the job positions without spending time on the sign-up process.   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | Indeed did a great job presenting only the information that is needed. When clicking the search button, it shows only information that is needed for the job search. When the result list is up, only needed information about the position is provided.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  |  Indeed is great with leading the person through the steps. When signing-up indeed leads you through the sign-up steps. Also, indeed leads you through the steps when applying for the job. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  |  Indeed used as few words as possible while still covering all important information that the user needs to know. |
+| 6. **Navigation:** How effective was the workflow/navigation of the site? | 3  | Indeed has a menu bar on top of the site that is really useful to navigate yourself from job search to your profile, from your profile to salaries tab. Also, when applying for the job, it is easy to go back to make changes to the application.   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  Indeed is great for supporting those with accessibility needs. The website has a page that is dedicated to accessibility at indeed. On that page, the user can find everything that is needed to know if there are any accessibility challenges. Also, indeed highly encouraging the users to give feedback if there is something in the accessibility area that they should work on. |
 | **TOTAL** |  21 |   |
 
 ## 2.3 Site 2
 
 1. 
 ![Encryption](../assets/SimplyHired%20email%20encription.png)
-Something that I have found to be really cool and helpful is the fact that simplyhired changed my email visualy, so no one who in not intended to see it would have acces to it. 
+Something that I have found to be really cool and helpful is the fact that simplyhired changed my email visually, so no one who is not intended to see it would have access to it. 
 
 2. 
 ![Resume_Builder](../assets/SimplyHired%20resume_builder.png)
-simplyhired has the resume builder that helps the user to build the resume. I really like that this webside helps the user to build the resume, so they can seccesfully ge the job.
+simplyhired has the resume builder that helps the user to build the resume. I really like that this website helps the user to build a resume, so they can successfully get the job.
 
 3. 
 ![Accessibility](../assets/SimplyHired_accessibility.png)
-simplyhired is really hlepful to find the job you are looking for, but I'm really disopointed that it doesn't show great accessibility. If I could do something about I would implement screen readers, also build the support group that would be able to help the user that has special needs.
+simplyhired is really helpful to find the job you are looking for, but I'm really disappointed that it doesn't show great accessibility. If I could do something about I would implement screen readers, also build a support group that would be able to help the user that has special needs.
 
 4. 
 ![Navigation](../assets/SimplyHired.png)
-A lot of things on the website were hiden on the top right corner tab. I would take some things like, company pages, and saved jobs to the top for better access.
+A lot of things on the website were hidden on the top right corner tab. I would take some things like company pages and saved jobs to the top for better access.
 
 5. 
 ![email](../assets/SimplyHired_no%20email.png)
-I have found that it did not let me to connect my email. If I would like to get notefications on the email about potential jobs oppening, it could be problemetic. I would definatly allaw the email to be connected. Without the email user woudn't be able to to get notified about jobs oppenings or notefications from simplyhired.
+I have found that it did not let me connect my email. If I would like to get notifications on the email about potential jobs opening, it could be problematic. I would definitely allow the email to be connected. Without the email, the user wouldn't be able to get notified about job openings or notifications from simplyhired.
 
 6. 
 ![Sign-Up](../assets/SimplyHired_sign-up.png)
-When I was trying to sign up I have found that there was a proble with signing up using google account. So, all that was left is using faccebook account. This is really problemetic, especialy if the user doesn't have facebook acount. I would probably add more sign up opptions like, using emails, phone number, username and password, and many others. 
+When I was trying to sign up I have found that there was a problem with signing up using a google account. So, all that was left is using the Facebook account. This is really problematic, especially if the user doesn't have a Facebook account. I would probably add more sign-up options like using emails, phone numbers, username and password, and many others. 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? | 2  |  simplyhired.com is well intuitive website and there should be no problem finding things, or figuring out how something works. One thing that could be improved is to take some tabs out from the top right corner unroling tab, and place some of them on top foe essier access. |
-| 2. **Users are busy:** Did this site value your time?  |  3 |  simplyhired has really fast sign up procces. Also, users are still able to search for the jobs even without signing-up. |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | simplyhired.com is really clean website where there is not much extra information or ditails at all. When searching for the jobs, only important information about the position is presented.  |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2 |  simplyhired.com does really good job with sign-up proccess, where it takes just couple steps and job search. When searching for the job it tells you what to enter where and so on. One thing that simplyhired could have done better is take the user through the steps to set up the profile for comfterable use. After the user have sign-up, they are on their owen. |
-| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | simplyhired.com does not use much words while still still explaining everithing that they need to. The most words it uses on one page is all the way on the buttom where it includes sections like contect us, social medias, and so on.  |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 | The navigation on the webside felt pretty good. The website has the menu bar that is alway on the top, and if teh user is stuck, there is always the way back.  |
+| 1. **Don't make me think:** How intuitive was this site? | 2  |  simplyhired.com is a well intuitive website and there should be no problem finding things, or figuring out how something works. One thing that could be improved is to take some tabs out from the top right corner unrolling tab and place some of them on top for easier access. |
+| 2. **Users are busy:** Did this site value your time?  |  3 |  simplyhired has a really fast sign-up process. Also, users are still able to search for jobs even without signing-up. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | simplyhired.com is a really clean website where there is not much extra information or details at all. When searching for jobs, only important information about the position is presented.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2 |  simplyhired.com does a really good job with the sign-up process, where it takes just a couple of steps for a job search. When searching for the job it tells you what to enter where and so on. One thing that simplyhired could have done better is take the user through the steps to set up the profile for comfortable use. After the user has sign-up, they are on their own. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | simplyhired.com does not use many words while still explaining everything that they need to. Most words it uses on one page are all the way on the bottom where it includes sections like contact us, social media, and so on.  |
+| 6. **Navigation:** How effective was the workflow/navigation of the site? |  3 | The navigation on the website felt pretty good. The website has a menu bar that is always on the top, and if the user is stuck, there is always a way back.  |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 0  | The website doesn't look to be working with people that have accessibility issues.   |
 | **TOTAL** |  16 |   |
 
@@ -105,11 +105,11 @@ When I was trying to sign up I have found that there was a proble with signing u
 
 | Use Case #1 | |
 |---|---|
-| Title | See the ditails of broken pump |
-| Description / Steps | The Maintenance worker would have to open the tab with damaged hand water pumps, and select the one that is in thier area. |
+| Title | See the details of broken pump |
+| Description / Steps | The Maintenance worker would have to open the tab with damaged hand water pumps and select the one that is in their area. |
 | Primary Actor | Maintenance worker |
-| Preconditions | The Maintenance Worker needs to be a member of maintenance Organization. The Maintenance worker is signed-up. The Maintenance worker autorized to view the data.  |
-| Postconditions | The maintenance worker is able to view the list of broken water pumps in thier location. The maitenance worker was also able to view the details about selected water pump  |
+| Preconditions | The Maintenance Worker needs to be a member of the maintenance organization. The Maintenance worker is signed-up. The Maintenance worker is authorized to view the data.  |
+| Postconditions | The maintenance worker can view the list of broken water pumps in their location. The maintenance worker was also able to view the details about the selected water pump  |
 
 ## Step 3.2 Identifier a competitive product
 
@@ -123,22 +123,22 @@ List of Competitors
 ### Charity: Water
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 | Find the fundraise page |  The user should open the fundraise page through involvement tab |
-| 2 |  Sign up | The user needs to sign up in order to creat fundraiser campain  |
-| 3 |  Create the campain |  The user needs to come up with the name and amount of money that they wish ro come up with |
-| 4 | Make first donation to created campaign |  To make a donation user has to enter the bank card information or use paypal |
-| 5 |  Invite more people into the campaine | To invite more people to the campain user is providet with the options to use facebook, twitter. User also can use their owen options of spreding the word about this campain  |
+| 1 | Find the fundraising page |  The user should open the fundraising page through the involvement tab |
+| 2 |  Sign up | The user needs to sign up in order to create a fundraiser campaign  |
+| 3 |  Create the campaign |  The user needs to come up with the name and amount of money that they wish to come up with |
+| 4 | Make the first donation to created campaign |  To make a donation user has to enter the bank card information or use PayPal |
+| 5 |  Invite more people into the campaign | To invite more people to the campaign user is provided with the options to use Facebook, Twitter. User also can use their own options of spreading the word about this campaign  |
 
 ## Step 3.4 Observe User Interactions
 
 ### Charity: Water
 | Step | Tasks | Observation |
 |---|---|---|
-| 1 | Find the fundraise page |  After making visual observation of the page partisipent have choce to click on "Get Involved Tab". From there partisipent choce to click on Fundraiser tab. Participant coment that it was wairly eassy to find.|
-| 2 |  Sign up | After I told the participant to sign up, he quickly clicked sign-in tab. After asking him why he did that, he said: "I clicked sign-in knowing that if I don't have an account, it will give me the opptions to sign-up". The participant was pleased to know that his predicament was right. After entering email, name, and password, participant was instenly signed up. The participant said that he expected it to have more uptions of how the user could sign-up. |
-| 3 |  Create the campain |  After i told the participant to create the campain, it took couple seconds to remember that he have saw the button to creat the campain on fundraiser page. The participant said that It probably would have take him longer to find where to create the campain at, if he would visit the fundraiser page before. After finding were to create the campaign all that participant had to do is enter the name for the campaign and amount of money the he would like to rais. The participant was pleasantly suprised how little it requiered to create the campaign. He said: "I though it would take a lot more steps than that, and that I would need to provide a lot more information. |
-| 4 | Make first donation to created campaign |  To make first donnation into earlier created campaign participant have first clicked on the donate button. Where he have found that donation to his campaign can not be made from there. After that participant nevigated to "Get Involved tab" where from he navigated to "Support a Campaign". After that he have searched the name of early created campaign, which was "Need water for summer", and have found one that he have created. To donate he entered the amount and hist name, where from he proccede to entering banking information or chosing PayPal. The participant have said that it was somewhat frustrated that he had to look hard for the campaign that he have created. Also, he said that donation procces was really simple and easy, and that after knowing where the campaign is stored it is no problem to get to it. |
-| 5 |  Invite more people into the campaine | To invite more people to the campain user is providet with the options to use facebook, twitter. User also can use their owen options of spreding the word about this campain  |
+| 1 | Find the fundraising page |  After making a visual observation of the page participant have chosen to click on the "Get Involved Tab". From there participant chose to click on the Fundraiser tab. Participant comment that it was fairly easy to find.|
+| 2 |  Sign up | After I told the participant to sign up, he quickly clicked the sign-in tab. After asking him why he did that, he said: "I clicked sign-in knowing that if I don't have an account, it will give me the option to sign-up". The participant was pleased to know that his predicament was right. After entering email, name, and password, the participant was instantly signed up. The participant said that he expected it to have more options of how the user could sign-up. |
+| 3 |  Create the campaign |  After I told the participant to create the campaign, it took a couple of seconds to remember that he had sawed the button to create the campaign on the fundraiser page. The participant said that it probably would have taken him longer to find where to create the campaign if he wouldn't have visited the fundraiser page before. After finding where to create the campaign all that participant had to do is enter the name for the campaign and the amount of money he would like to raise. The participant was pleasantly surprised by how little is required to create the campaign. He said: "I thought it would take a lot more steps than that, and that I would need to provide a lot more information. |
+| 4 | Make the first donation to created campaign |  To make the first donation into an earlier created campaign the participant has first clicked on the donate button. Where he has found that donations to his campaign can not be made from there. After that participant navigated to the "Get Involved tab" wherefrom he navigated to "Support a Campaign". After that, he has searched the name of the early created campaign, which was "Need water for summer", and have found one that he has created. To donate he entered the amount and his name, wherefrom he proceeded to entering banking information or choosing PayPal. The participant has said that he was somewhat frustrated that he had to look hard for the campaign that he has created. Also, he said that the donation process was really simple and easy and that after knowing where the campaign is stored it is no problem to get to it. |
+| 5 |  Invite more people into the campaign | After I told the participant to invite more people into the campaign, he asked me a question: "Do Charity Water provides any ways to inform people about the campaign, or do I need to copy the URL and post it on the social media?". I told him that there are some methods they provide to spread the word about the campaign. After getting my answer, the participant navigated to the early created campaign, where he had found two social media tabs that were located beside the edit campaign button. After clicking on it he almost immediately figured out that it was for telling people about the campaign. The participant said: "It was not too hard to find the two tabs that were created for campaign advertisement, because Artur has told me that something that I'm looking for is there. But, I feel like some people probably wouldn't know what those buttons are for, and would use copied URL as the way of advertisement". The participant was also disappointed with so few options of campaign advertisement. |
 
 ## Step 3.5 Findings
 Organize your findings here.
