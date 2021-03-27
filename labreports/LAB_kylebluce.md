@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Kyle Luce  
 **GitHub Handle:** https://github.com/kylebluce  
-**Repository:** https://github.com/kylebluce/cis411_lab3_uiux
+**Repository:** https://github.com/kylebluce/cis411_lab3_uiux   
 **Collaborators:** Wesley Cheah, Micah Johnson, Annika Kowalski, and Josiah McCracken
 ___
 
