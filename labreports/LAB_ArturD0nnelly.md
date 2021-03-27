@@ -21,7 +21,34 @@ ___
 | simplyhired.com | 7/10 | simplyhired.com is well designed website that takes only couple minuts to sign up. On the begginning there is unnesesery information on the buttom. It shows the jobs around you. Without knowing what the person is looking for, thins information in unrelevent and not needet. When searching for the job it provides all information that is needet, like salary , location, ratings, discription |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+
+1. 
+![Preferences](../assets/indeed_job_search.png)
+Something that I really liked about indeed is that in allowed alot of options of how to search for the job. So, the user would have better experince looking for the job that is wanted.
+ 
+2. 
+![Resume](../assets/indeed_resume.png)
+One future that I have found interesting and I think really usefull is that indeed could create resume for you. The resume is created from the information that is entered during the sign-up.
+
+3. 
+![Reviews](../assets/indeed_review.png)
+I have found the companies reviews really helpfull. I really like that indeed has a tab where the user can look up the reviews on different companies. This future can be really helpful if the user doesn't have the company in mined.
+
+4. 
+![Sign-Up](../assets/indeed_sign-up.png)
+When I was signing up, I really liked that it had a scale on the top that says what you need to complete to finish. This is really hepful if the person is really inpatient or doesn't have much time.
+
+5. 
+![Error](../assets/indeed_skills.png)
+There was one thing that I found to be really annoying. When I was entering the skills I clicked enter without having the skill entered, and after that it would not let me move on to the next step without reloading the page. There is nothing much that I would do besids fixing this error.
+
+6. 
+![Spelling](../assets/indeed_speling.png)
+One little thing that I thought was really interesting, is that indeed has it's owen speling check. This is really helpful, since many can make simple mistakes when feeling out the profile and the spelling errors would make the user look bad.
+
+7.
+![Accessibility](../assets/indeed_accessibility.png)
+I think that everyone deserves to be treated well. So, I really like that indeed is dedicated to provide enjoible experince to every user.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
