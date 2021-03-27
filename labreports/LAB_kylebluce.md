@@ -63,9 +63,8 @@ Insert Recorded Screenshots with captions and steps.
 
 ## Step 3.2 Identifier a competitive product
 
-List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+Competitor Goal Setting App:
+Daylio [https://daylio.net/](https://daylio.net/)
 
 ## Step 3.3 Write a Useability Test
 
