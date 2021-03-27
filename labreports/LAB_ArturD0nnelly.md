@@ -18,7 +18,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | indeed.com | 21 | indeed.com is clean looking website with eassy sign up prosess and many futures. When signning up, it provides you visual anderstanding of how long it will take to sign in, by showing you the tebs that would need to be complete. There is no problmes signing up and by uploading the resume it will feel in some blanks using the information from resume. Searching for the jobs is couple step process and the results are most relevent with all information that is needet, like salary , location, ratings, discription.    |
-| simplyhired.com | 7/10 | simplyhired.com is well designed website that takes only couple minuts to sign up. On the begginning there is unnesesery information on the buttom. It shows the jobs around you. Without knowing what the person is looking for, thins information in unrelevent and not needet. When searching for the job it provides all information that is needet, like salary , location, ratings, discription |
+| simplyhired.com | 16 | simplyhired.com is well designed website that takes only couple minuts to sign up. On the begginning there is unnesesery information on the buttom. It shows the jobs around you. Without knowing what the person is looking for, thins information in unrelevent and not needet. When searching for the job it provides all information that is needet, like salary , location, ratings, discription |
 
 ## 2.2 Site 1
 
@@ -66,14 +66,14 @@ Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  |  simplyhired.com is well intuitive website and there should be no problem finding things, or figuring out how something works. One thing that could be improved is to take some tabs out from the top right corner unroling tab, and place some of them on top foe essier access. |
+| 2. **Users are busy:** Did this site value your time?  |  3 |  simplyhired has really fast sign up procces. Also, users are still able to search for the jobs even without signing-up. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | simplyhired.com is really clean website where there is not much extra information or ditails at all. When searching for the jobs, only important information about the position is presented.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2 |  simplyhired.com does really good job with sign-up proccess, where it takes just couple steps and job search. When searching for the job it tells you what to enter where and so on. One thing that simplyhired could have done better is take the user through the steps to set up the profile for comfterable use. After the user have sign-up, they are on their owen. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | simplyhired.com does not use much words while still still explaining everithing that they need to. The most words it uses on one page is all the way on the buttom where it includes sections like contect us, social medias, and so on.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 | The navigation on the webside felt pretty good. The website has the menu bar that is alway on the top, and if teh user is stuck, there is always the way back.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 0  | The website doesn't look to be working with people that have accessibility issues.   |
+| **TOTAL** |  16 |   |
 
 
 # Step 3 Competitive Usability Test
