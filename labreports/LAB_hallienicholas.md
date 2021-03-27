@@ -99,11 +99,12 @@ List of Competitors
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Navigate to [Charity Water's Site](charitywater.org/)  |   |
+| 2 |  Begin to make a $50 monthly donation to the foundation. |  Will need to enter "other amount" in the donation box upon entering the home page - pretty simple |
+| 3 | Find out how many countries have been served through this foundation.  |  Will need to navigate to "Our Work" tab and read the stats |
+| 4 | Find the pump in Rassamtounde and figure out the population of people with access to the water.|  Search that pump and see info about it, viewing the stats |
+| 5 |  State what type of system is installed in that same pump from step 4. | The system is named in the top right of the information page for that pump  |
+| 6 | Give $150 in my honor, and design a card to print at home | Need to scroll to the bottom to "give in someone's honor" and design a card by following the instructions after choosing an amount. |
 
 ## Step 3.4 Observe User Interactions
 
