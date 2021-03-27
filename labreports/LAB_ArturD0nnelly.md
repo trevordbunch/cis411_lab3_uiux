@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| indeed.com | 21 | indeed.com is clean looking website with eassy sign up prosess and many futures. When signning up, it provides you visual anderstanding of how long it will take to sign in, by showing you the tebs that would need to be complete. There is no problmes signing up and by uploading the resume it will feel in some blanks using the information from resume. Searching for the jobs is couple step process and the results are most relevent with all information that is needet, like salary , location, ratings, discription.    |
-| simplyhired.com | 16 | simplyhired.com is well designed website that takes only couple minuts to sign up. On the begginning there is unnesesery information on the buttom. It shows the jobs around you. Without knowing what the person is looking for, thins information in unrelevent and not needet. When searching for the job it provides all information that is needet, like salary , location, ratings, discription |
+| indeed.com | 21 | indeed.com is clean looking website with eassy sign up prosess and many futures. When signning up, it provides you visual anderstanding of how long it will take to sign in, by showing you the tabs that would need to be complete. There is no problmes signing up and by uploading the resume it will feel in some blanks using the information from resume. Searching for the jobs is couple step process and the results are most relevent with all information that is needet, like salary , location, ratings, discription. The website is also really clean without extra working or unneeded information. |
+| simplyhired.com | 16 | simplyhired.com is well designed website that takes only couple minuts to sign up. On the begginning there is unnesesery information on the buttom. It shows the jobs around you. Without knowing what the person is looking for, thins information in unrelevent and not needet. When searching for the job it provides all information that is needet, like salary, location, ratings, discription. The website is really clean looking, has no unnesesery information, and provides most useful tabs. Unfortunatly navigation prosses is not perfoct and can be improwed. |
 
 ## 2.2 Site 1
 
@@ -62,7 +62,30 @@ I think that everyone deserves to be treated well. So, I really like that indeed
 | **TOTAL** |  21 |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+
+1. 
+![Encryption](../assets/SimplyHired%20email%20encription.png)
+Something that I have found to be really cool and helpful is the fact that simplyhired changed my email visualy, so no one who in not intended to see it would have acces to it. 
+
+2. 
+![Resume_Builder](../assets/SimplyHired%20resume_builder.png)
+simplyhired has the resume builder that helps the user to build the resume. I really like that this webside helps the user to build the resume, so they can seccesfully ge the job.
+
+3. 
+![Accessibility](../assets/SimplyHired_accessibility.png)
+simplyhired is really hlepful to find the job you are looking for, but I'm really disopointed that it doesn't show great accessibility. If I could do something about I would implement screen readers, also build the support group that would be able to help the user that has special needs.
+
+4. 
+![Navigation](../assets/SimplyHired.png)
+A lot of things on the website were hiden on the top right corner tab. I would take some things like, company pages, and saved jobs to the top for better access.
+
+5. 
+![email](../assets/SimplyHired_no%20email.png)
+I have found that it did not let me to connect my email. If I would like to get notefications on the email about potential jobs oppening, it could be problemetic. I would definatly allaw the email to be connected. Without the email user woudn't be able to to get notified about jobs oppenings or notefications from simplyhired.
+
+6. 
+![Sign-Up](../assets/SimplyHired_sign-up.png)
+When I was trying to sign up I have found that there was a proble with signing up using google account. So, all that was left is using faccebook account. This is really problemetic, especialy if the user doesn't have facebook acount. I would probably add more sign up opptions like, using emails, phone number, username and password, and many others. 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
