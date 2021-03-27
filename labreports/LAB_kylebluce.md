@@ -2,15 +2,15 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Kyle Luce  
+**GitHub Handle:** https://github.com/kylebluce  
+**Repository:** https://github.com/kylebluce/cis411_lab3_uiux
+**Collaborators:** Wesley Cheah, Micah Johnson, Annika Kowalski, and Josiah McCracken
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
