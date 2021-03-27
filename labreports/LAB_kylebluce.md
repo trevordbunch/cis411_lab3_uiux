@@ -5,7 +5,7 @@ ___
 **Name:** Kyle Luce  
 **GitHub Handle:** https://github.com/kylebluce  
 **Repository:** https://github.com/kylebluce/cis411_lab3_uiux   
-**Collaborators:** @wesleyyycheah, @mcjo163, Annika Kowalski, @scribhneoir
+**Collaborators:** @wesleyyycheah, @mcjo163, @AnnikaKowalski, @scribhneoir
 ___
 
 # Step 1: Confirm Lab Setup
