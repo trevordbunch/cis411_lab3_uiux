@@ -83,17 +83,17 @@ Next is an image of where that link takes you.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | As a maintenance worker I want to be able to effectively access and manage my assigned pumps.|
+| Description / Steps | This use case describes how the maintenance worker gains access to and information about his or her assigned pump(s) through this service.|
+| Primary Actor | Maintenance worker|
+| Preconditions | 1) Maintenance worker is authorized to view data 2) Worker has created an IWA account|
+| Postconditions | 1) Worker is able to sign into his or her account 2) Worker is able to see stats and manage his or her pump 3) Maintenance worker is able to communicate with other workers to get supplies if needed |
 
 ## Step 3.2 Identify a competitive product
 
 List of Competitors
 1. Competitor 1 [Charity Water](https://www.charitywater.org/)
-2. Competitor 2 [Bangarang Peter - find another one**](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+2. Competitor 2 [World Vision](https://www.worldvision.org/?campaign=400036866&ds_rl=1274668&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgU7ukqX4vKE42NVsl9UL7w71xycTRLFIk7WihWUCZdiS7cX9iGSjgxoCO5oQAvD_BwE&gclsrc=aw.ds)
 
 ## Step 3.3 Write a Useability Test
 
@@ -119,4 +119,7 @@ List of Competitors
 Organize your findings here.
 
 # Extra Credit
-If you opt to do extra credit, then include it here.
+
+**"Don't assume."**
+
+You know what they say, assuming makes an *** out of "u" and "me"... Regarding UI/UX design, this means not just assuming that you know your audience or what they want from your service or page. You are not the user, you are the designer; therefore, you exist for their benefit and should be putting yourself in their shoes the whole time. Do not forget the vision of the site you are creating and what it will be used for. It is definitely helpful to get advice from others throughout the process and perform usability tests. Additionally, I would say don't make rash decisions design-wise based on what you are assuming would be good or bad for the site. You should instead use data to back up your decisions collected from tools such as Hotjar.
