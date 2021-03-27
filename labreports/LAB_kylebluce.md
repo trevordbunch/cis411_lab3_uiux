@@ -5,7 +5,7 @@ ___
 **Name:** Kyle Luce  
 **GitHub Handle:** https://github.com/kylebluce  
 **Repository:** https://github.com/kylebluce/cis411_lab3_uiux   
-**Collaborators:** Wesley Cheah, Micah Johnson, Annika Kowalski, and Josiah McCracken
+**Collaborators:** @wesleyyycheah, @mcjo163, Annika Kowalski, @scribhneoir
 ___
 
 # Step 1: Confirm Lab Setup
@@ -55,11 +55,11 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Create a Goal |
+| Description / Steps | 1. User navigates to the goals tab. </br> 2. User selects the green plus button. </br> 3. User inputs name of goal, type of measurement, and color for the goal. </br> 4. User selects friends to share the goal with. </br> 5. User selects the frequency that the app will check-in on the goal. </br> 6. User selects "Create" to create the goal. |
+| Primary Actor | Emotive User |
+| Preconditions | The user has an account created with Emotive, and they are currently logged in. |
+| Postconditions | The new goal is added to the user's account and shared with friends. |
 
 ## Step 3.2 Identifier a competitive product
 
