@@ -25,19 +25,19 @@ ___
 
 - This is the landing page for Glassdoor. As you can see there was an ease to signing up as you could signup through Google or Facebook I personally chose Google. It was a one-click signup.
 
-![Glassdoor After Signup](/assets\Glassdoorafter.png)
+![Glassdoor After Signup](/assets/Glassdoorafter.png)
 
 - After signing up Glassdoor asked questions about what I was looking for.
 
-![Glassdoor Questions](/assets\GlassdoorQuestionspng.png)
+![Glassdoor Questions](/assets/GlassdoorQuestionspng.png)
 
 - What I did not like was the questions that went on like in this screen shot where they were digging into my current job. If I wanted to upload that information I will do that at a later time. Do not ask me this in the signup process.
 
-![Glassdoor Skills](/assets\Glassdoorskills.png)
+![Glassdoor Skills](/assets/Glassdoorskills.png)
 
 - Glassdoor has a very nice skills section that actually just read my resume and automatically filled in the information which was very nice.
 
-![Glassdoor Jobs](/assets\GlassdoorJobs.png)
+![Glassdoor Jobs](/assets/GlassdoorJobs.png)
 
 - I really liked the process of searching for a job on Glassdoor. It was nice because they gave you the job description but also gave you a toolbar that left the other job opportunities on the screen.
 
@@ -55,19 +55,19 @@ ___
 
 ## 2.3 ZipRecruiter
 
-![Zip Creation](/assets\ZipCreate.png)
+![Zip Creation](/assets/ZipCreate.png)
 
 - When signing up for ZipRecruiter it was interesting because they asked you for your interests before an email or name which is not normal but in my opinion a good touch
 
-![Zip Page](/assets\Zippage.png)
+![Zip Page](/assets/Zippage.png)
 
 - After only a few questions and uploading my resume ZipRecruiter made this page with all of my skills including everything that was on my resume
 
-![Zip Skills](/assets\Zipskills.png)
+![Zip Skills](/assets/Zipskills.png)
 
 - The skills portion of the main page was very easy to navigate
 
-![Zip Jobs](/assets\ZipJobs.png)
+![Zip Jobs](/assets/ZipJobs.png)
  
  -The job searching portion of ZipRecruiter was interesting. Instead of focusing on only only job it showed you many different opportunities and made the one the you were focusing on slightly bigger. 
 
