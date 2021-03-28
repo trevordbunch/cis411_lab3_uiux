@@ -113,8 +113,9 @@ List of Competitors
 | 1 |   |   |
 | 2 |   |   |
 | 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 4 |   |   |
+| 5 |   |   |
+| 6 |   |   |
 
 ## Step 3.5 Findings
 Organize your findings here.
