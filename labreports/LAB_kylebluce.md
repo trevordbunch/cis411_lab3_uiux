@@ -21,7 +21,30 @@ ___
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+
+![ZipRecruiter1](/labreports/Zip1.png)
+
+This screenshot is the home page of ZipRecruiter. There is no "Create an Account" Button, but the "Get Started" seems to be what they want you to do. They take the location of the user to search jobs in the area. There is a sign-in and post a job button in the top right.
+
+![ZipRecruiter2](/labreports/Zip2.png) 
+
+This is the first step in the account process after clicking Get Started. This would be good for someone who knows exactly what they are looking for.
+
+![ZipRecruiter3](/labreports/Zip3.png) 
+
+This next step is nice because I am currently not looking for work, so it is nice to have that option to click.
+
+![ZipRecruiter4](/labreports/Zip4.png)
+
+This step showed five different jobs that related to my interests, but most of them seemed out of my experience level, so I just skipped through them all.
+
+![ZipRecruiter5](/labreports/Zip5.png) 
+
+This step was really nice because I could upload my resume, although it got some of the information wrong when it translated it to my profile.
+
+![ZipRecruiter6](/labreports/Zip6.png) 
+
+This job search feature is pretty routine. Nothing really stood out to me.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -35,7 +58,21 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+![SnagAJob1](/labreports/Snag1.png)
+
+This is the home page for SnagAJob. I like how it has the "Create a Profile" as well as the quick job search option, but it is confusing what option I should pick. I clicked create a profile.
+
+![SnagAJob2](/labreports/Snag2.png) 
+
+I was not of fan of their profile creation. They didn't have a spot for me to upload my resume. It just seemed very crowded.
+
+![SnagAJob3](/labreports/Snag3.png)
+
+I like that they have a section to put in availability and job interests. This seems like a good site if you really want to spend a lot of time putting in information.
+
+![SnagAJob4](/labreports/Snag4.png) 
+
+I like their job search feature, but it feels very similar to every other job recruiting website.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
