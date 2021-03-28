@@ -95,7 +95,7 @@ List of Competitors
 1. Competitor 1 [Charity Water](https://www.charitywater.org/)
 2. Competitor 2 [World Vision](https://www.worldvision.org/?campaign=400036866&ds_rl=1274668&gclid=CjwKCAjwr_uCBhAFEiwAX8YJgU7ukqX4vKE42NVsl9UL7w71xycTRLFIk7WihWUCZdiS7cX9iGSjgxoCO5oQAvD_BwE&gclsrc=aw.ds)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
@@ -110,18 +110,37 @@ List of Competitors
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| 4 |   |   |
-| 5 |   |   |
-| 6 |   |   |
+| 1 | Navigate to [Charity Water's Site](charitywater.org/) |  User easily accessed site using the url |
+| 2 |  Begin to make a $50 monthly donation to the foundation. |  This option is central on home page, so it was quickly found by user |
+| 3 |  Find out how many countries have been served through this foundation. |  User had trouble finding the page that would indicate how many have served. |
+| 4 | Find the pump in Rassamtounde and figure out the population of people with access to the water.  |  User was able to search for pump and see the pop. without even clicking for more info |
+| 5 |  State what type of system is installed in that same pump from step 4. |  User clicked for more info, but was hesitant when giving the answer. |
+| 6 |  Give $150 in my honor, and design a card to print at home |  User did this in a different way than I anticipated, but it worked just as well and was easier. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+I wrote those instructions for the usability specifically to see how the user would complete the tasks and also to see where some points of confusion may be throughout the process. I had my roommate, Tori follow these steps; she is a very tech savvy person and is extremely quick when it comes to navigating through online platforms, as she is a graphic design major. So, I wanted to see where she got tripped up or lost on the site, if at all. She had no problem navigating to the site which she did by copying and pasting the url. For step 2, she then proceeded with ease to pretend to make a $50 donation, as the site makes that easily accessible to visitors. Step 3 was where the confusion was; she went to the menu navigation items at the top, but wasn't sure exactly which tab to go to in order to view the countries served. She went through a couple tabs before coming to the "our work" tab where she found the answer. After this, she suggested that maybe if it said "our impact" she would've found the dashboard she was looking for in a quicker way because the wording would be more straight-forward. Next, step 4 involved searching for a pump in a certain place in Burkina Faso which Tori did without hesitation, and didn't even click for more info and was able to see the population of the pump as well as the type of system installed. However, to make sure it was the system she was looking at, she went into more information about that place. She said that it was not clearly marked, and not having an engineering or very tehcnical background made her second guess her ability to define what the system they were stating was. Lastly, Tori ended up going back to the home page in order to donate, where she found a little button at the bottom of the donate box that said "donate in someone's honor". She then made a card and easily donated in my honor. When testing it out myself, I found a different way to do it, but Tori ended up finding an easier way which is great and shows that the designers of the site definitely were thinking of user convenience when they added that feature.
 
+**Three improvements I think could be made for usability:**
+
+* The menu items could be worded differently, especially when it comes to the "Our Work" tab, so that users clearly know what that tab will show them, and donors can more easily get to the dashboard.
+* Instead of just naming the type of system, there are a lot of site visitors who don't know much about pumps or technicalities, so they might want to clearly state that that is the system type that they have included there.
+* When Tori made the browser window smaller, it was a little bit harder to navigate. So, I think the designers might want to look into making the responsiveness of the website a little better to improve user experience.
+
+**Beneficial experiences to the user: (outlined in more detail above)**
+
+* Having to think beyond what she previously had in mind regarding what certain tabs might mean, and navigating through to find what she was looking for.
+* Discovering multiple ways to perform certain tasks on the site.
+
+**What the team did well:**
+I think we asked the right questions in order to challenge the user and realistically assess usability of the site.
+
+**Improvements for next time:**
+I believe next time my team should take a video of the user performing the tasks and analyze/discuss further what was going through the user's head throughout the test. This would ensure that we are completely putting ourselves in their shoes and making sure we fully understand what the user is expecting and dealing with while they are on the site.
+
+**Brief Statement:**
+I had a positive experience while conducting this usability test and was able to gain valuable insight into the user and their experience with the site in question.
 # Extra Credit
 
 **"Don't assume."**
 
-You know what they say, assuming makes an *** out of "u" and "me"... Regarding UI/UX design, this means not just assuming that you know your audience or what they want from your service or page. You are not the user, you are the designer; therefore, you exist for their benefit and should be putting yourself in their shoes the whole time. Do not forget the vision of the site you are creating and what it will be used for. It is definitely helpful to get advice from others throughout the process and perform usability tests. Additionally, I would say don't make rash decisions design-wise based on what you are assuming would be good or bad for the site. You should instead use data to back up your decisions collected from tools such as Hotjar.
+There is a famous saying about what assuming does, but I will not say it here in order to maintain professionalism. However, it is not a good thing. Regarding UI/UX design, this statement means not just assuming that you know your audience or what they want from your service or page. You are not the user, you are the designer; therefore, you exist for their benefit and should be putting yourself in their shoes the whole time. Do not forget the vision of the site you are creating and what it will be used for. It is definitely helpful to get advice from others throughout the process, which I learned from performing my first usability test within this lab. Additionally, I would say don't make rash decisions design-wise based on what you are assuming would be good or bad for the site. You should instead use data to back up your decisions collected from tools such as Hotjar.
