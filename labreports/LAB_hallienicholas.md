@@ -6,6 +6,7 @@ ___
 **GitHub Handle:** hallienicholas  
 **Repository:** https://github.com/hallienicholas/cis411_lab3_uiux.git
 **Collaborators:** 
+ ArturD0nnelly
 ___
 
 # Step 1: Confirm Lab Setup
