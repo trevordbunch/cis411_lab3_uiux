@@ -20,8 +20,8 @@ ___
 
 | Site | Score | Summary |
 |---|---|---|
-| [Indeed](https://indeed.com) | Score 1 | Summary 1 |
-| [Monster](https://monster.com) | Score 2 | Summary 2 |
+| [Indeed](https://indeed.com) | 19/21 | Well-designed but the initial setup process took a lot more time than it needed to. |
+| [Monster](https://monster.com) | 18/21 | Also well-designed, with a style a bit more interesting than Indeed, but the accessibility was lacking. |
 
 ### 2.2 Site 1: Indeed
 
