@@ -28,11 +28,11 @@ ___
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |  3 |  Everything was on one page. |
-| 2. **Users are busy:** Did this site value your time?  |  3 |  Short application. |
+| 2. **Users are busy:** Did this site value your time?  |  3 |  Yes, short application, few questions. |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  3 | Everything was clearly laid out.  |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  3 |  It didn't bring me anywhere, I just filled out the info and they sent me a confirmation email. |
 | 5. **Omit Words:** How careful was this site with its use of copy? |  3 | Everything was straightforward, very little text at all. No repetitions. |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 | Information boxes and buttons were all clear. I navigated to aplication from home page --> careers --> direct link for poisiton. Very easy to get to.|
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 | Information boxes and buttons were all clear. I navigated to application from home page --> careers --> direct link for poisition. Very easy to get to.|
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  Clear and simple layout. No complex items |
 | **TOTAL** | 21  |   |
 
@@ -45,12 +45,12 @@ ___
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |  2 |  Getting to the application invovled some bouncing around, but once I was on the site it was pretty straightforward. |
-| 2. **Users are busy:** Did this site value your time?  |  1 |  They had me upload personal information and resume twice. |
+| 1. **Don't make me think:** How intuitive was this site? |  2 |  Getting to the application invovled some bouncing around, but once I was on the site it was pretty straightforward. It did feel like it was leading me on a rabbit trail at some points. Multiple instances were I was led to a new window on a sperate tab. Part of this is attributable to the listing for the position being on an external hiring site.|
+| 2. **Users are busy:** Did this site value your time?  |  1 |  They had me upload personal information and resume twice, this made me feel like my time wasn't that valuable to them. |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |  1 |  They told me what page of the process I was on, but that's it. I was wondering what might be next, if there was anything that might come up after the five steps, and how long it would take. Definitely could have given more information on the process.|
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  |  Yes pre-apply site asked what position you were interested in. |
 | 5. **Omit Words:** How careful was this site with its use of copy? | 2  | I was asked to submit some information twice throughout the process. Could have been better coordinated. Overall not too much wording, so nothing glaringly stands out for this.|
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2 |  Navigation was easy and clear |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2 |  Navigation was easy and clear, I made it where I wanted to in the end. |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  | Things were clearly laid out and information boxes easy to access.  |
 | **TOTAL** | 14  |   |
 
