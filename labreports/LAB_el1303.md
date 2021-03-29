@@ -96,8 +96,23 @@ List of Competitors
 
 
 ## Step 3.5 Findings
-Organize your findings here.
-Being able to register with other accounts.
+
+### Improvements
+1. Discord could give the option of making an account through an online desktop easier but it navigates the user to get the application.
+2. Something that can help users who are foreign to the application is details on the benefits and navigation of it.
+3. Needs better navigation so that Users know where to go to make groups and add friends.
+
+### Experiences
+1. Quick and easy to fill out mobile.
+2. Complicated to navigate after creating account because wasn't familiar with the application.
+
+### Team
+- My team did well in coming up with the right suggestions on what do when confronting the application.
+- Next time the team can be more elaborate in the steps to take for those who aren't technically savvy.
+
+### My Experience
+
+- My experience with conduction the User was easy but complicated because I had to adjust my vocabulary to make the User understand better. This was helpful to know what to do for our application in the future because the entire campus will be using the application, not just computer science majors. The navigation was complicated on what to do and where to do it because I wasn't even sure where things were because I couldn't understand the icons.
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
