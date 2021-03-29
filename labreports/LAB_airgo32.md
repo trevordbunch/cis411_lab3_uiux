@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkedIn | 15 | Much bigger focus on networking, which is obvious. Good at suggesting jobs before searching. Search is not as customizable, but it does show if people who have something in common with me work there (such as being an alumni from Messiah). |
+| Indeed | 15 | More streamlined for finding jobs. The account creation process was a little tedious with fixing information scanned from my resume, but the customizable search and comparing my Indeed Resume with jobs makes it easier to see at a glance if a job is a good fit. |
 
 ## 2.2 LinkedIn
 
@@ -103,7 +103,7 @@ I will conduct my test using Facebook.
 | 1 | Log in to Facebook | If you don't have an account, you'll need to make one  |
 | 2 | Create a new event for a soccer game | Do so with the + icon at the top right. Must complete the event creation process. Specify that it should be on April 3rd at 1pm.  |
 | 3 | Add a location  | also possible to do so during the event creation process      |
-| 4 | invite at least one friend to the game  | Easiest way is through the tab on the side      |
+| 4 | Invite at least one friend to the game  | Easiest way is through the tab on the side      |
 | 5 | Ask if someone can bring a ball  | Possible through making a post on the page  |
 
 
@@ -114,7 +114,7 @@ I asked my sister to follow the steps of creating a soccer game event on Faceboo
 | 1 | Log in to Facebook | She was logged in automatically because it was on her own computer.   |
 | 2 | Create a new event for a soccer game | She navigated to the events tab on the left side first, then created an event from there. She said it was frustrating to pick a time. Facebook's system is a big dropdown that has time intervals of 15 minutes (12:00AM, 12:15AM, 12:30AM, etc.) so it was tedious to find 1:00PM.   |
 | 3 | Add a location  | She did this during the creation process, so she didn't have to add it later |
-| 4 | invite at least one friend to the game  | She used the invite friends option on the side to invite me |
+| 4 | Invite at least one friend to the game  | She used the invite friends option on the side to invite me |
 | 5 | Ask if someone can bring a ball  | She simply created a post on the event page asking if someone could bring a ball  |
 
 ## Step 3.5 Findings
@@ -122,7 +122,3 @@ I asked my sister to follow the steps of creating a soccer game event on Faceboo
 * I think the progress bar at the bottom helped the user track how far along in the process they were, even though the process itself is very short. Also, having multiple ways to get to the event creation screen is helpful for different types of users.
 * I think the usablility test was good for letting the user figuring out the steps. It was a good test to evaluate how intuitive Facebook's system for creating events is.
 * I think a more thorough usability test would be better for next time. However, I'm not sure what the best way to approach that would be, since scheduling events is a process that tends to occur over time.
-
-
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
