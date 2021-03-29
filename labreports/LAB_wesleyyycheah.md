@@ -24,7 +24,7 @@ ___
 ![Whole_Page](ziprecruiter_profile.png)
 This is the full page of the profile. All of your personal information is listed here and you can make changes and edits to them. I really like this whole layout as it is a very simple and minimalistic layout and all your information is displayed here. </br>
 
-![Work_Experience](work_experience_zipcruiter.png)
+![Work_Experience](work_experience_ziprecruiter.png)
 This is where the user can edit the work experience. What I like about this is that the user doesn't HAVE to choose from the list of companies in their database. The user is able to just add whatever name their company has and use that. I really appreciate that as some pages don't allow that. This goes for all the ZipRecruiter screenshots I provide next. </br>
 
 ![Education](education_ziprecruiter.png)
