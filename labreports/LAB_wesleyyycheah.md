@@ -30,7 +30,7 @@ This is where the user can edit the work experience. What I like about this is t
 ![Education](assets/education_ziprecruiter.png)
 This is where the user can edit their education information. As I have stated above, I really like that the user does not have to choose from a list that they have.
 
-![Skills](assets/skills_ziprecruiter)
+![Skills](skills_ziprecruiter.png)
 This is the page where the user can edit their skills.
 
 | Category | Grade (0-3) | Comments / Justification |
