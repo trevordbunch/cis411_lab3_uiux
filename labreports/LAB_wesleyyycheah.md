@@ -21,7 +21,17 @@ ___
 | Monster | 14 | Mediocre |
 
 ## 2.2 ZipRecruiter
-Insert Recorded Screenshots with captions and steps.
+![Whole_Page](assets/ziprecruiter_profile.png)
+This is the full page of the profile. All of your personal information is listed here and you can make changes and edits to them. I really like this whole layout as it is a very simple and minimalistic layout and all your information is displayed here. 
+
+![Work_Experience](assets/work_experience_zipcruiter,png)
+This is where the user can edit the work experience. What I like about this is that the user doesn't HAVE to choose from the list of companies in their database. The user is able to just add whatever name their company has and use that. I really appreciate that as some pages don't allow that. This goes for all the ZipRecruiter screenshots I provide next.
+
+![Education](assets/education_ziprecruiter.png)
+This is where the user can edit their education information. As I have stated above, I really like that the user does not have to choose from a list that they have.
+
+![Skills](assets/skills_ziprecruiter)
+This is the page where the user can edit their skills.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -35,7 +45,21 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** | 20  | The website overall had very good user interface and experience. The website follows every rule by Steve Krug almost perfectly because when going through every process in terms of creating a profile and updating info to searching for jobs. Overall a very pleasant experience.  |
 
 ## 2.3 Monster
-Insert Recorded Screenshots with captions and steps.
+![Whole_Page](assets/monster_profile.png)
+What I really liked about Monster's profile was that I did not have to fill in a single thing. Once I uploaded my resume, the website automatically filled in everything for me. I know that it is pretty common today for job websites to fill it in automatically but Monster did it without errors. That was a huge plus from me. Other than that, it has a nice layout but one thing I dislike was the placement of the experience and education. Personally, those should be higher up so users don't have to scroll down to change those.
+
+![Contact_Information](assets/contact_information_monster,png)
+This section is where the user can edit their contact information. It is pretty simplistic and gets the job done. However, there is one thing I do not like about the entire Monster website. And that is the way the font blends in with the colors. There is something but I cannot put my finger on it. It just does not go well together. 
+
+![Skills](assets/skills_monster.png)
+This is where the user can edit their skills.
+
+![Work_Experience](assets/experience_monster.png)
+This is the page where the user can edit their work experience. Once again, I do not believe that it should be so far down.
+
+![Education](assets/education_monster.png)
+This is the page where the user can edit their education. Once again, I do not believe that it should be so far down.
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -92,5 +116,3 @@ List of Competitors
 2. I believe my team did well in terms of going simple. Even though our application is different from our competitors in terms of the social aspect, as that is our competitive edge, we went simple as to just starting low as in only focusing on creating goals. 
 3. How our team could improve next time would be how our use case can be more complicated when we confirm more of our applications features.
 
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
