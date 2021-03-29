@@ -20,7 +20,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 |Dice | <center>12</center> | Altogether pretty useful, but there were a few pages that were not clear or repetitive. |
-| Glasdoor | Score 2 | Summary 2 |
+| Glasdoor | <center> 2 </center>| Very quick and easy to use. All the relevant information was easily available to the user. |
 
 ## 2.2 Site 1
 **Home page with registration as the first thing I see.**
@@ -76,7 +76,7 @@ ___
 | 5. **Omit Words:** How careful was this site with its use of copy? | <center>2</center>  | The site did not have a lot of white space, but the information was relevant.  |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |  <center>3</center> |  Navigation was simple and easy to use |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | <center>2</center>  | The site was accessible to a mouse-less interface |
-| **TOTAL** | <center>17</center>  |   |
+| **TOTAL** | <center>17</center>  | Very quick and easy to use. All the relevant information was easily available to the user.  |
 
 
 # Step 3 Competitive Usability Test
