@@ -107,24 +107,40 @@ Competitor Goal Setting App: </br>
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Set Up An Account (Skip Goal Creation)  | Follow the prompts when you open up the app.  |
+| 2 | Create A Goal | Navigate to stats, then goals, then create goal and fill in the prompts.  |
+| 3 | Log Your Mood From the Past 3 Days | Use the plus button, then select which day and the corresponding mood.  |
+| 4 | Open Your Mood Chart | Navigate to stats and select Mood Chart. |
+| 5 | Check Out Your Weekly Report | Go to the More tab and select Weekly Reports.  |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Set Up An Account (Skip Goal Creation)  | Team Member was able to follow the Account Set-Up very easily.  |
+| 2 | Create A Goal | Team Member originally clicked on the Plus Sign which led him to the Mood Logging Page. He then went into the Stats page and found the Create Goal option. |
+| 3 | Log Your Mood From the Past 3 Days | Team Member went back to the Plus Sign he found before and inputted his moods without problems. |
+| 4 | Open Your Mood Chart | Team Member found the Mood Chart immediately by navigating to the stats section. |
+| 5 | Check Out Your Weekly Report | Team Member first scrolled through the Stats section, then went through the Calendar screen, and then found the Weekly Report in More. |
 
 ## Step 3.5 Findings
-Organize your findings here.
 
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+Improvements </br>
+-	The Plus Option should have the ability to create a goal instead of just input a mood. </br>
+-	The More section seems too vague and should be clearer what is in that section. Maybe it could be called Additional Stats. </br>
+-	Creating a goal didn’t really have a way you could measure besides a checkmark system. </br>
+
+Positives </br>
+-	The Weekly Report and Mood Chart seemed like good features for users to track their progress. </br>
+-	The Emoji based mood tracker seemed like a fun and simple way to keep track of your current mood. Didn’t take too much time. </br>
+
+What Our Team Did Well </br>
+-	Picked some simple enough tasks that didn’t take too long to complete and a few complicated tasks that were harder to find. </br>
+-	Listened well to the user as they were interacting with the app. </br>
+-	
+What Could We Improve On? </br>
+-	Finding more complicated tasks that involve more specific actions as a way to test how detailed our own app should be. </br>
+-	Finding people outside our own team to conduct the usability test. </br>
+
+The Emotive team conducted a Usability test of a common competitor called Daylio. This app is meant for tracking moods and creating goals similar to Emotive. We wanted to find out how simple it was to create a goal and complete a few other tasks on the app. We played around with the app for a bit and discovered interesting features like the Weekly Report and the Mood Chart. Our usability test went well, when one of our team members completed our tasks with only a little bit of difficulty.
+
