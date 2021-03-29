@@ -2,15 +2,15 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Felix Zarate  
+**GitHub Handle:** felixzrte 
+**Repository:** https://github.com/felixzrte/cis411_lab3_uiux  
+**Collaborators:** @Triggum @el1303 @RomanSearle @JoeV22  
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -55,36 +55,36 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Registartion |
+| Description / Steps | <ol><li>Go to landing page<li>Click register<li>Enter required fields<li>Click finish registration<li>Server receives information and stores</ol>  |
+| Primary Actor | User |
+| Preconditions | <ol><li>Database set up<li>Internet Connection<li>Messiah Student</ol> |
+| Postconditions | <ol><li>Able to edit and interact with the app<li>Sign in and Sign Out of your account<ol>  |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [www.instagram.com](www.instagram.com)
+2. Competitor 2 [Discord](wwww.discord.com)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
+| 1 | Go to discord.com/register |   |
+| 2 | Fill out the required fields (email, username, password and DOB) |   |
+| 3 | Click register once all fields are filled|   |
+| 4 | Show yourself using the desktop app |   |
 | n |   |   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
+| 1 | Go to discord.com/register | They were able to go to the site easily  |
+| 2 | Fill out the required fields (email, username, password and DOB) | This step was simple and they had no problem with filling out all the required fields. This step was pretty straight forward  |
+| 3 | Click register once all fields are filled| They had no trouble figuring out what to do after filling out all required fields  |
+| 4 | Show yourself using the desktop app | This step was simple because after they registered, it brought them right to the desktop app |
 | n |   |   |
 
 ## Step 3.5 Findings
