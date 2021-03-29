@@ -1,4 +1,4 @@
-# Lab Instructions
+x# Lab Instructions
 
 # Step 0: Create a GitHub account
 1. If you don't have a GitHub account already, [create one](https://github.com/join). If you do, **record the name of your handle in your lab report** and **record a link to one repository you either follow or star**.
