@@ -64,7 +64,7 @@ Insert Recorded Screenshots with captions and steps.
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 Daylio(https://daylio.net/)
+1. Competitor 1: [Daylio](https://daylio.net/)
 
 ## Step 3.3 Write a Useability Test
 
