@@ -24,7 +24,7 @@ ___
 ![Whole_Page](ziprecruiter_profile.png)
 This is the full page of the profile. All of your personal information is listed here and you can make changes and edits to them. I really like this whole layout as it is a very simple and minimalistic layout and all your information is displayed here. </br>
 
-![Work_Experience](work_experience_zipcruiter,png)
+![Work_Experience](work_experience_zipcruiter.png)
 This is where the user can edit the work experience. What I like about this is that the user doesn't HAVE to choose from the list of companies in their database. The user is able to just add whatever name their company has and use that. I really appreciate that as some pages don't allow that. This goes for all the ZipRecruiter screenshots I provide next. </br>
 
 ![Education](education_ziprecruiter.png)
@@ -50,7 +50,7 @@ This is the page where the user can edit their skills.
 ![Whole_Page](monster_profile.png)
 What I really liked about Monster's profile was that I did not have to fill in a single thing. Once I uploaded my resume, the website automatically filled in everything for me. I know that it is pretty common today for job websites to fill it in automatically but Monster did it without errors. That was a huge plus from me. Other than that, it has a nice layout but one thing I dislike was the placement of the experience and education. Personally, those should be higher up so users don't have to scroll down to change those. </br>
 
-![Contact_Information](contact_information_monster,png)
+![Contact_Information](contact_information_monster.png)
 This section is where the user can edit their contact information. It is pretty simplistic and gets the job done. However, there is one thing I do not like about the entire Monster website. And that is the way the font blends in with the colors. There is something but I cannot put my finger on it. It just does not go well together. </br>
 
 ![Skills](skills_monster.png)
