@@ -2,15 +2,15 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Isaac Parada  
+**GitHub Handle:** isaacparada  
+**Repository:** https://github.com/isaacparada/cis411_lab3_uiux 
+**Collaborators:**   None. Except for Hallie, who told me about Charity Water.
 ___
 
 # Step 1: Confirm Lab Setup
 - [x] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -75,12 +75,14 @@ List of Competitors
 
 ## Step 3.3 Write a Useability Test
 
+* Find Data
+
 | Step | Tasks | Notes |
 |---|---|---|
 | 1 |  Navigate to charitywater.org |  Charity Water site |
 | 2 | Click on  "Our Work" in site navigation bar at the top of the page |   |
 | 3 |  Scroll down to area with heading "The Next Step In Sustainability". Click "See our Sensors" link. |   |
-| 4 |  Scroll down to area with heading "Actionable Insghts" and click "View Dashboard" | This should open a new tab with a map  |
+| 4 |  Scroll down to area with heading "Actionable Insights" and click "View Dashboard" | This should open a new tab with a map  |
 | 5 |  On the map click the circle in Malawi (Southeastern Africa) |   |
 | 6 | Click on the circle near Chipata with a label reading "3". | This should bring you closer in on the map to another group of circles which represent well locations.|
 | 7 | Click on the furthest one to the left, nearest Chipata. This should open up a small window. There should be a link here where it says data. Click on the link | This will open a dashboard displaying statistics about the well.| 
@@ -88,16 +90,49 @@ List of Competitors
 
 ## Step 3.4 Observe User Interactions
 
-| Step | Tasks | Observations |
-|---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+Friend was: Ethan Barnes. Junior Engineering Student. 
+
+I read the steps to him just how I had them written.  
+
+| Step | Observations |
+|---|---|
+| 1 |  Quick Google search to find Charity Water site |
+| 2 |  Found "Our Work" with ease  |
+| 3 |  Found "Our Sensors" link with ease. He naturally began scrolling and looking for the section he wanted to find. |
+| 4 |  He found dashboard link with ease, also automatically scrolling and scanning for the section/link he needed.  |
+| 5 |  This next step is where he had useability issues. He stated in retrospect “I’m a little geographically challenged”, and “It took me a little while to find Malawi”. |
+| 6 |  He found this step easy, and selected the right grouping of wells. |
+| 7 |  He found the data with ease and opened the dashboard without issues. |
+| 8 |  This step was not necessary  |
+
 
 ## Step 3.5 Findings
-Organize your findings here.
+
+#### 3 improvements
+1) Finding well data was a really indirect process. Lots of steps and links you had to follow. I think if they had a more paythway that would have made this a lot easier to get to. 
+
+2) It would have been nice to see some live aggregate data for each continent.
+
+3) It would have been nice to have an option to select a well location from a series of drop down lists rather than having to navigate on the map. With the map you have to know the exact location, however, if you are looking for a specific well because it's broken, but don't know the region within the country it could be to find. 
+
+#### 2 benefits
+1) I think this offered value to the user becuase they had to work their way through lots of information to get to the data they were tasked with finding. This helped my user gain familiarity with the site and its structure. 
+2) I think going through the map was useful becuase it shows the user where in the world the charity has existing well installations. 
+
+#### What do you believe your team did well in conducting the usability test?
+I think this usability test was very relevant and similar in some aspects to what we hope to accomplish with our project, which is displaying data from the wells in a an organized format. I don't know what my teamates did for their tests so I can't speak for the rest of them. 
+
+#### What could your team improve for next time (hint: there will be a next time)?
+
+Next time I will make sure we have multiple tasks for the user, and less guidance, so they have to try to figure things out a little more on their own. 
+
+#### Offer a brief statement (no more than several sentences) about your experience conducting a usability test.
+
+This was a fun process, and my tester (Ethan did a great job). He seemed to know where to find things pretty easily which speaks to a good job done by Charity Water's site designers. Overall, I learned some interesting things about design, specifically that quick access to important functions of a site are extremely important. 
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
+
+"Keep important things close to home."
+
+Basically don't make me navigate through 5 pages to get to the information I'm looking for. Now with Charity Water, showing the well data is clearly not a primary function of the site, so it makes sense why it's not as easy to get to. But for our intelligent water project it will be a key function of the site so we need quick and direct navigation to that. Even if the navigation is clear and people know where to look for the information, they don't want to have to make a "long journey" from the homepage to the features they seek. Virtual distance is what I'm thinking about here, and I find this relates to the point about "people are busy".
