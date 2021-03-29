@@ -5,7 +5,7 @@ ___
 **Name:** Your Name  
 **GitHub Handle:** Your GitHub Handle  
 **Repository:** Your Forked Repository  
-**Collaborators:** 
+**Collaborators:**   
 ___
 
 # Step 1: Confirm Lab Setup
@@ -26,7 +26,7 @@ Insert Recorded Screenshots with captions and steps.
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **User are busy:** Did this site value your time?  |   |   |
+| 2. **Users are busy:** Did this site value your time?  |   |   |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
@@ -40,7 +40,7 @@ Insert Recorded Screenshots with captions and steps.
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **User are busy:** Did this site value your time?  |   |   |
+| 2. **Users are busy:** Did this site value your time?  |   |   |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
@@ -90,5 +90,5 @@ List of Competitors
 ## Step 3.5 Findings
 Organize your findings here.
 
-# Extra Credit
+# 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.

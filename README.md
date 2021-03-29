@@ -17,7 +17,7 @@ This lab has 2 parts:
 1. Evaluate two Online Job Search sites: Use Steve Krug's principles to assess two websites/apps.
 2. Conduct Competitive Usability Test: Assess how well a product competitor performs in a useablity test and determine the implications for your product design.
 
-Detailed instructions are [here](labreports/LAB_INSTRUCTIONS.md), and you are expected to compile your findings into a labreport following this [template](labreports/LAB_TEMPLATE.md).
+Detailed instructions are [here](LAB_INSTRUCTIONS.md), and you are expected to compile your findings into a labreport following this [template](labreports/LAB_TEMPLATE.md).
 
 ## 3. Submissions
 You are expected to create a lab report as a markdown file under the labreports directory using the **LAB_[GITHUB Handle].md** naming convention in your forked repository.  After you have reviewed your work, then you should submit a `Pull Request` to this repository with your lab report and any accompanying images/files (e.g., required diagrams).  Add the `Pull Request` URL into the courseroom LMS (Canvas) for grading.
