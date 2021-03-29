@@ -2,15 +2,15 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Robbie Dorsey  
+**GitHub Handle:** airgo32  
+**Repository:** https://github.com/airgo32/cis411_lab3_uiux  
 **Collaborators:**   
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [X] I have forked the repository and created my lab report
+- [X] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -20,21 +20,21 @@ ___
 | Site 1 | Score 1 | Summary 1 |
 | Site 2 | Score 2 | Summary 2 |
 
-## 2.2 Site 1
+## 2.2 LinkedIn
 Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
+| 1. **Don't make me think:** How intuitive was this site? |  3 | Everything I needed to access was easy to find on top  |
+| 2. **Users are busy:** Did this site value your time?  |  3 | I only had to click "Jobs" and The site instantly started displaying positions  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | LinkedIn would often link to other companies' websites to apply, so there weren't any breadcrumbs to follow |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  2 | Some of the automatic recommendations didn't match my skillsets  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2  | The profile screen in particular was hard to tell what was important to edit and what wasn't  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 1  | Many application links forced me to apply directly on the company's website, not through LinkedIn   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  2 |   |
 | **TOTAL** |   |   |
 
-## 2.3 Site 2
+## 2.3 Indeed
 Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
