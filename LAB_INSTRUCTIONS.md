@@ -28,7 +28,7 @@
    - Create an account on the site and update your skills or preferred job interests on each (if you already have an account on a given site, note that in advance, record the process of getting to your profile, and update your profile with additional / refined skill or experience information).  
    - Search for a job and take all the necessary steps right up to applying for the job (you are not required to complete the application).    
    - For each step (and under each screenshot), briefly note your observations of your relative experience using the given page. Was there anything you like? Is there anything you hate? What would you change? (You don’t need to answer these questions for every step, but these are provided to help trigger your thinking).  
-   - At the end of the two actions, take stock of the experience and grade the usability of the experience using the table below.
+   - At the end of the two actions, take stock of the experience and grade the usability of the experience using the table found in the lab template.
 
 # Step 3: Conduct Competitive Usability Test
 With your newly formed team and your assigned product, complete the following steps:
