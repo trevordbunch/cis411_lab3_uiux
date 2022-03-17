@@ -2,23 +2,23 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Abigail Garrido  
+**GitHub Handle:** ag1454  
+**Repository:** https://github.com/ag1454/cis411_lab3_uiux  
+**Collaborators:** Ryan Donat, Austin Dorsey, Kylie Firestone, Ricardo Padilla  
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkedIn | Score 1 | Summary 1 |
+| Handshake | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
@@ -35,7 +35,8 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+![Navigating to profile.](/assets/images/san-juan-mountains.jpg)
+*(Above): If I want to navigate to my preexisting profile, I click on my little PFP, then click on "My Profile.")*
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
