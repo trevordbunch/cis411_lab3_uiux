@@ -41,6 +41,9 @@ Insert Recorded Screenshots with captions and steps.
 ![Adding skill.](/assets/Handshake2.png)
 *(Above): Once navigating to my profile, I scroll down to my skills box, type in the skill I want to add, then click "Add."*
 
+![Finding a job.](/assets/Handshake3.png)
+*(Above): To find a job, you click on "Jobs." You can further filter the kind of job you want using the buttons next to the search bar.*
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
