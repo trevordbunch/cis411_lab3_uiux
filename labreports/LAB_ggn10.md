@@ -25,7 +25,7 @@ ___
 Step 1: Getting To My Previously Created Profile
   - I already have a created LinkedIn profile so all it took to get there was to click my icon in the top right corner
 
-[screenshot1](/ggn10Assets/LinkedInHomeSS.png)
+![screenshot1](/ggn10Assets/LinkedInHomeSS.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
