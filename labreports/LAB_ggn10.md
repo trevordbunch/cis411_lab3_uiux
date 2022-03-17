@@ -17,7 +17,7 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
+| LinkedIn.com | 20 | Summary 1 |
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1: LinkedIn
@@ -28,16 +28,19 @@ Home page has all access points to the critical parts of the website.
 ![LinkedIn Profile](/ggn10Assets/LinkedInProfileSS.PNG)
 Profile was very easy to create and offered great recommendations to improve my profile.
 
+![LinkedIn Job](/ggn10Assets/LinkedInJobSS.PNG)
+Job description was very in-depth and I really liked how they had a list of all job offerings in the view.
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 | Creating a profile and searching for a job was easily done and greatly assisted |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Gets right to the point; Everything I needed was right there when I first accessed LinkedIn |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | Important steps/info was made very clear through highlights and large bold boxes |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2 | Only critique I would have here is that there was so much information it was almost hard to process |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Small and accurate descriptions were always given |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | Each part of the profile creation and job search built upon itself perfectly |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3 | Linked offers a great mobile app that is very easily accessible |
+| **TOTAL** | 20  |   |
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
