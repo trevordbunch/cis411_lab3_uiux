@@ -20,8 +20,12 @@ ___
 | Site 1 | Score 1 | Summary 1 |
 | Site 2 | Score 2 | Summary 2 |
 
-## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+## 2.2 Site 1: LinkedIn
+
+Step 1: Getting To My Previously Created Profile
+  - I already have a created LinkedIn profile so all it took to get there was to click my icon in the top right corner
+
+[screenshot1](/ggn10Assets/LinkedInHomeSS.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
