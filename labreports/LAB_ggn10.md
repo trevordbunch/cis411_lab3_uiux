@@ -22,10 +22,11 @@ ___
 
 ## 2.2 Site 1: LinkedIn
 
-Step 1: Getting To My Previously Created Profile
-  - I already have a created LinkedIn profile so all it took to get there was to click my icon in the top right corner
+![LinkedIn Home](/ggn10Assets/LinkedInHomeSS.PNG)
+Home page has all access points to the critical parts of the website.
 
-![gome](/ggn10Assets/LinkedInHomeSS.PNG)
+![LinkedIn Profile](/ggn10Assets/LinkedInProfileSS.PNG)
+Profile was very easy to create and offered great recommendations to improve my profile.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
