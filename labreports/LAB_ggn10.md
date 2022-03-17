@@ -5,7 +5,7 @@ ___
 **Name:** Garrett Nissley
 **GitHub Handle:** ggn10
 **Repository:** [ggn10/cis411  ](https://github.com/ggn10/cis411_lab3_uiux)   
-**Collaborators:**   
+**Collaborators:** None
 ___
 
 # Step 1: Confirm Lab Setup
