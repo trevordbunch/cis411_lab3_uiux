@@ -44,6 +44,10 @@ Insert Recorded Screenshots with captions and steps.
 ![Finding a job.](/assets/Handshake3.png)
 *(Above): To find a job, you click on "Jobs." You can further filter the kind of job you want using the buttons next to the search bar.*
 
+![Applying for job (1).](/assets/Handshake4.png)
+![Applying for job (2).](/assets/Handshake5.png)
+*(Above 2): To apply for a job, I click on the "Apply Externally" button. For this job, I just need to submit my resume. Afterwards, I proceed with the application by pressing the "Step 2: External Application" button.*
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
