@@ -24,6 +24,11 @@ ___
 ![Navigating to profile.](/assets/LinkedIn1.png)
 *(Above): If I want to navigate to my preexisting profile, I click on my little PFP, then click on "View Profile."*
 
+![Adding skill (1).](/assets/LinkedIn2.png)
+![Adding skill (1).](/assets/LinkedIn3.png)
+![Adding skill (1).](/assets/LinkedIn4.png)
+*(Above):*
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
