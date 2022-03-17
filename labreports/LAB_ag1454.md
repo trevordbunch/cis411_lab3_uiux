@@ -36,7 +36,10 @@ Insert Recorded Screenshots with captions and steps.
 
 ## 2.3 Site 2
 ![Navigating to profile.](/assets/Handshake1.png)
-*(Above): If I want to navigate to my preexisting profile, I click on my little PFP, then click on "My Profile.")*
+*(Above): If I want to navigate to my preexisting profile, I click on my little PFP, then click on "My Profile."*
+
+![Adding skill.](/assets/Handshake2.png)
+*(Above): Once navigating to my profile, I scroll down to my skills box, type in the skill I want to add, then click "Add."*
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
