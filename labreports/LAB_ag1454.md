@@ -35,7 +35,7 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
-![Navigating to profile.](/assets/images/san-juan-mountains.jpg)
+![Navigating to profile.](/assets/Handshake1.png)
 *(Above): If I want to navigate to my preexisting profile, I click on my little PFP, then click on "My Profile.")*
 
 | Category | Grade (0-3) | Comments / Justification |
