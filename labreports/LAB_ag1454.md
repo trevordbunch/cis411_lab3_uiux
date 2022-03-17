@@ -18,10 +18,11 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | LinkedIn | Score 1 | Summary 1 |
-| Handshake | Score 2 | Summary 2 |
+| Handshake | 17 | Handshake possesses a UI/UX that should bring little frustration to their users (except on their mobile site). |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+![Navigating to profile.](/assets/LinkedIn1.png)
+*(Above): If I want to navigate to my preexisting profile, I click on my little PFP, then click on "View Profile."*
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -50,14 +51,14 @@ Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2 | Navigating to my profile was pretty intuitive since many sites, this one included, have you go to the top right of the page in order to get to your profile. Also, looking for jobs isn't too complicated since it's right there in the header on every page. My only complaints are finding the skills and "Apply" buttons: both need some scrolling to get to them. |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Even though there are some navigation points I'm going to be a stickler about, it doesn't take too long to find what you want. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | The most important steps (e.g., "Apply") are clearly marked, typically by possessing a certain coloration that makes it stand out on the site. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | When looking for a job, Handshake takes your eyes from the header (where "Jobs" is), down to where to search and filter jobs, and then down to where the results will show. You scan down from the top down to the bottom half where your interests are. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2 | Handshake was good about shortening things down to a few words, though I will gripe about the "Step 2: External Application" button. I didn't find an indicator of there being any sort of step 1, so I feel that the button could have just read "Apply Externally." |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | As demonstrated in #4, Handshake follows a natural top-to-bottom flow. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 1 | Using Handshake on my phone was not an accessible experience. Some parts of the site translated okay, but the entire site was too big, so when I would try to scroll down the site, it would sometimes misalign and scroll off to the side. |
+| **TOTAL** | 17 |  |
 
 
 # Step 3 Competitive Usability Test
