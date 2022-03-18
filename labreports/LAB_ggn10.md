@@ -18,7 +18,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | LinkedIn.com | 20 | Overall, LinkedIn is very clean website. It offers straightforward access to all critical points it offers. Profile creation was in-depth and easy. The profile creation assistant was pivotal to the creation process. The job search process was simple and all-inclusive. |
-| Site 2 | Score 2 | Summary 2 |
+| Indeed.com | 20 | Overall, Indeed is very concise and practical job search website. In comparison to LinkedIn, Indeed is much more focused on job search compared to creating and promoting your profile/network. I feel like it falters a little bit in that area especially when also analyzing LinkedIn. |
 
 ## 2.2 Site 1: LinkedIn
 
@@ -40,7 +40,7 @@ Job description was very in-depth and I really liked how they had a list of all 
 | 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Small and accurate descriptions were always given |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | Each part of the profile creation and job search built upon itself perfectly |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3 | Linked offers a great mobile app that is very easily accessible |
-| **TOTAL** | 20  |   |
+| **TOTAL** | 20 |   |
 
 ## 2.3 Site 2: Indeed
 
@@ -55,14 +55,14 @@ Job feed was very useful and I like the short and concise "What" and "Where" sea
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 | Very Intuitive and easy to traverse |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Did not waste any time getting into job searching; The first page was a job search |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2 | Slightly confusing on how to create profile but other than that very clear |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | Strong emphasis on instant job search feature |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Concise descriptions were everywhere |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | Navigation of the site was very easy and straight forward |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3 | Very spread out and easy to click on things |
+| **TOTAL** | 20 |   |
 
 
 # Step 3 Competitive Usability Test
