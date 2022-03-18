@@ -17,7 +17,7 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| LinkedIn.com | 20 | Summary 1 |
+| LinkedIn.com | 20 | Overall, LinkedIn is very clean website. It offers straightforward access to all critical points it offers. Profile creation was in-depth and easy. The profile creation assistant was pivotal to the creation process. The job search process was simple and all-inclusive. |
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1: LinkedIn
@@ -42,8 +42,16 @@ Job description was very in-depth and I really liked how they had a list of all 
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3 | Linked offers a great mobile app that is very easily accessible |
 | **TOTAL** | 20  |   |
 
-## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+## 2.3 Site 2: Indeed
+
+![Indeed Home](/ggn10Assets/IndeedHomeSS.PNG)
+Home page was direct and the first thing you see was a job search box.
+
+![Indeed Profile](/ggn10Assets/IndeedProfileSS.PNG)
+Profile was a bit scarce compared to LinkedIn
+
+![Indeed Job](/ggn10Assets/IndeedJobSS.PNG)
+Job feed was very useful and I like the short and concise "What" and "Where" search criteria's.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
