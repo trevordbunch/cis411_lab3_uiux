@@ -71,17 +71,17 @@ Job feed was very useful and I like the short and concise "What" and "Where" sea
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Add Subscription Service |
+| Description / Steps | User must verify their credentials on YourTV as well as the desired subscription service. |
+| Primary Actor | User |
+| Preconditions | User has an account and is currently logged in |
+| Postconditions | The subscription service is added and accessible to user preferences |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [truebill](www.truebill/feature/manage-subscriptions.com)
+
 
 ## Step 3.3 Write a Useability Test
 
