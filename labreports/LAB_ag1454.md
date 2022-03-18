@@ -17,7 +17,7 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| LinkedIn | Score 1 | Summary 1 |
+| LinkedIn | 16 | Pretty good UI/UX. I personally find it to be cluttered, but it's not frustrating to use. LinkedIn's mobile experience is excellent. |
 | Handshake | 17 | Handshake possesses a UI/UX that should bring little frustration to their users (except on their mobile site). |
 
 ## 2.2 Site 1
@@ -27,18 +27,26 @@ ___
 ![Adding skill (1).](/assets/LinkedIn2.png)
 ![Adding skill (1).](/assets/LinkedIn3.png)
 ![Adding skill (1).](/assets/LinkedIn4.png)
-*(Above):*
+*(Above 3): Once navigating to my profile, I scroll down to my skills box and click on the pencil. Then, I click on the "+" on the page that opens. Next, I type in the skill I want to add (which LinkedIn can autofill), and then click "Save" to add it.*
+
+![Finding a job.](/assets/LinkedIn5.png)
+*(Above): To find a job, you click on "Jobs." Without even needing to input any search criteria, LinkedIn has generated a list of jobs based on selections I made when making my profile. Some of those selections are shown towards the bottom of the above image.*
+
+![Applying for job (1).](/assets/LinkedIn6.png)
+![Applying for job (2).](/assets/LinkedIn7.png)
+![Applying for job (3).](/assets/LinkedIn8.png)
+*(Above 3): After finding a job that I liked, I clicked on the "Apply" button. That took me to a new page where if I pressed its "Apply Now" button, it took me towards the bottom of the page where I can apply for the job with LinkedIn.*
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2 | LinkedIn is intuitive, but each page tends to throw a lot of information at the user at once. You're able to find your way to the places that interest most LinkedIn users (your profile and jobs, for instance), but it takes a minute to find other resources through all of the information. |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Despite the clutter, you're still able to find the most important places of LinkedIn quickly. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | As stated above, the important places of LinkedIn are easy to find (jobs and your profile). Other information will take some time to find via scrolling. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1 | I would say that LinkedIn doesn't lead users down any sort of path. It lets users choose what they want to do rather than guiding them towards certain things. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2 | The buttons are short and sweet. LinkedIn is very "wordy," but they draw the user towards information that may interest them through the use of small graphics. This can be seen in the fifth photo I included in this section with a bright green symbol next to "Actively recruiting." |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2 | LinkedIn flows enough. It's not a flow that's found the first few times of using the site, though; I remember being a little lost when I first started to use LinkedIn. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3 | VERY good mobile version. I could tell that LinkedIn took the time to create a good mobile experience (nice and neat, information I would be most interested in while using my phone is readily available, etc.). |
+| **TOTAL** | 16 |   |
 
 ## 2.3 Site 2
 ![Navigating to profile.](/assets/Handshake1.png)
@@ -61,7 +69,7 @@ ___
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | The most important steps (e.g., "Apply") are clearly marked, typically by possessing a certain coloration that makes it stand out on the site. |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | When looking for a job, Handshake takes your eyes from the header (where "Jobs" is), down to where to search and filter jobs, and then down to where the results will show. You scan down from the top down to the bottom half where your interests are. |
 | 5. **Omit Words:** How careful was this site with its use of copy? | 2 | Handshake was good about shortening things down to a few words, though I will gripe about the "Step 2: External Application" button. I didn't find an indicator of there being any sort of step 1, so I feel that the button could have just read "Apply Externally." |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | As demonstrated in #4, Handshake follows a natural top-to-bottom flow. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | As demonstrated in category 4, Handshake follows a natural top-to-bottom flow. |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 1 | Using Handshake on my phone was not an accessible experience. Some parts of the site translated okay, but the entire site was too big, so when I would try to scroll down the site, it would sometimes misalign and scroll off to the side. |
 | **TOTAL** | 17 |  |
 
