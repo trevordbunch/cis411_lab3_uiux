@@ -27,21 +27,21 @@ ___
 ## 2.2 Site 1
 ### Indeed.com
 
-![signin1](././assets/indeed_signin1)
-![signin2](././assets/indeed_signin2)
-![signin3](././assets/indeed_signin3)
+![signin1](../../assets/indeed_signin1)
+![signin2](../../assets/indeed_signin2)
+![signin3](../../assets/indeed_signin3)
 The first three pictures correspond to the [creation of my account.](https://www.indeed.com/)
 
-![profile](././assets/indeed_profile)
+![profile](../../assets/indeed_profile)
 This is what [my profile](https://my.indeed.com/resume?from=login&continue=https%3A%2F%2Fwww.indeed.com%2F) looks like on Indeed.
 
-![search](././assets/indeed_search)
-![joblisting](././assets/indeed_joblisting)
+![search](../../assets/indeed_search)
+![joblisting](../../assets/indeed_joblisting)
 The previous two pictures show how the [job search](https://www.indeed.com/?from=gnav-resume--myind) feature works.
 
-![apply1](././assets/indeed_apply1)
-![apply2](././assets/indeed_apply2)
-![apply3](././assets/indeed_apply3)
+![apply1](../../assets/indeed_apply1)
+![apply2](../../assets/indeed_apply2)
+![apply3](../../assets/indeed_apply3)
 THe previous three pictures show the most important steps from my [job application process.](https://www.indeed.com/jobs?q=game%20design&l&vjk=b3221370c0c04ac2)
 
 
