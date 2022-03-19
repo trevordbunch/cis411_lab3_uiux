@@ -58,13 +58,13 @@ Insert Recorded Screenshots with captions and steps.
 | Title | User creating an 8-semester plan |
 | Description / Steps | Messiah student creates and saves their 8-semester plan |
 | Primary Actor | User (Messiah student) |
-| Preconditions | User signs in to application through CAS system <br> User selects courses they wish to take for a certain semester and drags them to their semester of choice <br> User hits the save button after finishing their changes |
-| Postconditions | |
+| Preconditions | User signs in to application through CAS system <br> User selects courses they wish to take for a certain semester and drags them to their semester of choice <br> User has no errors relating to their course schedule <br> User hits the save button after finalizing their changes |
+| Postconditions | User is able to sign back in later to find their saved course plan <br> User is able to change their plan at any time |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
+1. ECARPS [ECARPS](http://huggs.messiah.edu/ecarps/)
 2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
 
 ## Step 3.3 Write a Useability Test
