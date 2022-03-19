@@ -72,19 +72,21 @@ List of Competitors
 |---|---|---|
 | 1 | Sign in as a guest to the application  |   |
 | 2 | Specify your major  | Choose your major from a list of engineering majors (and minors)  |
-| 3 | Rearrange courses  |   |
-| 4 |   |   |
-| 5 |   |   |
+| 3 | Rearrange courses to mach the 8-semester plan  |   |
+| 4 | Add desired courses to the respective semester schedule  |   |
+| 5 | If necessary, fix errors associated with scheduling  |   |
+| 6 | Save all work, then sign out  |   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Sign in as a guest to the application  | Log in process was very easy, all user had to do was pass captcha proving that they were not a robot  |
+| 2 | Specify your major  | Basic process, in addition to selecting majors and minors there is also an option indicating if a student is part of the honors program  |
+| 3 | Rearrange courses to mach the 8-semester plan  | Required general education courses are indicated in a red outline, there is no problems whe nselecting a major, but selecting a minor causes some problems since the user is on the default engineering schedule  |
+| 4 | Add desired courses to the respective semester schedule  |   |
+| 5 | If necessary, fix errors associated with scheduling  |   |
+| 6 | Save all work, then sign out  |   |
 
 ## Step 3.5 Findings
 Organize your findings here.
