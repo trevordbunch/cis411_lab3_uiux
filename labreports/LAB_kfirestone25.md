@@ -5,7 +5,7 @@ ___
 **Name:** Kylie Firestone  
 **GitHub Handle:** kfirestone25  
 **Repository:** https://github.com/kfirestone25/cis411_lab3_uiux
-**Collaborators:** 
+**Collaborators:** Dorsecles, ag1454, ryandonat
 ___
 
 # Step 1: Confirm Lab Setup
@@ -21,6 +21,9 @@ ___
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
+
+CareerBuilder - https://www.careerbuilder.com/  
+(Job site I believe I would like)
 
 ![Creating Account](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=918&h=447)
 
@@ -78,27 +81,27 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Finding a Location |
+| Description / Steps | 1. User logs into account. 2. User will navigate to community map (if not already there). 3. User will click "search/filter" button and provide necessary criteria. 4. Users will click on location(s) based on the output of the search. 5. Users will choose their desired location. |
+| Primary Actor | Hiker |
+| Preconditions |1. User must have account. 2. Application has locations available and ready. 3. Connection to Internet is established.|
+| Postconditions | 1. After desired location is picked, the application should provide relevant information surrounding the location. |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1: All Trails (https://www.alltrails.com/)
+2. Competitor 2: Gaia GPS (https://www.gaiagps.com/)
+
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Searching for a trail by your city | Navigate to the main screen and input your city into the search bar. |
+| 2 | Logging into an account | From the main screen, click the "Log In" button in the top right-hand corner of the screen.|
+| 3 | Navigating to the AllTrails shop | From the main screen, hover over the drop-down list in the top left-hand corner of the screen and click on "AllTrails Gear."  |
+| 4 | Filter Trails by "Easy"  | Navigate to the Explorer Page via the button in the top left-hand corner. Find the "Difficulty" dropdown filter and select "Easy" |
 
 ## Step 3.4 Observe User Interactions
 
