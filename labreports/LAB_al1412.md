@@ -64,18 +64,17 @@ Insert Recorded Screenshots with captions and steps.
 ## Step 3.2 Identify a competitive product
 
 List of Competitors
-1. [ECARPS](http://huggs.messiah.edu/ecarps/)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1: [ECARPS](http://huggs.messiah.edu/ecarps/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Sign in as a guest to the application  |   |
+| 2 | Specify your major  | Choose your major from a list of engineering majors (and minors)  |
+| 3 | Rearrange courses  |   |
+| 4 |   |   |
+| 5 |   |   |
 
 ## Step 3.4 Observe User Interactions
 
