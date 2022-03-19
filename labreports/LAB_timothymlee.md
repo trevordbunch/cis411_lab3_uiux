@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| LinkedIn | Score 1 | Summary 1 |
-| Glassdoor | Score 2 | Summary 2 |
+| LinkedIn | 19 | LinkedIn had an easy to understand format with clear paths for users to follow to complete an action. The layout of the page could possibly be improved for screen readers and by removing unnecessary content such as ads for premium memberships and reviews. |
+| Glassdoor | 14 | Glassdoor had a similar layout to LinkedIn but had a lot more clutter. It was harder to follow due to certain tabs not bringing up the expected page and having a lot of extra content not related to the search. |
 
 ## 2.2 Site 1: LinkedIn
 Insert Recorded Screenshots with captions and steps.
