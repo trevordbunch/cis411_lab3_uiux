@@ -5,12 +5,12 @@ ___
 **Name:** Adam Lenker  
 **GitHub Handle:** al1412  
 **Repository:** https://github.com/al1412/cis411_lab3_uiux  
-**Collaborators:**   
+**Collaborators:** Jamie Padovano (JPadovano1483), Andrew Coldsmith (andrewcoldsmith), Ricky Pokrivka (richard pokrivka)  
 ___
 
 # Step 1: Confirm Lab Setup
 - [X] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [X] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -55,10 +55,10 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
+| Title | User creating an 8-semester plan |
+| Description / Steps | Messiah student creates and saves their 8-semester plan |
+| Primary Actor | User (Messiah student) |
+| Preconditions | User signs in to application through CAS system <br> User selects courses they wish to take for a certain semester and drags them to their semester of choice <br> User hits the save button after finishing their changes |
 | Postconditions | |
 
 ## Step 3.2 Identifier a competitive product
