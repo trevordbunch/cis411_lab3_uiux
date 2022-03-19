@@ -21,13 +21,26 @@ ___
 | Glassdoor | 14 | Glassdoor had a similar layout to LinkedIn but had a lot more clutter. It was harder to follow due to certain tabs not bringing up the expected page and having a lot of extra content not related to the search. |
 
 ## 2.2 Site 1: LinkedIn
-![LinkedIn Home Screen](../assets/L1.png)
+### LinkedIn Home Screen
+![LinkedIn Home Screen](../assets/L1.png) 
+The home screen in pretty standard. The "Sign in" page is in the expected location and is made clear with a different color.
 
-![LinkedIn Login Screen](../assets/L2.png)
-![LinkedIn User Home Screen](../assets/L3.png)
-![LinkedIn Job Page](../assets/L4.png)
-![LinkedIn Job Search Results](../assets/L5.png)
+### LinkedIn Login Screen
+![LinkedIn Login Screen](../assets/L2.png) 
+The "Sign in" page is, again, pretty standard. Clear path shown on page.
 
+### LinkedIn User Home Screen
+![LinkedIn User Home Screen](../assets/L3.png) 
+The social media feed is, again, standard and what is expected. The tabs across the top are clear. I don't like the "Messaging" tab popping up on its own and covering the screen.
+
+### LinkedIn Job Page
+![LinkedIn Job Page](../assets/L4.png) 
+The jobs page is what I have learned is standard across many websites. I like that everything is seperated into blocks, but don't like the ads. I would have a search bar centered instead of at the top of the page for easier use of that.
+
+### LinkedIn Job Search Results
+![LinkedIn Job Search Results](../assets/L5.png) 
+The formatting of the search results is nice. The filter options are clear but out of the way and only information relevant to the selected job is shown on the right, while options are shown on the left.
+ 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? | 3 | Everything was clearly labeled and the labels took the user to the expected page. |
@@ -40,11 +53,25 @@ ___
 | **TOTAL** | 19 |   |
 
 ## 2.3 Site 2: Glassdoor
+### Glassdoor Home Screen
 ![Glassdoor Home Screen](../assets/G1.png)
+The home screen in pretty standard. The Sign in page is in the expected location and is made clear with a different color. I don't like the really large "Sign-Up" part in the middle as a returning user.
+
+### Glassdoor User Home Screen
 ![Glassdoor User Home Screen](../assets/G2.png)
+The user home page is pretty boring but gets the job done. The tabs are clear but the content in the middle of the page isn't helpful.
+
+### Glassdoor Job Page
 ![Glassdoor Job Page](../assets/G3.png)
+The job page is not my favorite. It took me a while to figure out how to search for the job, as I was expecting options to immediately show up when I clicked on "Jobs."
+
+### Glassdoor Search Results
 ![Glassdoor Search Results](../assets/G4.png)
+I do not like this search engine-esk design that Glassdoor uses. It leads to a lot of information that I don't care about as I search for a job. The irrelevent information is something I would use Google to find instead of Glassdoor. Also, their search suggestions were not helpful.
+
+### Glassdoor Job Search Results
 ![Glassdoor Job Search Results](../assets/G5.png)
+The formatting of the search results is nice. The filter options are clear but out of the way and only information relevant to the selected job is shown on the right, while options are shown on the left. It looks almost identical to LinkedIn but has some nice large graphics like the "Average Base Salary Estimate."
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
