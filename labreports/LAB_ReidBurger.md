@@ -21,8 +21,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Indeed | 17 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| Indeed | 17 | Indeed was relatively easy to use and walked me through the sign up and application process. The only things I would change would be to keep user info when refreshing forms and add some visual interest with a pop of color since the bland white doesn't make me want to use the site for long periods of time. The filters are placed in a spot where I can find them easily, which is good, and the buttons it wants me to press are obvious. |
+| Glassdoor | 15 | Overall, Glassdoor improved upon some things that Indeed lacked, such as dynamic filters when searching and information hiding to make quick job searching easier, yet it lacked the simplicity of Indeed in other aspects such as the quantity of copy and usefulness of AI resume scanning, which combined added to the frustration and time required to create an account or apply to a job. |
 
 ## 2.2 Site 1
 ### Indeed.com
@@ -57,18 +57,35 @@ THe previous three pictures show the most important steps from my [job applicati
 | **TOTAL** | 17 |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+### Glassdoor.com
+
+![signup1](../assets/gd_signup1.png)
+![signup2](../assets/gd_signup2.png)
+The [sign up process](https://www.glassdoor.com/) was streamlined and simple enough to follow.
+
+![profile](../assets/gd_profile.png)
+Changing my profile took time because of a failed AI resume scan.
+
+![search](../assets/gd_search.png)
+This is the screen I used to [search for job listings.](https://www.glassdoor.com/Job/pittsburgh-ui-ux-designer-jobs-SRCH_IL.0,10_IC1152990_KO11,25.htm?radius=50)
+
+![apply1](../assets/gd_apply1.png)
+![apply2](../assets/gd_apply2.png)
+![apply3](../assets/gd_apply3.png)
+![apply4](../assets/gd_apply4.png)
+![apply5](../assets/gd_apply5.png)
+The previous five screenshots show the lengthy application process compared to Indeed.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2 | The site was easy enough to follow along when creating my account and signing up since the copy was limited and buttons were obvious. The shortcomings appear when looking at the main job search portion. There are simply too many options when looking at the main page and I think it could benefit from some content hiding since I didn't intuitively know what most of the navigation tabs do. |
+| 2. **Users are busy:** Did this site value your time?  | 1 | The site makes you enter a lot of information when you first create an account, and this is partly worsened by the fact that your resume info is automatically scanned in because now I have to fight the AI and correct a bunch of stuff, so this hurt more than it helped. Also, the application process was longer than Indeed and I had to enter a fair bit more info.  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2 | Similarly to the previous critique, there was a lot of info and sometimes it was hard to know what to click on to get to where you wanted. The filters, however, are an improvement from Indeed since your search results change as you change them and it saves your info.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | Once again, the sign up and apply paths were easy to follow and it held my hand throughout. There were some forks in the road when it came to verifying my profile since I had to manually update my info, but I don't think that negatively affected the path that I followed. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Like Indeed, there is a lot of text on this site, most of which comes from the job listings themself. However, Glassdoor is an improvement because the info is hidden and revealed when you click on the job listing. This is a good way to save users from reading through copy when they want to quickly search through jobs.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2 | Navigating was simple when I just stuck to the main search page. I barely ventured further than that because I didn't quite know where each tab would take me, and quite honestly, I just didn't care enough to see anything other than just my own profie and the job listings. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2 | There are lots of infographics and ratings and diagrams that could make this difficult for screen readers, but most of the site is text-based, so it wouldn't be impossible. |
+| **TOTAL** | 15 |   |
 
 
 # Step 3 Competitive Usability Test
