@@ -64,7 +64,7 @@ Insert Recorded Screenshots with captions and steps.
 ## Step 3.2 Identify a competitive product
 
 List of Competitors
-1. ECARPS [ECARPS](http://huggs.messiah.edu/ecarps/)
+1. [ECARPS](http://huggs.messiah.edu/ecarps/)
 2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
 
 ## Step 3.3 Write a Useability Test
