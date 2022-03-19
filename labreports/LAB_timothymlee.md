@@ -26,13 +26,13 @@ Insert Recorded Screenshots with captions and steps.
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? | 3 | Everything was clearly labeled and the labels took the user to the expected page. |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Navigation was clear and easy with a lot of suggestions to guide user quickly to desired pages. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | Information is formatted clearly with large buttons, often highlighted, to direct user on next steps. |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | The website highlighted the current section of the website the user is looking at. |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2 | There were lots of extra things on the page that distracted the user from the desired content like ads and requests for reviews. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | Work flow was very clear with highlighting of current section of website. |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2 | Works fine on the phone but they layout seems like it could cause screen reader issues. |
-| **TOTAL** |   |   |
+| **TOTAL** | 19 |   |
 
 ## 2.3 Site 2: Glassdoor
 Insert Recorded Screenshots with captions and steps.
