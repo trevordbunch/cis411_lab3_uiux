@@ -83,10 +83,10 @@ List of Competitors
 |---|---|---|
 | 1 | Sign in as a guest to the application  | Log in process was very easy, all user had to do was pass captcha proving that they were not a robot  |
 | 2 | Specify your major  | Basic process, in addition to selecting majors and minors there is also an option indicating if a student is part of the honors program  |
-| 3 | Rearrange courses to mach the 8-semester plan  | Required general education courses are indicated in a red outline, there is no problems whe nselecting a major, but selecting a minor causes some problems since the user is on the default engineering schedule  |
-| 4 | Add desired courses to the respective semester schedule  |   |
-| 5 | If necessary, fix errors associated with scheduling  |   |
-| 6 | Save all work, then sign out  |   |
+| 3 | Rearrange courses to mach the 8-semester plan  | Required general education courses are indicated in a red outline, there is no problems when selecting a major, but selecting a minor causes some problems since the user is on the default engineering schedule  |
+| 4 | Add desired courses to the respective semester schedule  | The system does not give specific errors when moving classes, so it was up to the user to figure out which class was causing the problem.  |
+| 5 | If necessary, fix errors associated with scheduling  | Since the system did not give an error for a specific class placement, it took a while for the user to figure out which class was causing the error and how to arrange the scheduling to fix it.  |
+| 6 | Save all work, then sign out  | Guest users cannot save their schedules, but each semester has a "Save Notes" button at the end with a text bar next to it for the user to put notes in, which saves when the user refreshes the page, but doesn't save if they are signed out and sign in again.  |
 
 ## Step 3.5 Findings
 Organize your findings here.
