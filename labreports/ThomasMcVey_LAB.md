@@ -3,10 +3,10 @@ ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Thomas McVey  
-**GitHub Handle:** ThomasMcVey 
-**Repository:** https://github.com/ThomasMcVey/cis411_lab3_uiux.git
+**GitHub Handle:** ThomasMcVey
 
-**Collaborators:**   
+**Repository:** https://github.com/ThomasMcVey/cis411_lab3_uiux.git
+**Collaborators:** 
 ___
 
 # Step 1: Confirm Lab Setup
@@ -23,7 +23,7 @@ ___
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
-
+![alt text](images/GlassDoor1.png)
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
