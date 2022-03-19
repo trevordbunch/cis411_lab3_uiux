@@ -89,7 +89,24 @@ List of Competitors
 | 6 | Save all work, then sign out  | Guest users cannot save their schedules, but each semester has a "Save Notes" button at the end with a text bar next to it for the user to put notes in, which saves when the user refreshes the page, but doesn't save if they are signed out and sign in again.  |
 
 ## Step 3.5 Findings
-Organize your findings here.
+**Improvements to be made:**    
+1. Change the design of how courses are shown on the page (change the course list's layout).   
+2. Add a function to filter and/or search through courses as desired.   
+3. Fix red flags with a first time sign in with a minor selection.   
+
+**Beneficial experiences to the user:**    
+1. Having the pre-made plan from the start    
+2. Having all major requirements in one place    
+3. Pre-requisite flagging    
+
+**Things our group did well:**    
+Asked questions about how the user felt and how they were doing at certain points in the process    
+
+**Things we could have improved upon:**    
+Getting someone that has never heard of the ECARPS system before, so that it could be tested from a different perspective   
+
+**Statement about test conducting experience:**
+The test helped us to make an outline of what we wanted so that we could get better information if we asked for unprompted feedback. However, conducting a test which matched our desired product turned out to be an issue, as we could not test certain functions such as signing out and signing back in, mainly for guest users.
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
