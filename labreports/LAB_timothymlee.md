@@ -21,7 +21,12 @@ ___
 | Glassdoor | 14 | Glassdoor had a similar layout to LinkedIn but had a lot more clutter. It was harder to follow due to certain tabs not bringing up the expected page and having a lot of extra content not related to the search. |
 
 ## 2.2 Site 1: LinkedIn
-Insert Recorded Screenshots with captions and steps.
+![LinkedIn Home Screen](../assets/L1.png)
+
+![LinkedIn Login Screen](../assets/L2.png)
+![LinkedIn User Home Screen](../assets/L3.png)
+![LinkedIn Job Page](../assets/L4.png)
+![LinkedIn Job Search Results](../assets/L5.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -35,7 +40,11 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** | 19 |   |
 
 ## 2.3 Site 2: Glassdoor
-Insert Recorded Screenshots with captions and steps.
+![Glassdoor Home Screen](../assets/G1.png)
+![Glassdoor User Home Screen](../assets/G2.png)
+![Glassdoor Job Page](../assets/G3.png)
+![Glassdoor Search Results](../assets/G4.png)
+![Glassdoor Job Search Results](../assets/G5.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
