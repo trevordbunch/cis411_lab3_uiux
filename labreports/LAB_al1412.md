@@ -105,7 +105,7 @@ Asked questions about how the user felt and how they were doing at certain point
 **Things we could have improved upon:**    
 Getting someone that has never heard of the ECARPS system before, so that it could be tested from a different perspective   
 
-**Statement about test conducting experience:**
+**Statement about test conducting experience:**    
 The test helped us to make an outline of what we wanted so that we could get better information if we asked for unprompted feedback. However, conducting a test which matched our desired product turned out to be an issue, as we could not test certain functions such as signing out and signing back in, mainly for guest users.
 
 # 4. Your UX Rule (Extra Credit)
