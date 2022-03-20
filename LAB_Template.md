@@ -24,6 +24,8 @@ ___
 
 <img src="./LinkedIn.png" />
 I have already set up my account on this website, so there are no screenshots of that process.
+
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |  2 | Not much thinking was required. The steps that were necessary were straight forward and easy to complete.  |
@@ -60,40 +62,45 @@ Adding information about myself and my work experience felt organized.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title |Searching for Churches Near Me |
+| Description / Steps |The user, after originally creating their account, would search for achurch near their location using the search bar. |
+| Primary Actor | User|
+| Preconditions | The user must be logged into their account.|
+| Postconditions | A search history will be provided for the user to look at their previous searches.|
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Yelp [www.yelp.com](https://www.yelp.com/)
+2. 9Marks [9Marks](https://www.9marks.org/church-search/)
 
 ## Step 3.3 Write a Useability Test
-
+Creating a Yelp account
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Click Sign up  |   |
+| 2 | Enter basic information  |   |
+| 3 |  Click create account |   |
+| 4 | Skip next part  |   |
+| 5 | Search for mexican food  |   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | CLick Sign up  | Complained that the sign up botton was in the top right corner and not clearly visible.  |
+| 2 |Enter Basic information   | Entered information and was appreciative of how it flowed from one text entry to the next. Appreciated the flow down the page.  |
+| 3 |Click create account   |  No comments |
+| 4 |Skip next part   | The skip button was the smallest button on the page, not wanting it to be clicked.  |
+| 5 |Search for mexican food   | Clicked on the search bar at the top, said "the search bar stands out and was useful." Typed "mexican food" and adjusted the location. Clicked the magnifying glass logo. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+
+Improvements: 1. More in depth information on what the user should do. Dumb it down for them. 2. Create a longer task for them to complete. 3. Asking more than one participant for their input.
+
+Benefits: 1. The website being used was well developed and easy for the user to use. 2. The user completed the task and was able to communicate what they were thinking while doing the actions.
+
+Statement: I beleive this was a great first usability test with an interaction I was comfortable with. This will prepare me well for what the future has in regards to usability tests. There were several factors that could have helped this test, but overall it was a success.
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
