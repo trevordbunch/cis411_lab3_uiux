@@ -78,42 +78,58 @@ ___
 
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case 1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Finding a location |
+| Description | This use case describes how a user would find a location |
+| Steps | <ol><li>Hiker logs into account</li><li>Hiker will navigate to community map</li><li>Hiker will search for locations</li><li>Hiker will select their desired location</li></ol> |
+| Primary Actor | Hiker |
+| Preconditions | <ol><li>Hiker would have an account</li><li>Application already has locations</li><li>Hiker has access to Internet</li></ol> |
+| Postconditions | Application displays results relevant to search |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [https://www.alltrails.com/](www.alltrails.com)
+2. Competitor 2 [https://www.gaiagps.com/](www.gaiagps.com)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Search for a trail by city (user's). | The user will navigate to the main screen and search for a trail by the city they live in. |
+| 2 | Sign into account | The user will click the "Log In" button from the main screen. |
+| 3 | Navigate to AllTrails shop | From the main screen, the user will click on "Shop." |
+| 4 | Search trails by "easy" | User will click on "Explore," and then under "Difficulty" select "Easy." |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Search for a trail by city (user's) | User used search bar on homepage, then clicked on "Trails" |
+| 2 | Sign into account | User immediately found "Log In" button. I had her pretend to enter credentials like she had an account. |
+| 3 | Navigate to AllTrails shop | User first scrolled down to find the shop, and then found "Shop" button at the top of the page in the navigation. |
+| 4 | Search trails by "easy" | User performed the same actions as she did for step one and realized that she could not filter by difficulty that way. Spent some time scrolling through the main page. Searched "easy carlisle" on the main page's search bar. I eventually told her where to go. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+<ul>
+<li>3 Improvements</li>
+<ul>
+<li>The AllTrails shop should be more obvious for users given that my sister could not find right away.</li>
+<li>Being able to navigate to the more detailed search should also be more obvious given that my sister could not find it either.</li>
+<li>Some of the options from the more detailed search should also be included in the search bar in the main page, especially since users are highly likely to search using that first over the more detailed search.</li>
+</ul>
+<li>2 Benefits</li>
+<ul>
+<li>The location of "Log In" button matched where it is on many sites.</li>
+<li>AllTrails provided a way for users to quickly search trails on the homepage.</li>
+</ul>
+<li>The team created a usability test that could also be used to test our application.</li>
+<li>The team could come up with more steps that could be tested. What we had was fine, but we could have gone into more detail with other actions.</li>
+<li>I made sure to carefully observe my sister as she navigated the site and take notes on what she did. Conducting a usability test helped me to see the value in observing a user going about their business on a site. I had initially thought that I could get away with doing that myself with my own applications. However, since I made the application, I'm very familiar with it. It behooves having a sibling to rope into being your user in a usability test.</li>
+</ul>
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+Abigail Garrido's very own pithy usability rule: :sparkles: *Aestheticism* :sparkles:
+
+Your "billboard" can be the most organized "billboard" in the world, but it also needs to be pleasing to the eye. It's good to have someone around that knows their way with colors and shapes so that the site subject and site design match each other, which will project an air of profressionalism. Also, color matters **a lot** in regards to accessibility. You might be able to see the text, but some users are colorblind or have trouble reading text in certain colors or fonts. Both should be kept in mind when adding in those CSS elements; everything should be aesthetically pleasing and aim to be aesthetically pleasing to *everyone*.
