@@ -27,27 +27,27 @@ CareerBuilder - https://www.careerbuilder.com/
 
 ![Creating Account](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=918&h=447)
 
-1. To create my account, the site needed minimal information from me. By uploading by resume, the website was able to automatically fill out my work history and educational background. 
+* To create my account, the site needed minimal information from me. By uploading by resume, the website was able to automatically fill out my work history and educational background. 
 
 ![Career Goals](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=918&h=420)
 
-2. After creating my account, I was given the option to provide some career goals including desired job title, location, salary, etc. By doing so, the site would ideally be able to better tailor my job search to better fit me. Since I did not have a particular number in mind when it came to desired salary, the site allowed me to leave it blank, which was very helpful. 
+* After creating my account, I was given the option to provide some career goals including desired job title, location, salary, etc. By doing so, the site would ideally be able to better tailor my job search to better fit me. Since I did not have a particular number in mind when it came to desired salary, the site allowed me to leave it blank, which was very helpful. 
 
 ![My Profile](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=660&h=323)
 
-3. The site provides a dashboard that contains useful and helpful information such as recommended jobs, profile views, number of applied jobs, etc. 
+* The site provides a dashboard that contains useful and helpful information such as recommended jobs, profile views, number of applied jobs, etc. 
 
 ![Searching for Jobs](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=855&h=417)
 
-4. Searching for a job was surprisingly complicated. Instead of providing a search bar, the site instead opens to this overwhelming screen with hundreds of links.
+* Searching for a job was surprisingly complicated. Instead of providing a search bar, the site instead opens to this overwhelming screen with hundreds of links.
 
 ![Searching for Jobs](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=847&h=419)
 
-5. Since I entered my desired location in the "Career Goals" section of the sign-up process, I thought that the site was going to tailor the job search experience for me. However, it provided me with Data Analyst job opportunities all over the United States. Beyond that, I could not find a button that would allow me to sort or filter the jobs by location. 
+* Since I entered my desired location in the "Career Goals" section of the sign-up process, I thought that the site was going to tailor the job search experience for me. However, it provided me with Data Analyst job opportunities all over the United States. Beyond that, I could not find a button that would allow me to sort or filter the jobs by location. 
 
 ![Applying for Jobs](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=847&h=324)
 
-6. Although searching for the jobs was more complicated than it needed to be, the site does offer a "One-Click Easy Apply." This basically means that the site is able to automatically put in an application for you if you have previously uploaded your resume. This is a huge time-saver and excellent feature. 
+* Although searching for the jobs was more complicated than it needed to be, the site does offer a "One-Click Easy Apply." This basically means that the site is able to automatically put in an application for you if you have previously uploaded your resume. This is a huge time-saver and excellent feature. 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -67,19 +67,19 @@ Indeed - https://www.indeed.com/
 
 ![Creating Account](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=631&h=299)
 
-1. Signing in/creating an account is very easy with the Indeed site. I was able to use my google account to sign up, meaning that I was done with the sign-up process in under a minute. 
+* Signing in/creating an account is very easy with the Indeed site. I was able to use my google account to sign up, meaning that I was done with the sign-up process in under a minute. 
 
 ![Profile](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=658&h=299)
 
-2. The site offers the option to upload your resume. By doing so, the site promises that it will automatically fill out your information. 
+* The site offers the option to upload your resume. By doing so, the site promises that it will automatically fill out your information. 
 
 ![Searching for Jobs](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=628&h=297)
 
-3. Indeed makes searching for a job very easy. When I clicked on the "Find Jobs" button, it took me to a page where there was a two search bars and a job feed. You could easily search for jobs by the title, keywords, or the company and give an exact location in which you are looking. Mechanicsburg, PA was already entered into the "where" box, making the experience customizable to me. 
+* Indeed makes searching for a job very easy. When I clicked on the "Find Jobs" button, it took me to a page where there was a two search bars and a job feed. You could easily search for jobs by the title, keywords, or the company and give an exact location in which you are looking. Mechanicsburg, PA was already entered into the "where" box, making the experience customizable to me. 
 
 ![Applying for Job](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=627&h=290)
 
-1. The application process is relatively simple if you have previously uploaded your resume. It inclues only five steps. Although, in comparison to CareerBuilder, it includes much more manual entering of information.
+* The application process is relatively simple if you have previously uploaded your resume. It inclues only five steps. Although, in comparison to CareerBuilder, it includes much more manual entering of information.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -108,28 +108,49 @@ Indeed - https://www.indeed.com/
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1: All Trails (https://www.alltrails.com/)
+1. Competitor 1: All Trails (https://www.alltrails.com/)  
+   (Utilized for the Useability Test)
 2. Competitor 2: Gaia GPS (https://www.gaiagps.com/)
-
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 | Searching for a trail by your city | Navigate to the main screen and input your city into the search bar. |
-| 2 | Logging into an account | From the main screen, click the "Log In" button in the top right-hand corner of the screen.|
-| 3 | Navigating to the AllTrails shop | From the main screen, hover over the drop-down list in the top left-hand corner of the screen and click on "AllTrails Gear."  |
-| 4 | Filter Trails by "Easy"  | Navigate to the Explorer Page via the button in the top left-hand corner. Find the "Difficulty" dropdown filter and select "Easy" |
+| 1 | Search for a trail by your city | Navigate to the main screen and input your city into the search bar. |
+| 2 | Log into your account | From the main screen, click the "Log In" button in the top right-hand corner of the screen.|
+| 3 | Navigate to the AllTrails shop | From the main screen, hover over the drop-down list in the top left-hand corner of the screen and click on "AllTrails Gear."  |
+| 4 | Filter Trails by "Easy" | Navigate to the Explorer Page via the button in the top left-hand corner. Find the "Difficulty" dropdown filter and select "Easy" |
 
 ## Step 3.4 Observe User Interactions
 
+
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Search for a trail by your city | The participant was successful in entering her city of Brookhaven, PA via the search bar on the main page and finding hikes that are nearby. There was no sign of struggle or frustration through this task. |
+| 2 | Log into your account | The participant was successful in finding the "Log In" button in the top right-hand corner of the screen. There was no sign of confusion when it came to this simple task. |
+| 3 | Navigate to the AllTrails shop | The participant was successful in navigating to the "AllTrails Gear" via the "Shop" drop-down menu at the top. This was a simple task for the participant. |
+| 4 | Filter Trails by "Easy" | When I gave the participant the task of filtering trails by "Easy," there was a bit of confusion. Since you first had to find the "Explore" page before finding the option, it took a bit of time and hints for the participant to complete this task. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+
+Improvements
+
+* The ability to filter hikes from the homescreen would be of benefit to the user. It would not only be a time saver, but omit any confusion.
+* 
+
+Experiences that were of benefit to the user
+
+* The search bar is the feature that catches your eye as soon as you access the AllTrails website or application. It not only highlights the purpose of the website, but also is a timesaver for users. 
+* On the main screen, the site provides a section titled "Local Favorites in Mechanicsburg." Of course, the AllTrails site uses your current location to provide you with recommended hikes. This creates a personalized experience for the user and welcomes those who may not be as familar with trails in the area.
+
+What did the team do well in conducting the useability test?
+
+* When conducting the useability test, I believe that individuals on the team did a good job of observing the participant. We each had a different participant that we conducted our useability test on, and each participant provided us with more and more information about the useability of the AllTrails application. I made sure to observe the body language of the participant, checking for signs of frustration or confusion, and only provided hints when it was absolutely necessary for the participant to complete the task. 
+
+What could the team improve for next time?
+
+* I think that, as a team, we could be more complex in the tasks that we give the participants in the useability test. Although, we must be sure to remain clear and concise with our instructions. Since task four was not explained well, the participant was confused as to where to access the "Difficulty" filter. 
+
+My experience conducting a useability test:
+
+* I had a very good experience conducting my first useability test. It is quite interesting to me to observe someone's body language when navigating through an application and attempting to complete a task. I feel that conducting useability tests gives app developers so much insight into the ways in which there application can be improved. Although this was a simple and rookie useability test, it laid a solid foundation of my knowledge of this topic and helped me see areas in which I could improve. 
