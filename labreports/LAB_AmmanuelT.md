@@ -22,7 +22,7 @@ ___
 
 ## 2.2 Site 1
 ### Linkedin
-- #### main page
+- #### [main page](https://www.linkedin.com/home)
 ![Linkedin main page](/assets/linkedin1.png)
 I like that this page is simple and the difference between the option of signing up and creating an account is very clear.
 - #### sign in form
