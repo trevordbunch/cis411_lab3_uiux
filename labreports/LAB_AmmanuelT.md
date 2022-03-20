@@ -22,29 +22,29 @@ ___
 
 ## 2.2 Site 1
 ### Linkedin
-- main page
+- #### main page
 ![Linkedin main page](/assets/linkedin1.png)
 I like that this page is simple and the difference between the option of signing up and creating an account is very clear.
-- sign in form
+- #### sign in form
 ![Linkedin sign in form](/assets/linkedin2.png)
 The form is very simple and is what would be expected of a sign in form
-- feed page
+- #### feed page
 ![Linkedin feed](/assets/linkedin3.png)
 I like that the content is separated into my profile, my feed, and Linkedin news which makes it easy to navigate.
-- profile page
+- #### profile page
 ![Linkedin profile page](/assets/linkedin4.png)
-- skills section
+- #### skills section
 ![Linkedin profile page skills section](/assets/linkedin5.png)
 I like that there's an option to quick-add a skill vs editing skills
-- add skill
+- #### add skill
 ![Linkedin profile page add skill](/assets/linkedin6.png)
-- job search
+- #### job search
 ![Linkedin profile page job search](/assets/linkedin7.png)
 I like that the search bar is always present which makes searching very intuitive
-- search results
+- #### search results
 ![Linkedin job search results](/assets/linkedin8.png)
 I like that there is an option to save jobs on the spot. I also like that relevant information like the location and the presence of alumni from the same school is given to help sort through the results.
-- job page
+- #### job page
 ![Linkedin selected job page](/assets/linkedin9.png)
 I like that the apply button is the only brightly colored one.
 
@@ -62,26 +62,26 @@ I like that the apply button is the only brightly colored one.
 
 ## 2.3 Site 2
 ### Glassdoor
-- main page
+- #### main page
 ![glassdoor main page](/assets/glassdoor1.png)
 The form to create an account looks like a sign-in form. I would put the option to sign in and create an account next to each other to make it less ambiguous.
-- sign in
+- #### sign in
 ![glassdoor sign in form](/assets/glassdoor2.png)
 The sign-in form is what you would expect.
-- add resume page
+- #### add resume page
 ![glassdoor add resume page](/assets/glassdoor3.png)
 It's nice to be able to upload a resume to autofill some of the profile information.
-- profile page
+- #### profile page
 ![glassdoor profile page](/assets/glassdoor4.png)
 I like that the profile page is split up into intuitive sections and is intuitive to navigate
-- skill section
+- #### skill section
 ![glassdoor profile page skill section](/assets/glassdoor5.png)
 I like that there are recommended skills based on the profile
-- add skill form
+- #### add skill form
 ![glassdoor profile page add skill form](/assets/glassdoor6.png)
-- job search
+- #### job search
 ![glassdoor profile page job search](/assets/glassdoor7.png)
-- job posting
+- #### job posting
 ![glassdoor job posting](/assets/glassdoor8.png)
 I like that salary information is posted. I also like the presence of information like ratings and reviews. I wish that it would state if a position is remote or in person.
 
