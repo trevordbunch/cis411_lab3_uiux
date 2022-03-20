@@ -136,40 +136,52 @@ Once on the company site, the user selects to apply for the job. They are then p
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Adding a Subscription Service  |
+| Description / Steps | The user first selects which subscription service they are adding (i.e. Netflix, Hulu, HBO Max, etc.). The user then provides information on what type of subscription they have to that service. |
+| Primary Actor | User |
+| Preconditions | User either creates a new account or is logged into their already existing account. |
+| Postconditions | The user's account saves the new changes that have been made so when they log back in next time, that service is still attached to their account. |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [TrueBill](https://www.truebill.com/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | User creates an account| The user selects "create account" and follows the steps needed (i.e. making a username and password). |
+| 2 | User selects to add a service | The user should navigate to the "Add Subscription" button.|
+| 3 |  User selects which streaming service they are adding to their account | Users will be presented with popular subscription options that they can select from or can search for a service from a search bar at the top. |
+| 4 |  User provides subscription information | The user tells the application what type of subscription they have to that specific service. |
+| 5 |  User saves addition | Once the user has input all of the information that they need to provide, they would select a completion button at the bottom of the page. |
+| 6 | User logs out of account| User navigates to the log out button and confirms that they want to log out of their account.|
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1| User creates an account| The user was easily able to find the button for creating an account and the steps were very simple on what information was needed. |
+| 2 | User selects to add a service  | The user was able to find the "Add Subscription" button easily and was redirected to the next page.  |
+| 3 | User selects which streaming service they are adding to their account |  The user chose one of the popular suggestions, but also recognized that there was a search bar at the top if the option they were looking for was not immediatly listed. |
+| 4 |  User provides subscription information | The user was easily able to select the option that applies to their subscription information for the specified streaming service. |
+| 5 | User saves addition | When the user was content with the information they had entered, they were able to easily locate the "done" button at the bottom of the page.  |
+| 6 | User logs out of account  | The log out option was in a spot where most other service also have this option so it was easy to locate. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+**Pros**  
+The set up of the application was similar to that of a lot of other service (i.e. location of "create account" button, location of "sign out" button) which made naviagation easy.  
+The best way for this application to be as user friendly as possible is to not alter the organization of it too much from other similar applications. 
+
+When adding information about a new subscription service, the user found it helpful to be prompted on what information they needed to input about their subscription status.  
+
+**Cons**  
+For subscription services that provide add-on that cost extra money, the user found it hard to remember exaclty what add on went to which of their subscriptions.  
+
+**Overall**  
+The user found the proccess of adding another subscription service to be mostly self-explanitory and easy to follow. 
+
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
