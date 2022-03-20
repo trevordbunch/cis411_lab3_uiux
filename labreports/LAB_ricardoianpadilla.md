@@ -2,23 +2,52 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Ricardo Padilla  
+**GitHub Handle:** ricardoianpadilla  
+**Repository:** https://github.com/Ricardoianpadilla/cis411_lab3_uiux  
+**Collaborators:** ag1454, dorsecles, kfirestone25 and ......  
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
+https://www.indeed.com/  and  https://www.linkedin.com/
+![image.](/linkedinUXimages/1.png)
+![image.](/linkedinUXimages/2.png)
+![image.](/linkedinUXimages/3.png)
+![image.](/linkedinUXimages/4.png)
+![image.](/linkedinUXimages/5.png)
+![image.](/linkedinUXimages/6.png)
+![image.](/linkedinUXimages/7.png)
+![image.](/linkedinUXimages/8.png)
+![image.](/linkedinUXimages/9.png)
+![image.](/linkedinUXimages/10.png)
+![image.](/linkedinUXimages/11.png)
+![image.](/linkedinUXimages/12.png)
+![image.](/linkedinUXimages/13.png)
+![image.](/linkedinUXimages/14.png)
+![image.](/linkedinUXimages/15.png)
+![image.](/linkedinUXimages/16.png)
+![image.](/linkedinUXimages/17.png)
+![image.](/linkedinUXimages/18.png)
+![image.](/linkedinUXimages/19.png)
+![image.](/linkedinUXimages/20.png)
+![image.](/linkedinUXimages/21.png)
+![image.](/linkedinUXimages/22.png)
+![image.](/linkedinUXimages/23.png)
+![image.](/linkedinUXimages/24.png)
+![image.](/linkedinUXimages/25.png)
+![image.](/linkedinUXimages/26.png)
+![image.](/linkedinUXimages/27.png)
+![image.](/linkedinUXimages/28.png)
 
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| Indeed | Score 1 | Summary 1 |
+| Linkedin | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
