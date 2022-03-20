@@ -9,19 +9,29 @@ ___
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| Linkedin | Score 1 | Summary 1 |
+| Glassdoor | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+
+![Linkedin main page](/assets/linkedin1.png)
+![Linkedin sign in form](/assets/linkedin2.png)
+![Linkedin feed](/assets/linkedin3.png)
+![Linkedin profile page](/assets/linkedin4.png)
+![Linkedin profile page skills section](/assets/linkedin5.png)
+![Linkedin profile page add skill](/assets/linkedin6.png)
+![Linkedin profile page job search](/assets/linkedin7.png)
+![Linkedin job search results](/assets/linkedin8.png)
+![Linkedin selected job page](/assets/linkedin9.png)
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -35,7 +45,14 @@ Insert Recorded Screenshots with captions and steps.
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+![glassdoor main page](/assets/glassdoor1.png)
+![glassdoor sign in form](/assets/glassdoor2.png)
+![glassdoor add resume page](/assets/glassdoor3.png)
+![glassdoor profile page](/assets/glassdoor4.png)
+![glassdoor profile page skill section](/assets/glassdoor5.png)
+![glassdoor profile page add skill form](/assets/glassdoor6.png)
+![glassdoor profile page job search](/assets/glassdoor7.png)
+![glassdoor job posting](/assets/glassdoor8.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
