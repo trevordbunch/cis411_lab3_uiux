@@ -5,20 +5,20 @@ ___
 **Name:** Grace Schlauder  
 **GitHub Handle:** https://github.com/grace-schl  
 **Repository:** [Your Forked Repository](https://github.com/grace-schl/cis411_lab3_uiux)  
-**Collaborators:**   
+**Collaborators:**  Michael Mourelatos 
 ___
 
 # Step 1: Confirm Lab Setup
 - [x] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| LinkedIn | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkedIn | 20 | This site is very easy to use and makes it clear as to where everything is that you might need. I also enjoy the social media aspect of the site because it provides a user with more than just job searches. The user is then able to build connections with people who can help vouch for them when it comes to job recommendations. |
+| Indeed | 15 | This application is very simple in that it is solely used for searching for jobs. However, some aspects were confusing like when it came to adding information to your profile.  |
 
 ## 2.2 Site 1 - LinkedIn
 
@@ -66,7 +66,7 @@ This job was one that I had previously applied for so after selecting "apply now
 | 2. **Users are busy:** Did this site value your time?  |  3 | The site takes a little getting used to, as any site would, but can be easily picked up. The home feed can be easily scrolled through and users are able to quickly add likes to a post. Connecting with another users is also very quick and easy, just the click of a button. If you have a bit more time on your hands, you can add a message along with a connection request. |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3  | The site will highlight areas of your profile that need improvement. The site also makes it very easy to know how to apply for a job. The "apply" button is highlighted blue and is very obvious on the page, so you can't miss it.   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  |  When creating an account, it will give you tips on what your next step should be in order to make your profile as comprehensive as possible. The site then uses the information that you input to suggest companies and users to follow or connect with. |
-| 5. **Omit Words:** How careful was this site with its use of copy? | 2  | The site is mainly comprised of user input information. For user posts, it is easy to tag another user who you are referencing, but I am not sure if the site really has anything in place to prevent users from copying other users' ideas.   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2  | The site is mainly comprised of user input information. The wordiness of posts are depended on the user. For the site itself, there is not an overabundance of words besides what is needed to direct the user. |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? | 3  | Anything you are looking for is where you would expect it to be, making navigating the site quick and easy. Some things, like jobs you are interested in, can be saved so that it is easy to come back to later.  |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  | I use the mobile app just as much as I use the website and both are very easy to use. The mobile (mouse-less) interface has a very similar set up to the website, so you don't need to relearn where everything is.   |
 | **TOTAL** |  20 | I really like using this site and sometimes will go on it just for fun. I am connected with a lot of my professors and classmates and like to see what they post about. I also like searching for jobs randomly because it inspires me to keep moving towards my future.   |
@@ -184,4 +184,6 @@ The user found the proccess of adding another subscription service to be mostly 
 
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+"Change isn't always good"  
+
+Although it can be nice to have a unique application that stands out from the rest, it can also be even better to have an application that doesn't stray too far from the conventional layout. Many applications follow a similar layout which makes it easy for users to naviagte throughout. When the layout is drastically changed, the user is forced to relearn where everything is which can be time consuming and make using the app not as enjoyable. 
