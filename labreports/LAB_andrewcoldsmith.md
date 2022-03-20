@@ -182,40 +182,54 @@ Description: It’s difficult to read the job details since they’re in such a 
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Building a Course Schedule |
+| Description / Steps | The user creates an eight semester course schedule using a drag and drop menu that lists courses related to their major and gen ed's. |
+| Primary Actor | User |
+| Preconditions | The user must be logged in with their Messiah account. |
+| Postconditions | The user's actions are saved and they are able to sign back in later to view their schedule again. |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a Competitive Product
 
-List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+Messiah Ecarps [http://huggs.messiah.edu/ecarps/](http://huggs.messiah.edu/ecarps/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Create a guest account. |  |
+| 2 | Select major. |  |
+| 3 | Arrange prefilled courses. |  |
+| 4 | Add desired courses. |  |
+| 5 | Correct any scheduling errors. |  |
+| 6 | Logout. |  |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Create a guest account. | The participant found the login process to be easy and intuitive. |
+| 2 | Select major. | He also found major selection to be very clear and simple with no extra clutter. |
+| 3 | Arrange prefilled courses. | When the participant selected a minor, the software did not include the new courses and raised errors immediately. |
+| 4 | Add desired courses. | He found the course list to be way too long. Also, it took him time to understand the various abbreviations and shorthand. |
+| 5 | Correct any scheduling errors. | He did find the red flags helpful for knowing what semesters needed additional courses. |
+| 6 | Logout. | The participant found the logout button very easily. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+### Problems
+1. A filter option for the course list would be very helpful.
+2. There should be no red flags when the user begins.
+3. Being able to find courses again once they’ve been removed is essential.
+
+### Successes
+1. The software automatically inserted all necessary courses for the selected major.
+2. Red flags when courses are removed are helpful.
+
+### Overview
+Our group asked good questions to get the participant's honest opinion.
+
+In the future, we could try using someone outside our team for tests.
+
+The service we used wasn’t a perfect example. The software we want to create will have many different features. However, it did help us view our project in a different light.
 
 # 4. Your UX Rule (Extra Credit)
 ### Use Less Pages
