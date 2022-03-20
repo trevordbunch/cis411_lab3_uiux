@@ -21,15 +21,24 @@ ___
 | Glassdoor | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
-
+### Linkedin
+- main page
 ![Linkedin main page](/assets/linkedin1.png)
+- sign in form
 ![Linkedin sign in form](/assets/linkedin2.png)
+- feed page
 ![Linkedin feed](/assets/linkedin3.png)
+- profile page
 ![Linkedin profile page](/assets/linkedin4.png)
+- skills section
 ![Linkedin profile page skills section](/assets/linkedin5.png)
+- add skill
 ![Linkedin profile page add skill](/assets/linkedin6.png)
+- job search
 ![Linkedin profile page job search](/assets/linkedin7.png)
+- search results
 ![Linkedin job search results](/assets/linkedin8.png)
+- job page
 ![Linkedin selected job page](/assets/linkedin9.png)
 
 
@@ -45,13 +54,22 @@ ___
 | **TOTAL** |   |   |
 
 ## 2.3 Site 2
+### Glassdoor
+- main page
 ![glassdoor main page](/assets/glassdoor1.png)
+- sign in
 ![glassdoor sign in form](/assets/glassdoor2.png)
+- add resume page
 ![glassdoor add resume page](/assets/glassdoor3.png)
+- profile page
 ![glassdoor profile page](/assets/glassdoor4.png)
+- skill section
 ![glassdoor profile page skill section](/assets/glassdoor5.png)
+- add skill form
 ![glassdoor profile page add skill form](/assets/glassdoor6.png)
+- job search
 ![glassdoor profile page job search](/assets/glassdoor7.png)
+- job posting
 ![glassdoor job posting](/assets/glassdoor8.png)
 
 | Category | Grade (0-3) | Comments / Justification |
