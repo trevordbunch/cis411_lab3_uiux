@@ -21,15 +21,24 @@ ___
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+*Step 1: log into Handshake using Messiah credentials.*    
 ![image](https://user-images.githubusercontent.com/97567307/159142813-e6268cd4-07e4-4a73-b71a-6a441e3d54f3.png)
 ![image](https://user-images.githubusercontent.com/97567307/159142831-ef2ffa3f-95e6-4cf2-b1ab-cfd1f3c73c05.png)
-Step 1: log into Handshake using Messiah credentials.    
 
+
+*Step 2: Take a look at the job postings found under the "Jobs" section of the menu, then narrow down your search based on what you are looking for.*  
 ![image](https://user-images.githubusercontent.com/97567307/159142866-b78f2dd0-0433-48f6-babf-cc818b94654a.png)
 ![image](https://user-images.githubusercontent.com/97567307/159142871-1f93d4b7-4bca-4ab2-8d3c-f8df9ea9f652.png)
-Step 2: Take a look at the job postings found under the "Jobs" section of the menu, then narrow down your search based on what you are looking for.   
 
+
+*Step 3: When you find a job that matches your expectations, click on it and Handshake will show the details of that job listing.*    
+![image](https://user-images.githubusercontent.com/97567307/159143183-5256533f-16de-4fcf-a8dd-f3e779244dbc.png)
+
+*Step 4: After clicking the "Apply" (or "Apply Externally" button), attach the necessary files to the application, then press the "Apply" (or "Apply Externally") button*  
+![image](https://user-images.githubusercontent.com/97567307/159143268-872b9607-281f-4ae6-94c8-509417a09412.png)
+
+*After this, Handshake will redirect the user to the website asscoiated with their job listing, or in some cases have the application submitted directly to the position's respective company*    
+![image](https://user-images.githubusercontent.com/97567307/159143309-1808cff5-553b-427c-8967-222d1104556f.png)
 
 
 
@@ -37,7 +46,7 @@ Step 2: Take a look at the job postings found under the "Jobs" section of the me
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |   |   |
 | 2. **Users are busy:** Did this site value your time?  | 3 | The listings are listed in an easily accessible manner so that users can quickly come back to them as needed and fill out the quick application process when they do.  |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | The important steps were made clear through the layout of the jobs and details page, which displayed further steps to apply for the specified position.  |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
