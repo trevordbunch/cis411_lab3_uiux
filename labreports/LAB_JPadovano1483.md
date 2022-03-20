@@ -2,9 +2,9 @@
 ___
 **Course:** CIS 411, Spring 2022  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Jamie Padovano 
-**GitHub Handle:** JPadovano1483
-**Repository:** https://github.com/JPadovano1483/cis411_lab3_uiux 
+**Name:** Jamie Padovano <br>
+**GitHub Handle:** JPadovano1483 <br>
+**Repository:** https://github.com/JPadovano1483/cis411_lab3_uiux <br>
 **Collaborators:**   Adam Lenker (@al1412), Andrew Coldsmith (@andrewcoldsmith), Ricky Pokrivka (@Richard-Pokrivka)
 ___
 
