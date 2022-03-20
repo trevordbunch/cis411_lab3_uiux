@@ -24,6 +24,7 @@ ___
 ### Linkedin
 - main page
 ![Linkedin main page](/assets/linkedin1.png)
+test text
 - sign in form
 ![Linkedin sign in form](/assets/linkedin2.png)
 - feed page
