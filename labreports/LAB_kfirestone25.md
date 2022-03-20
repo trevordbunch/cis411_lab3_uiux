@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| CareerBuilder https://www.careerbuilder.com/ | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| CareerBuilder https://www.careerbuilder.com/ | 15 | Overall, I think this site is useful for the purpose in which it was intended. It has a sleek, modern design that is appealing to the eye and catches your attention. CareerBuilder is to the point, easy to use (for the most part), and time efficient. The way in which the application automtically populates your profile using your resume and the "One-Click Easy Apply" are standout features. However, the actual job search function is tedious and not a personable experience. Despite this downfall, CareerBuilder received a relatively high score. |
+| Indeed - https://www.indeed.com/ | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
 
@@ -51,17 +51,35 @@ CareerBuilder - https://www.careerbuilder.com/
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? | 2 |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2 | As far as ease-of-use, the site was very good. It is relatively easy to understand besides navigating the job search page. |
 | 2. **Users are busy:** Did this site value your time?  | 2 | Creating an account was super quick and easy, along with the application process (One-Click Easy Apply). However, the actual act of searching for a job took a significant amount of time. |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? | 3 |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | When it comes to instructions, it is most i  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2 |   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Everything on the site is well-labeled, but it is not overwhelming users with buttons or extra words. It is very clear what the purpose of the site is by the buttons/labels/instructions that are provided. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2 |  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 1 | Considering the way in which the "job search" page is laid out, I have reason to believe that those accessing the site via a screen reader or mouse-less interface will have a bit of difficultly navigating and viewing the website compared to a desktop user. |
+| **TOTAL** | 15 |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+
+Indeed - https://www.indeed.com/ 
+(Job site I believe I will not prefer)
+
+![Creating Account](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=631&h=299)
+
+1. Signing in/creating an account is very easy with the Indeed site. I was able to use my google account to sign up, meaning that I was done with the sign-up process in under a minute. 
+
+![Profile](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=658&h=299)
+
+2. The site offers the option to upload your resume. By doing so, the site promises that it will automatically fill out your information. 
+
+![Searching for Jobs](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=628&h=297)
+
+3. Indeed makes searching for a job very easy. When I clicked on the "Find Jobs" button, it took me to a page where there was a two search bars and a job feed. You could easily search for jobs by the title, keywords, or the company and give an exact location in which you are looking. Mechanicsburg, PA was already entered into the "where" box, making the experience customizable to me. 
+
+![Applying for Job](https://docs.google.com/drawings/d/e/2PACX-1vTXh3lXPP4oiAuiStb49TWE0R_MkgJ4Vub7HGUph-gX4fTL0Mhh6p0zX7ItPDJoSKIO7QUDORBiucsb/pub?w=627&h=290)
+
+1. The application process is relatively simple if you have previously uploaded your resume. It inclues only five steps. Although, in comparison to CareerBuilder, it includes much more manual entering of information.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
