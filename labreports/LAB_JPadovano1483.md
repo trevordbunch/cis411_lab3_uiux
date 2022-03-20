@@ -23,17 +23,18 @@ ___
 ## 2.2 Site 1
 
 <h2>LinkedIn</h2>
+I had previously created an account.
 
-![LinkedIn Home Page](.../assets/LinkedInHome.jpg)<br>
+![LinkedIn Home Page](../assets/LinkedInHome.jpg)<br>
 The home page is easy to navigate. It is easy to use the navigation bar at the top of the page to get to your profile or to a job search.
 
-![Add Skill](.../assets/AddSkill.jpg)<br>
+![Add Skill](../assets/AddSkill.jpg)<br>
 Adding a skill to your profile is an easy task. You simply need to go to your profile and scroll down to the skill section. Then you just click the plus button and type in what skill you would like to add.
 
-![Job Search](.../assets/JobSearch.jpg)<br>
+![Job Search](../assets/JobSearch.jpg)<br>
 Searching for a job is rather straight forward. You simply need to click the job tab on the navigation bar and you will be taken to the job serach page. From there, you will get reccommended jobs based on the skills you added to your profile and jobs you have viewed in the past. You also have the option of searching for a job or type of job in the search bar in the top left.
 
-![Applying](.../assets/Apply.jpg)<br>
+![Applying](../assets/Apply.jpg)<br>
 After selecting a job you want to apply for, you can simply hit the apply button. This will take you to the company's external site where you can put in your appplication. You will generally have the option to manually apply or to "apply with LinkedIn." This will automatically fill in an application with the information in your LinkedIn profile.
 
 | Category | Grade (0-3) | Comments / Justification |
@@ -49,17 +50,34 @@ After selecting a job you want to apply for, you can simply hit the apply button
 
 ## 2.3 Site 2
 
+<h2>Monster</h2>
+
+![Sign Up](../assets/MonsterSignUp.jpg)<br>
+![Create Account](.../assets/AccountCreation.jpg)
+The account creation was simple. I was given the option to sign up with Google so I did not have to spend as much time typing my information in. I was then prompeted to add some more personal information such as where I attend school. 
+
+![Home Page](..assets/MonsterHome.jpg)
+After being sent to the home page, I quickly located my account button in the top right corner of the page. I navigated here to add some more personal information and experience.
+
+![Add Skill](../assets/MonsterAddSkill.jpg)
+It was easy to find the add skill section in my profile. I simply had to scroll down. Adding a skill was easy. All I had to do was click add and search for a skill I wanted to add.
+
+![Find Job](../assets/MonsterFindJob.jpg)
+The find job tab was easy to find in the navigation bar on the home page. From there, I was able to search for a job or click on a few different job type recommendations based on the skills I addded to my profile.
+
+![Recommendations](../assets/MonsterRecommendations.jpg)
+The site gave me some recommendations to browse through based on my skills and my search. After selecting a job to apply to, you simply need to hit the apply button and it will take you to the company's external application page.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2 |  This site was overall very intuitive. I did not have difficulty finding where I neede to go. |
+| 2. **Users are busy:** Did this site value your time?  |  2 |  For the most part, the site seems to value my time. You do need to put in a bit of effort though when searching for jobs and adding skills as there are not as many recommendations as there could be. Specifically in the skills section, it does not recommend any to you based on previous skills you have added. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1 |  The site does not do an amazing job making important steps clear. While you can see some important steps when you open up your profile, it does not do much in the way of prompting you to get there. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  1 |  I did not feel as though I was being guided towards a specific path, but rather I needed to figure out where specifically I needed to go.|
+| 5. **Omit Words:** How careful was this site with its use of copy? |  1 | This site was a little verbose in some places. On some pages, I did not feels as though I could easily scan the page and find everything I needed to know without further reading.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2 |  The navigation of the site was not bad. It was nothing special. I did not have much difficulty navigating the site, but I did feel that I needed to put in some effort. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  I see no reason why a user would have difficulty using the site on a mouse-less interface. |
+| **TOTAL** | 12  | Overall, the site was not too difficult to navigate, but I did not feels as though it was guiding me to where I was supposed to go. |
 
 
 # Step 3 Competitive Usability Test
