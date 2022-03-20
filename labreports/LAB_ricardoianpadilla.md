@@ -14,6 +14,14 @@ ___
 
 # Step 2: Evaluate Online Job Search Sites
 https://www.indeed.com/  and  https://www.linkedin.com/
+## 2.1 Summary
+| Site | Score | Summary |
+|---|---|---|
+| Indeed | Score 1 | Summary 1 |
+| Linkedin | Score 2 | Summary 2 |
+
+## 2.2 Site 1
+
 This is the starting page.
 ![image.](/linkedinUXimages/1.png)
 Clicking the Join now button to create an account.
@@ -71,25 +79,17 @@ CLicking Review
 Submiting the application
 ![image.](/linkedinUXimages/28.png)
 
-## 2.1 Summary
-| Site | Score | Summary |
-|---|---|---|
-| Indeed | Score 1 | Summary 1 |
-| Linkedin | Score 2 | Summary 2 |
-
-## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
-
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? |  3 |  It was a pretty normal sign-up, navigating through the page was easy. |
+| 2. **Users are busy:** Did this site value your time?  | 2.0  |  It has things that weren't necessary for the signup. If I have to click skip more than 3 times its too much(especially if it doesn't correlate with the signup process).But outside the sign-up process it seem fast.|
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | It made all required information short and concise and was easy to navigate through and easy to understand,  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2.0 |  Yes it did but in signup showing the user it connect option showing what linkedin is known for but outside of the sign in process the user is free to take any path they want.|
+| 5. **Omit Words:** How careful was this site with its use of copy? |  3.0 | Overall this site was well off  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.5 | Navigation was easy and fast to learn. But there was still learning involved |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |  "As part of LinkedIns commitment to accessibility they continuously audit thier products—internally and through a third party—using assistive technology such as screen reading software (e.g., JAWS, NVDA, VoiceOver and TalkBack)." |
+| **TOTAL** |  16.0 |   |
+
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
