@@ -17,25 +17,38 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
+| LinkedIn | Score 1 | Summary 1 |
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+
+<h2>LinkedIn</h2>
+
+![LinkedIn Home Page](.../assets/LinkedInHome.jpg)<br>
+The home page is easy to navigate. It is easy to use the navigation bar at the top of the page to get to your profile or to a job search.
+
+![Add Skill](.../assets/AddSkill.jpg)<br>
+Adding a skill to your profile is an easy task. You simply need to go to your profile and scroll down to the skill section. Then you just click the plus button and type in what skill you would like to add.
+
+![Job Search](.../assets/JobSearch.jpg)<br>
+Searching for a job is rather straight forward. You simply need to click the job tab on the navigation bar and you will be taken to the job serach page. From there, you will get reccommended jobs based on the skills you added to your profile and jobs you have viewed in the past. You also have the option of searching for a job or type of job in the search bar in the top left.
+
+![Applying](.../assets/Apply.jpg)<br>
+After selecting a job you want to apply for, you can simply hit the apply button. This will take you to the company's external site where you can put in your appplication. You will generally have the option to manually apply or to "apply with LinkedIn." This will automatically fill in an application with the information in your LinkedIn profile.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 | I had no difficulty navigating the site. It was a straight forward process of creating an account, adding skills, and looking for a job. |
+| 2. **Users are busy:** Did this site value your time?  | 3 | This site did value my time as it was a quick process to navigate and find a job. It offered recommendations so I did not have to spend time looking for jobs I would be interested in. It also has a quick apply option. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2 | I don't think the important steps are necessarily clear. Adding skills may not be something a new user would initially see or realize they should do. These are, however, quite important in the job recommendation process. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1 | There is not necessarily one path the user is led to. Part of the reason for this is that LinkedIn is not only a job search site. It also functions as a social media platform. Because of this, your are not always guided towards the steps you should take in order to apply for a job. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | This site did not seem to have unnecessary words. Whenever possible, it seems everything is limited to one or two words. This makes it easy for the user to skim the page and know what each link does and what options they have.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | I found the navigation to be intuitive and easy to follow. I did not feel lost at any point in time. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3 | This site is quite accessible to a mouse-less interface. I would anticipate no difficulty nvaigating this site on a mobile device.  |
+| **TOTAL** | 18  | Overall, this site is exteremely user-friendly and easy to navigate.  |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -73,7 +86,7 @@ Competitor: [ECARPS](http://huggs.messiah.edu/ecarps/)
 | 2 | Specify your major | Choose your major and/or minor from the list of majors/minors  |
 | 3 | Rearrange courses as necessary | Drag and drop courses that are already in the default plan to other places as you see fit |
 | 4 | Add any desired courses to the schedule | Drag and drop courses from the course list on the right side of the page to any semester |
-| 5 | If necessary, fix any errors in scheduling | Correct aany errors the system catches in your plan |
+| 5 | If necessary, fix any errors in scheduling | Correct any errors the system catches in your plan |
 | 6 | Sign out | Click the log out button |
 
 ## Step 3.4 Observe User Interactions
@@ -99,14 +112,13 @@ Beneficial Experiences:
 3. Prerequisite flagging and error messages
 
 Things we did well in usability test:
-1. asked question about how the user felt and how they weree doing at certain points
+1. Asked question about how the user felt and how they were doing at certain points
 
 Things we could improve on in test:
-1. getting someone that has never heard of the ECARPS system before to test it to see a different perspective
+1. Getting someone that has never heard of the ECARPS system before to test it to see a different perspective. Having an incoming freshman use it would be ideal.
 
-Statement about conducting the test:
-Being able to conduct a test that matches our desired product was an issue, we could not test some functions such as saving and signing back in
-The test made us outline what we wanted so we got better information than if we asked for unprompted feedback
+Statement about conducting the test:<br>
+Being able to conduct a test that matches our desired product was an issue. There are certain functions and mechanics we wish to add that differ from how ECARPS is structured. We could not test some functions such as saving and signing back in since we were forced to sign in as a guest. The test made us outline what we information we wanted so we got better information than if we asked for unprompted feedback.
 
 
 # 4. Your UX Rule (Extra Credit)
