@@ -52,8 +52,9 @@ After selecting a job you want to apply for, you can simply hit the apply button
 
 <h2>Monster</h2>
 
-![Sign Up](../assets/MonsterSignUp.jpg)<br>
-![Create Account](.../assets/AccountCreation.jpg)
+![Sign Up](../assets/MonsterSignUp.jpg)
+
+![Create Account](../assets/AccountCreation.jpg)
 The account creation was simple. I was given the option to sign up with Google so I did not have to spend as much time typing my information in. I was then prompted to add some more personal information such as where I attend school. 
 
 ![Home Page](..assets/MonsterHome.jpg)
