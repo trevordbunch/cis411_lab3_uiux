@@ -14,33 +14,61 @@ ___
 
 # Step 2: Evaluate Online Job Search Sites
 https://www.indeed.com/  and  https://www.linkedin.com/
+This is the starting page.
 ![image.](/linkedinUXimages/1.png)
+Clicking the Join now button to create an account.
 ![image.](/linkedinUXimages/2.png)
+inputting my email and password for account.
 ![image.](/linkedinUXimages/3.png)
+Entering name info.
 ![image.](/linkedinUXimages/4.png)
+Entering location information.
 ![image.](/linkedinUXimages/5.png)
+Clicking I am a student button.
 ![image.](/linkedinUXimages/6.png)
+Entering college information.
 ![image.](/linkedinUXimages/7.png)
+Verifying email.
 ![image.](/linkedinUXimages/8.png)
+Clicking not now to input skills first
 ![image.](/linkedinUXimages/9.png)
+Clicking continue as most users would using the highlight button.
 ![image.](/linkedinUXimages/10.png)
+Clicking skip since this is a dummby account.
 ![image.](/linkedinUXimages/11.png)
+Clicking Skip
 ![image.](/linkedinUXimages/12.png)
+Clicking Skip
 ![image.](/linkedinUXimages/13.png)
+Clicking Skip
 ![image.](/linkedinUXimages/14.png)
+Clicking next.
 ![image.](/linkedinUXimages/15.png)
+Clicking finish.
 ![image.](/linkedinUXimages/16.png)
+Clicking me then View profile.
 ![image.](/linkedinUXimages/17.png)
+Clicking add profile section.
 ![image.](/linkedinUXimages/18.png)
+Clicking skill
 ![image.](/linkedinUXimages/19.png)
+adding project management as a skill
 ![image.](/linkedinUXimages/20.png)
+clicking save
 ![image.](/linkedinUXimages/21.png)
+Clicking jobs
 ![image.](/linkedinUXimages/22.png)
+Clicking search jobs
 ![image.](/linkedinUXimages/23.png)
+Clicking an easy apply to the first job presented
 ![image.](/linkedinUXimages/24.png)
+Filling in info then clicking next
 ![image.](/linkedinUXimages/25.png)
+Filling in info then clicking next
 ![image.](/linkedinUXimages/26.png)
+CLicking Review
 ![image.](/linkedinUXimages/27.png)
+Submiting the application
 ![image.](/linkedinUXimages/28.png)
 
 ## 2.1 Summary
