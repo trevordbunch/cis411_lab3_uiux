@@ -98,12 +98,17 @@ Accepting conditions
 ![image.](/IndeedUXimages/2.png)
 Clicking the profil icon to find where to put skills
 ![image.](/IndeedUXimages/3.png)
-I find theres no way to imput skills but there is a way to putloud a resume which can contain skills.
+clicking profil
 ![image.](/IndeedUXimages/4.png)
+I find theres no way to input skills but there is a way to uploud a resume which can contain skills.
 ![image.](/IndeedUXimages/5.png)
+Confirm my resume
 ![image.](/IndeedUXimages/6.png)
+I click on the find a job button.
 ![image.](/IndeedUXimages/7.png)
+I click the apply button
 ![image.](/IndeedUXimages/8.png)
+then i click on a diffrent apply button.
 ![image.](/IndeedUXimages/9.png)
 
 | Category | Grade (0-3) | Comments / Justification |
