@@ -108,10 +108,12 @@ Pros:
 
 Cons:
   - I wish they would explained the difference between premium and free when creating an account
+  - Dashboard graph should be made more recognizable, conclusive, and modifiable 
 
 Overall:
   - TrueBill is very user-friendly and easy to use
   - Offers many extremely useful breakdowns that allow users to limit their spending and monitor subscriptions.
+  - Conducting a usability test offers a user perspective that is only attainable by running a usability test.
 
 
 
