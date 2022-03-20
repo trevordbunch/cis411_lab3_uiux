@@ -128,25 +128,25 @@ List of Competitors
 
 ### Improvements
 <ul>
-<li>Students could add reviews to certain elements that could be viewed from the map.</li>
-<li></li>
-<li></li>
+<li>Icons should better reflect the pages their direct to (a picture of a map should lead to, or close to, a map).</li>
+<li>The map could be better designed for mobile users. Currently all actions use two fingers can zooming can often occur when only moving was intended.</li>
+<li>Having the sidebar show up in a different format on mobile could have made navigation easier than locating it at the bottom of the page.</li>
 </ul>
 
 ### Positive Experiences
 <ul>
-<li></li>
-<li></li>
+<li>Having the menu bar on the top tab always accessible was helpful to relocate the user.</li>
+<li>Large icons on the initial loading of the screen was useful for quick navigation.</li>
 </ul>
 
 ### Team Usability Testing
-
+The team did a good job in selecting a user who did not already know the path to the end goal. We think we gave clear enough instructions to make the user know what we wanted without giving away how the process. 
 
 ### Improvement for Future
-
+I think in the future, having more users perform the test would be more helpful. Having many different uers from different backgrounds could help better tailor the expereince for all users.
 
 ### Expereience
-
+I think the useability test was helpful. I often use Google to navigate to where I want to go instead of going through a webpage so it was eye-opening to see how difficult it can be to navigate through unfamiliar apps and websites. I think conistency across websites and familiar patterns is also really helpful for users to navigate a website.
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
