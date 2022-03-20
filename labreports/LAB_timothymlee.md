@@ -5,7 +5,7 @@ ___
 **Name:** Timothy Lee 
 **GitHub Handle:** timothymlee 
 **Repository:** [Forked Repository](https://github.com/timothymlee/cis411_lab3_uiux)  
-**Collaborators:** Ammanuel Tamrat, Isaac Ho, Reid Burger, Thomas McVey 
+**Collaborators:** Ammanuel Tamrat(AmmanuelT), Isaac Ho(Isaachhm), Reid Burger(ReidBurger), Thomas McVey(ThomasMcVey)
 ___
 
 # Step 1: Confirm Lab Setup
@@ -89,42 +89,64 @@ The formatting of the search results is nice. The filter options are clear but o
 
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case #1 | Finding the Campus Map |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | User must find the Campus Map |
+| Description / Steps | <ol><li>User opens app</li> <li>User is authenticated via biometrics or their password</li><li>User selects "Campus Map" tab</li></ol> |
+| Primary Actor | Messiah University Student |
+| Preconditions | <ol><li>User must be a student at Messiah University.</li><li>App must be downloaded onto device.</li></ol>|
+| Postconditions | <ol><li>The system brings up the campus map.</li><li>The system gives the option to return to the home page.</li></ol> |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. [Falcon Link](https://falconlink.webapps.messiah.edu/)
+2. [Messiah Website](https://www.messiah.edu)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Open [Messiah Website](https://www.messiah.edu) | There are 85 different links that the user could possibly click on on this page. |
+| 2 | Find the "Campus Map" | Users can use the search bar or navigate through the pages |
+| 3 | Open the correct page | [Campus Map](https://tour.messiah.edu/campus-map/) |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Opened Messiah Website | There were lots of icons that the user didn't even bother to look at. |
+| 2 | Clicked on "Visit Campus" | Icon looked like a map. User expected a map option to be available. |
+| 3 | Clicked on "Virtual Tour" | User though a interactive map would be available to see different parts of campus. |
+| 4 | Returned to previous page | Page brought up was not what was expected and as such the user clicked back. |
+| 5 | User clicked on menu bar, went to "about" tab, then "Our Campus" subtab. | Link seemed hidden through multiple clicks. |
+| 6 | User scrolled down and clicked on "Campus Map." | User had to scroll to bottom of page. |
+| 7 | User sees the map and interacts with it. | User doesn't like that the map shifts view while moving around the camera to different zoom levels and the cartoon-ish view. There is also no compass for orientation. The map also does not have a lot of names that are commonly used by Messiah students (North Complex, Fish Bowl vs. Fishbowl). |
+
 
 ## Step 3.5 Findings
-Organize your findings here.
+
+### Improvements
+<ul>
+<li>Students could add reviews to certain elements that could be viewed from the map.</li>
+<li></li>
+<li></li>
+</ul>
+
+### Positive Experiences
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+### Team Usability Testing
+
+
+### Improvement for Future
+
+
+### Expereience
+
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
