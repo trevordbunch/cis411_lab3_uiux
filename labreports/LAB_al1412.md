@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Handshake | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| Handshake | 21 | Handshake is recommended for those looking to find internships and jobs quickly and have better chances of being noticed by employers by also linking them to the employers' websites. |
+| ZipRecruiter | 13 | The website should have had extra pages listing the details of each job listing so that the user would not have to go to the respective employers just to get that information. If it did have those pages, then the website would not seem as unnecessary to use, especially with better options available.  |
 
 ## 2.2 Site 1
 *Step 1: log into Handshake using Messiah credentials.*    
@@ -50,22 +50,26 @@ ___
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  | The site can redirect you to the job listings posted on the website associated with the company offering a position a user is interested in in addition to providing its own application.  |
 | 5. **Omit Words:** How careful was this site with its use of copy? | 3 | The site did not use copy very much, nor did it need to.  |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? | 3  | The navigation was easy to follow and had a smooth workflow when navigating between pages.  |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  | The site is very accessible to a screen reader pr a mobile user, as everything is laid out in a way where usersdo not need to take many steps to get to the information they need.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  | The site is very accessible to a screen reader or a mobile user, as everything is laid out in a way where users do not need to take many steps to get to the information they need.  |
 | **TOTAL** | 21  | Handshake is recommended for those looking to find internships and jobs quickly and have better chances of being noticed by employers by also linking them to the employers' websites.  |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+*Step 1: After logging in, type the keywords for what jobs you are seacrhing for*
+*Step 2: After this, clicking the 'View Details' option under a listing will automatically redirct to the user to the website the listing is hosted on.*
+![image](https://user-images.githubusercontent.com/97567307/159144045-bcdc391d-8287-43a6-87a4-4adbc7207f23.png)
+
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  | The site listed the relevant positions, but didn't provide the details for the position, instead simply having a function to lead the users to the website from the company which gave details on that position  |
+| 2. **Users are busy:** Did this site value your time?  | 2  | While the options were listed in one place, they simply led to redirects of the websites where the positions were listed instead of having its own application.  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1  | The site did allow users to narrow their searches based on location, but the actual job listings only redirected the user to the website of the company which the listing was an employment for  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1  | The listings only led to the website of the employer which had the same posiiton, making everything seem unnecessary if it was just going to provide a redirect.  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | The site did not use copy very much, nor did it need to.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2 | The navigation was simple enough, but the website should have had extra pages for details regarding the jobs matching a user's search.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |   |
+| **TOTAL** | 13  | The website should have had extra pages listing the details of each job listing so that the user would not have to go to the respective employers just to get that information. If it did have those pages, then the website would not seem as unnecessary to use, especially with better options available.  |
 
 
 # Step 3 Competitive Usability Test
