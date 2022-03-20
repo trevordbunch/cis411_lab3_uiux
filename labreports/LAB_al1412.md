@@ -37,7 +37,7 @@ ___
 *Step 4: After clicking the "Apply" (or "Apply Externally" button), attach the necessary files to the application, then press the "Apply" (or "Apply Externally") button*  
 ![image](https://user-images.githubusercontent.com/97567307/159143268-872b9607-281f-4ae6-94c8-509417a09412.png)
 
-*After this, Handshake will redirect the user to the website asscoiated with their job listing, or in some cases have the application submitted directly to the position's respective company*    
+*Step 5: After this, Handshake will redirect the user to the website associated with their job listing, or in some cases have the application submitted directly to the position's respective company*    
 ![image](https://user-images.githubusercontent.com/97567307/159143309-1808cff5-553b-427c-8967-222d1104556f.png)
 
 
