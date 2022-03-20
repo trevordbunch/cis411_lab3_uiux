@@ -23,7 +23,7 @@ ___
 ## 2.2 Handshake
 ### Updating Account
 
-![hsu1](../assets/hsu1.png)
+![hsu1](/assets/hsu1.png)
 
 1. URL: https://joinhandshake.com/
 
