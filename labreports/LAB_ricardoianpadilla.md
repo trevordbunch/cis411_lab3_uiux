@@ -88,11 +88,23 @@ Submiting the application
 | 5. **Omit Words:** How careful was this site with its use of copy? |  3.0 | Overall this site was well off  |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.5 | Navigation was easy and fast to learn. But there was still learning involved |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |  "As part of LinkedIns commitment to accessibility they continuously audit thier products—internally and through a third party—using assistive technology such as screen reading software (e.g., JAWS, NVDA, VoiceOver and TalkBack)." |
-| **TOTAL** |  16.0 |   |
+| **TOTAL** |  18.5|   |
 
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+clicking the fast signin popup to sign in through google
+![image.](/IndeedUXimages/1.png)
+Accepting conditions
+![image.](/IndeedUXimages/2.png)
+Clicking the profil icon to find where to put skills
+![image.](/IndeedUXimages/3.png)
+I find theres no way to imput skills but there is a way to putloud a resume which can contain skills.
+![image.](/IndeedUXimages/4.png)
+![image.](/IndeedUXimages/5.png)
+![image.](/IndeedUXimages/6.png)
+![image.](/IndeedUXimages/7.png)
+![image.](/IndeedUXimages/8.png)
+![image.](/IndeedUXimages/9.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
