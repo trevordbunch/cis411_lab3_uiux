@@ -8,9 +8,11 @@ ___
 **Collaborators:** None
 ___
 
+
 # Step 1: Confirm Lab Setup
 - [x] I have forked the repository and created my lab report
 - [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -69,7 +71,7 @@ Job feed was very useful and I like the short and concise "What" and "Where" sea
 
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case | |
 |---|---|
 | Title | Add Subscription Service |
 | Description / Steps | User must verify their credentials on YourTV as well as the desired subscription service. |
@@ -79,32 +81,37 @@ Job feed was very useful and I like the short and concise "What" and "Where" sea
 
 ## Step 3.2 Identifier a competitive product
 
-List of Competitors
-1. Competitor 1 [truebill](www.truebill/feature/manage-subscriptions.com)
-
+Competitor: [Truebill](www.truebill/feature/manage-subscriptions.com)  
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Creating Account/Logging In | Create a truebill account or login with an existing one. |
+| 2 | View Recurring Subscription Costs | Navigate to the recurring tab of the dashboard |
+| 3 | View Spending Costs | Navigate to the spendings tab of the dashboard |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Creating Account/Logging In | Creating an account was very simple and straightforward. Truebill has an option where you can set up a free account without having premium. |
+| 2 | View Recurring Subscription Costs | Found the recurring tab easily on the dashboard on the left side. They viewed both the 'View All' and the 'Upcoming' tabs. |
+| 3 | View Spending Costs    | Found the spending tab like above. They viewed their monthly breakdown for March as well as their summaries for the previous 5 months.  |
 
 ## Step 3.5 Findings
-Organize your findings here.
+Pros:
+  - Very simple and straight-forward account creation
+  - User-friendly home page that offers everything a user would need to access
+  - The recurring tab is very conclusive and allows the user to make decisions on their subscriptions based on the data.
+  - The spending tab offers a in-depth breakdown of all spending and income for each month.
 
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+Cons:
+  - I wish they would explained the difference between premium and free when creating an account
+
+Overall:
+  - TrueBill is very user-friendly and easy to use
+  - Offers many extremely useful breakdowns that allow users to limit their spending and monitor subscriptions.
+
+
+
