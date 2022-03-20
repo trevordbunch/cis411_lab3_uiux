@@ -10,7 +10,7 @@
 2. Fork this repository to your personal GitHub account (hint: read the page).
 3. Navigate to your forked repository in your GitHub account and copy the reference to your repository in from the <button class="btn btn-sm btn-primary">Clone or Download</button> button.
 4. Open the terminal or command line interface on your development machine, navigate to your chosen working directory, and execute the following command: ```git clone [YOUR COPIED GITHUB CLONE REFERENCE]```.
-5. Navigate to that directory ```cd cis411_lab3_ui/ux```.
+5. Navigate to that directory ```cd cis411_lab3_uiux```.
 6. Create a lab report mardown file (ex. ```cp labreports/LAB_Template.md labreports/LAB_[GITHUB USERNAME].md``` ).
 7. Add your lab report ```git add *```
 8. Add the file to your branch ```git commit -a -m "your commit message"```.
