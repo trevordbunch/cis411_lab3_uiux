@@ -57,7 +57,7 @@ After selecting a job you want to apply for, you can simply hit the apply button
 ![Create Account](../assets/AccountCreation.jpg)
 The account creation was simple. I was given the option to sign up with Google so I did not have to spend as much time typing my information in. I was then prompted to add some more personal information such as where I attend school. 
 
-![Home Page](..assets/MonsterHome.jpg)
+![Home Page](../assets/MonsterHome.jpg)
 After being sent to the home page, I quickly located my account button in the top right corner of the page. I navigated here to add some more personal information and experience.
 
 ![Add Skill](../assets/MonsterAddSkill.jpg)
