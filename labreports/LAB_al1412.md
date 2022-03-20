@@ -44,14 +44,14 @@ ___
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3  |   |
 | 2. **Users are busy:** Did this site value your time?  | 3 | The listings are listed in an easily accessible manner so that users can quickly come back to them as needed and fill out the quick application process when they do.  |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | The important steps were made clear through the layout of the jobs and details page, which displayed further steps to apply for the specified position.  |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  | The site can redirect you to the job listings posted on the website associated with the company offering a position a user is interested in in addition to providing its own application.  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | The site did not use copy very much, nor did it need to.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3  | The navigation was easy to follow and had a smooth workflow when navigating between pages.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  | The site is very accessible to a screen reader pr a mobile user, as everything is laid out in a way where usersdo not need to take many steps to get to the information they need.  |
+| **TOTAL** | 21  | Handshake is recommended for those looking to find internships and jobs quickly and have better chances of being noticed by employers by also linking them to the employers' websites.  |
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
