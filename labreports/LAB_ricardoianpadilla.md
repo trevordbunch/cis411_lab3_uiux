@@ -152,11 +152,11 @@ List of Competitors
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Search for a trail base on users city  |The user will have a search bar indicating to enter the disired location they wish to hike   |
+| 2 | Sign into or create account  |  The user must login or sign up into the site on the main page |
+| 3 | Go to alltrails shop | the user can click on the shop on the main page |
+| 4 |  Search trails based on dificulty | the user can click explore and has the option to find locations based on the difficult level or location  |
+
 
 ## Step 3.4 Observe User Interactions
 
