@@ -2,10 +2,10 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Ammanuel Tamrat
+**GitHub Handle:** AmmanuelT  
+**Repository:** [Forked Repository](https://github.com/AmmanuelT/cis411_lab3_uiux)  
+**Collaborators:** Timothy Lee, Thomas McVey, Isaac Ho, Reid Burger
 ___
 
 # Step 1: Confirm Lab Setup
@@ -101,42 +101,48 @@ I like that salary information is posted. I also like the presence of informatio
 
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case #1 ||
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Finding The Campus Map |
+| Description / Steps | 1. The user opens the app. <br> 2. The user log into the app <br> 3. The users presses "Campus map" tab. |
+| Primary Actor | Messiah University Student|
+| Preconditions | 1. The user must have a valid messiah university email <br> 2. The user have the app downloaded |
+| Postconditions | 1. The campus map is displayed on the screen <br> 2. The system gives the option to return to the home page|
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Falcon Link](https://falconlink.webapps.messiah.edu/)
+2. Competitor 2 [Messiah Website](https://www.messiah.edu/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Opening the messiah website  |   |
+| 2 | Searching for the map  | Users can use the search bar or navigate through the website  |
+| 3 | Selecting the right result  |   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Opening the messiah website  |   |
+| 2 | Searching for the map  | - The user tried clicking on the map icon but could not find a map on the resulting page. <br> - The user also tried to go to the about page and could not find the map. <br> - The user finally found the map in the bottom navigation section of the website  |
+| 3 | Selecting the right result  | - The user liked that the campus map is up to date <br> - The user did not like that the map changes between a realistic map and an animated one as it was confusing <br> - The user did not like that the map did not have labels <br> - The user did not like that map does not bring up results if there is a typo in the search|
 
 ## Step 3.5 Findings
-Organize your findings here.
+- Improvements that I beleive could be made:
+  - The map icon does not lead to a page with a map. I would add a map to the linked page as users would expect one.
+  - The user had a hard time navigating using the navigation bar at the top of the website. I would add icons and more descriptive titles so that users have the right expectations when clicking a link.
+  - I would add an indicator of where the user is as navigating the pages on a phone can be confusing.<br>
 
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+- Experiences in the workflow that I  believe were of benefit to the user: 
+  - The presence of a search bar helps the user in navigating the website.
+  - The content is not too overwhelming as there is a descent amount of whitespace between the different texts.<br>
+
+
+- I beleive that expressing our observations and discussing them as a team was something that our team did well in conducting the usability test.
+- We could have asked more questions to the user about what improvments they would like to see.
+- Conducting a usability test was a good experience seeing how other people navigate systems. In particular it helped me realize how the design can have an impact on how users use the product. In the future I will use usability test to make sure that my designs are providing the best user experience.
+
