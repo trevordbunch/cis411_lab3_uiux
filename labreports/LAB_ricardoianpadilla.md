@@ -124,16 +124,23 @@ then i click on a diffrent apply button.
 
 
 # Step 3 Competitive Usability Test
+List of Competitors
+
+      -Competitor 1 https://www.alltrails.com/
+
+      -Competitor 2 https://www.gaiagps.com/
+Step 3.3 Write a Useability Tes
 
 ## Step 3.1 Product Use Case
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Finding a offtrail location | |
+| Description |How the user will navigate the app to find a location that they wish to discover|
+| Steps |<ol> <li>The user will login/register</li><li>Using the toolbar the user will navigate to the map which will show nearby location which they can choose or use the search-bar to find location in a diffrent area.</li><li>The user can now choose a location and get information such as location,images of the location, and a decription on how to get to the location.</li></ol> |
+| Primary Actor |hiker/user intrested in hiking|
+| Preconditions |<ul><li>App downloaded</li><li>Internet</li></ul>|
+| Postconditions |Given desired location|
 
 ## Step 3.2 Identifier a competitive product
 
