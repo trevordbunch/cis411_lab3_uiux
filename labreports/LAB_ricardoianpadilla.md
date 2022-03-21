@@ -17,8 +17,8 @@ https://www.indeed.com/  and  https://www.linkedin.com/
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Indeed | Score 1 | Summary 1 |
-| Linkedin | Score 2 | Summary 2 |
+| Indeed | 17 |This site was strait to the point but was alittle too dull and could have added ways to make the user do less work when it cam to uplouding the resume.Because the resume is require to use this site I feel it should have been apart of the regristration process instead of the user having to find it in the setting on profile.|
+| Linkedin | 18.5 | Over all this was a great site, but with a few flaws of adding unnecessary option based on the users intention. |
 
 ## 2.2 Site 1
 
@@ -129,13 +129,13 @@ List of Competitors
       -Competitor 1 https://www.alltrails.com/
 
       -Competitor 2 https://www.gaiagps.com/
-Step 3.3 Write a Useability Tes
+Step 3.3 Write a Useability Test
 
 ## Step 3.1 Product Use Case
 
 | Use Case #1 | |
 |---|---|
-| Finding a offtrail location | |
+| Title | Finding a offtrail location|
 | Description |How the user will navigate the app to find a location that they wish to discover|
 | Steps |<ol> <li>The user will login/register</li><li>Using the toolbar the user will navigate to the map which will show nearby location which they can choose or use the search-bar to find location in a diffrent area.</li><li>The user can now choose a location and get information such as location,images of the location, and a decription on how to get to the location.</li></ol> |
 | Primary Actor |hiker/user intrested in hiking|
