@@ -8,7 +8,7 @@ ___
 **Collaborators:**   
 [Timothy Lee](https://github.com/timothymlee)   
 [Thomas McVey](https://github.com/ThomasMcVey)   
-[AmmanuelT](https://github.com/AmmanuelT)   
+[Ammanuel Tammarat](https://github.com/AmmanuelT)   
 [Isaac Ho](https://github.com/Isaachhm)   
 ___
 
@@ -103,8 +103,8 @@ The previous five screenshots show the lengthy application process compared to I
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [Messiah.edu](https://www.messiah.edu/)
-2. Competitor 2 [Falcon Link](https://falconlink.webapps.messiah.edu/)
+1. [Messiah.edu](https://www.messiah.edu/)
+2. [Falcon Link](https://falconlink.webapps.messiah.edu/)
 
 ## Step 3.3 Write a Useability Test
 
