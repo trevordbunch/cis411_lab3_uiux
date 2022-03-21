@@ -2,7 +2,7 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Ammanuel Tamrat
+**Name:** Ammanuel Tamrat <br>
 **GitHub Handle:** AmmanuelT  
 **Repository:** [Forked Repository](https://github.com/AmmanuelT/cis411_lab3_uiux)  
 **Collaborators:** Timothy Lee, Thomas McVey, Isaac Ho, Reid Burger
