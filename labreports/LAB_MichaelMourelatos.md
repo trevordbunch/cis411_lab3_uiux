@@ -179,7 +179,7 @@ ___
 
 **List of Competitors**:
 
-Competitor 1 [Yelp](https://www.yelp.com/)
+Competitor 1: [Yelp](https://www.yelp.com/)
 
 ## Step 3.3 Write a Useability Test
 
