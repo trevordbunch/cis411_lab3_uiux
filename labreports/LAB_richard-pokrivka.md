@@ -2,11 +2,11 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** R  
+**Name:** Richard Pokrivka  
 **GitHub Handle:** richard-pokrivka  
-**Repository:** Your Forked Repository  
+**Repository:** [Forked Repository](https://github.com/richard-pokrivka/cis411_lab3_uiux.git) 
 **Collaborators:**   
-___I worked with the members of my group @al1412, @andrewcoldsmith, @jpadovano1483
+I worked with the members of my group @al1412, @andrewcoldsmith, @jpadovano1483
 
 # Step 1: Confirm Lab Setup
 - [X] I have forked the repository and created my lab report
@@ -107,6 +107,3 @@ Our team could get a "pure" outsider. We used Jamie, a member of our team, and w
 
 Experience
 Having the outline allowed for better information to be extracted from the process
-
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
