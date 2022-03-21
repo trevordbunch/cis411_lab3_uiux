@@ -162,11 +162,11 @@ List of Competitors
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |  Search for a trail base on users city |  user clicked on searchbar then click on search bar and clicked on all then trails then locations then exited search bar and scrolled through the main page on near me |
+| 2 |  Sign into or create account  |  user click button and didnt create an account and just went back to the home page |
+| 3 | Go to alltrails shop   |   user click on the shop then on alltrails gear in the dropdown menu then scrolled to see avalible products|
+| 4 |  Search trails based on dificulty | User clicked on explore then clicked on dificulty then chose hard and found no hard location near him then proceded to click on moderate and found 9 locations in this area |
+
 
 ## Step 3.5 Findings
 Organize your findings here.
