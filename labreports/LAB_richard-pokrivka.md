@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Richard Pokrivka  
 **GitHub Handle:** richard-pokrivka  
-**Repository:** [Forked Repository](https://github.com/richard-pokrivka/cis411_lab3_uiux.git) 
+**Repository:** [Forked Repository](https://github.com/richard-pokrivka/cis411_lab3_uiux.git)  
 **Collaborators:**   
 I worked with the members of my group @al1412, @andrewcoldsmith, @jpadovano1483
 
@@ -92,18 +92,22 @@ List of Competitors
 | 7 | Log Out| Very simple process, took one button click|
 
 ## Step 3.5 Findings
-Improvements
-Ability so search or sort the courses on the side.
+### Improvements
+Ability to search or sort the courses on the side.
 
-Beneficial Experiences
+### Beneficial Experiences
 Automatically filling all the neccessary courses for a major in different semesters is very helpful especially for someone that may be new/inexperienced.
 The prerequisite flagging when moving courses is helpful for preventing scheduling errors.
 
-Usability Test Success
+### Usability Test Success
 Asking loaded questions such as how doing certain processes made the users feel, where there was any confusion, and more just to get honest feedback was a very successful aspect and allowed our group to 
 
-Usability Test Improvement
+### Usability Test Improvement
 Our team could get a "pure" outsider. We used Jamie, a member of our team, and we all had a general understanding of the process from looking at ECARPS for writing the Usability Test. Having someone with absolutely zero experience with the process, should provide some different and potentially more meaningful feedback.
 
-Experience
+### Experience
 Having the outline allowed for better information to be extracted from the process
+
+## Step 4 The 11th Rule
+### Accessibility for All
+In today's day and age, more and more people with differring circumstances need to be considered and accounted for. It would be selfish to assume a website created under one person would work the same for everyone. Thus, color choices need to be taken into consideration to account for people sufferring from color blindness or other visual impairments and all images need to to have alternate text descriptions to ensure a screen reader can adequately describe the site for someone with a difficulty with sight or other visual impairment.
