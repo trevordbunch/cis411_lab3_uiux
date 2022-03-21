@@ -96,7 +96,6 @@ ___
 
 List of Competitors
 1. Competitor 1 [wwww.yelp.com](https://www.yelp.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
 
 ## Step 3.3 Write a Useability Test
 Signing up for a Yelp account
