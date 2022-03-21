@@ -81,13 +81,13 @@ Submiting the application
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |  3 |  It was a pretty normal sign-up, navigating through the page was easy. |
+| 1. **Don't make me think:** How intuitive was this site? |  3.0 |  It was a pretty normal sign-up, navigating through the page was easy. |
 | 2. **Users are busy:** Did this site value your time?  | 2.0  |  It has things that weren't necessary for the signup. If I have to click skip more than 3 times its too much(especially if it doesn't correlate with the signup process).But outside the sign-up process it seem fast.|
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | It made all required information short and concise and was easy to navigate through and easy to understand,  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3.0 | It made all required information short and concise and was easy to navigate through and easy to understand,  |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2.0 |  Yes it did but in signup showing the user it connect option showing what linkedin is known for but outside of the sign in process the user is free to take any path they want.|
 | 5. **Omit Words:** How careful was this site with its use of copy? |  3.0 | Overall this site was well off  |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.5 | Navigation was easy and fast to learn. But there was still learning involved |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3  |  "As part of LinkedIns commitment to accessibility they continuously audit thier products—internally and through a third party—using assistive technology such as screen reading software (e.g., JAWS, NVDA, VoiceOver and TalkBack)." |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3.0  |  "As part of LinkedIns commitment to accessibility they continuously audit thier products—internally and through a third party—using assistive technology such as screen reading software (e.g., JAWS, NVDA, VoiceOver and TalkBack)." |
 | **TOTAL** |  18.5|   |
 
 
@@ -113,14 +113,14 @@ then i click on a diffrent apply button.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3.0 |  the site was simple there was no thinking other than trying to find where i could put my skills |
+| 2. **Users are busy:** Did this site value your time?  |  3.0 |  signing up for this site was fast with zero detours |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2.5 |yes it would have been nice though if they required a resume during the regristration process so that you would have to find it in the setteting to input it |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1.0 | There was zero direct it just drops you to the general site with no guidance but the site is intuitive|
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3.0  | I didnt see any repetition of words |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.5 |it was not too hard but dull and didnt feel as smooth as i wanted it too be |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2.0 | I couldnt find any statements on assessibility on the manner but they do have an moble app and text reader for websites do exist but i feel they should have atleast have a statement on the manner just like LinkedIn.|
+| **TOTAL** | 17.0  |   |
 
 
 # Step 3 Competitive Usability Test
