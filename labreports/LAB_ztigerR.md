@@ -1,11 +1,10 @@
 # Lab Report: UX/UI
 ___
-**Course:** CIS 411, Spring 2021  
+**Course:** CIS 411, Spring 2022  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
-**Collaborators:**   
+**Name:** Tyler Regitz  
+**GitHub Handle:** [ztigerR](https://github.com/ztigerR)  
+**Repository:** [Forked Repository](https://github.com/ztigerR/cis411_lab3_uiux)    
 ___
 
 # Step 1: Confirm Lab Setup
@@ -109,40 +108,52 @@ $~$
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Creating an Account |
+| Description / Steps | Create username, Create password, Enter email, Verify email |
+| Primary Actor | New User |
+| Preconditions | Must own a valid email address|
+| Postconditions | User has access to the rest of the app|
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [www.truebill.com](www.truebill.com)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Create account | This requires the user to enter their banking infromation but I dont think our app should do this because of deal with keeping banking information secure.  |
+| 2 | View Monthy Budget  | True bill keeps track of your money spent each month and breaks it done into categories.  |
+| 3 | Remove a subscription  | Click on a subscription you can choose to remove it, however this will need to be done outside of the site becasue this feature requires a premium account.  |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Create account  | Easy to start with a big blue button top right.  |
+| 2 | View Monthy Budget  | Found this very easily with the navigation bar, and was able to tell me what they spent in the month of febuary.  |
+| 3 | Remove Subscription  | Becasue truebill has the monthly budgets broken down in categories it was easy for the tester to find and remove a subscription that they did not want anymore, However they had to go to a different site to actually remove it. Showed a little frustration from that.  |
 
 ## Step 3.5 Findings
-Organize your findings here.
+First improvement would be a button add after creating your account to see your monthly budget right away, That way the user does not need an extra step leaving the account page.
 
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+Second improvement would be adding a way to track user activity on the subscription that they have, and then put the subscription that they have not used in a while into their own category in the monthly budget breakdown.
+
+Third improvement would be more estatic. Truebill has categories for differet entries in the monthly budget. This could be taken even further with the background of these entries having a diffrent color to very easily see the category.
+
+$~$
+
+One workflow that truebill has done well is the option to have truebill remove a subscrition for the user. Even though this is blocked behind a paywall it is an excellent show of how truebill values user time.
+
+Second good workflow is the time it takes to create an account. It is very quick and because the user adds a bank account, it does not require the user to enter all of there subscriptions, but grabs them from the bank account info.
+
+$~$
+
+One thing that we did well is grab diffrent people for the useability test. This way we get different views from different people.
+
+One thing that we could impove was our communication, I did not really feel that truebill is a great competitor to our app becasue of how much more it can do. Also I did not think that our app would be dealing with banking information.
+
+$~$
+
+I mean it was not fun, It was just tedious work creating a test and then conducting it on multiple people. This is like the part of the science fair that I dislike.
