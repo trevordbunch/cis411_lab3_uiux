@@ -5,7 +5,7 @@ ___
 **Name:** Alanah Inniss  
 **GitHub Handle:** alanahinniss  
 **Repository:** https://github.com/alanahinniss/cis411_lab3_uiux.git  
-**Collaborators:**   
+**Collaborators:**   Michael Mourelatos, Nate Bowman, Corum McCuller
 ___
 
 # Step 1: Confirm Lab Setup
