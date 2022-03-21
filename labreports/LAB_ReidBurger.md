@@ -6,10 +6,10 @@ ___
 **GitHub Handle:** [ReidBurger](https://github.com/ReidBurger)   
 **Repository:** [My Forked Repo](https://github.com/ReidBurger/cis411_lab3_uiux)   
 **Collaborators:**   
-[Name](https://github.com/)   
-[Name](https://github.com/)   
-[Name](https://github.com/)   
-[Name](https://github.com/)   
+[Timothy Lee](https://github.com/timothymlee)   
+[Thomas McVey](https://github.com/ThomasMcVey)   
+[AmmanuelT](https://github.com/AmmanuelT)   
+[Isaac Ho](https://github.com/Isaachhm)   
 ___
 
 # Step 1: Confirm Lab Setup
@@ -92,42 +92,39 @@ The previous five screenshots show the lengthy application process compared to I
 
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case #1 | Finding the Campus Map |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | User must find the campus map to be able to direct themselves. |
+| Description / Steps | 1. User opens the app. <br>2. User is authenticated with either biometrics or their password. <br>3. User presses on "Campus Map" tab. |
+| Primary Actor | Messiah University Students |
+| Preconditions | 1. User must be a student at Messiah University. <br>2. User must have app downloaded. |
+| Postconditions | 1. The system brings up campus map. <br>2. The system gives the option to return to the home page when the user wants. |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Messiah.edu](https://www.messiah.edu/)
+2. Competitor 2 [Falcon Link](https://falconlink.webapps.messiah.edu/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Opening the Messiah website.  |   |
+| 2 | Searching for the map.  | The user can use the search bar to find the campus map. |
+| 3 | Selecting the right result and opening the map.  |   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Opened Messiah Website | There were lots of icons that the user didn't even bother to look at. |
+| 2 | Clicked on "Visit Campus" | Icon looked like a map. User expected a map option to be available. |
+| 3 | Clicked on "Virtual Tour" | User though a interactive map would be available to see different parts of campus. |
+| 4 | Returned to previous page | Page brought up was not what was expected and as such the user clicked back. |
+| 5 | User clicked on menu bar, went to "about" tab, then "Our Campus" subtab. | Link seemed hidden through multiple clicks. |
+| 6 | User scrolled down and clicked on "Campus Map." | User had to scroll to bottom of page. |
+| 7 | User sees the map and interacts with it. | User doesn't like that the map shifts view while moving around the camera to different zoom levels and the cartoon-ish view. There is also no compass for orientation. The map also does not have a lot of names that are commonly used by Messiah students (North Complex, Fish Bowl vs. Fishbowl).
 
 ## Step 3.5 Findings
-Organize your findings here.
-
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+It seems that the main problem with the Messiah.edu and Falcon Link sites is the over-abundance of information and lack of consistent organization. There are also a few other minor features that could be added, such as a Reddit-like students suggestions forum, but I believe that the brunt of the problem comes from the information overload. The website could benefit from a simplification of information and more billboard-like design so that the user path becomes more obvious and easy to follow. The user at one point had to go back because they intuitively assumed that the virtual tour would also have the map, but it didn't, so that's something to keep in mind when we create MU Resources.
