@@ -145,8 +145,8 @@ Step 3.3 Write a Useability Test
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1  https://www.alltrails.com/
+2. Competitor 2 https://www.gaiagps.com/
 
 ## Step 3.3 Write a Useability Test
 
@@ -165,11 +165,14 @@ List of Competitors
 | 1 |  Search for a trail base on users city |  user clicked on searchbar then click on search bar and clicked on all then trails then locations then exited search bar and scrolled through the main page on near me |
 | 2 |  Sign into or create account  |  user click button and didnt create an account and just went back to the home page |
 | 3 | Go to alltrails shop   |   user click on the shop then on alltrails gear in the dropdown menu then scrolled to see avalible products|
-| 4 |  Search trails based on dificulty | User clicked on explore then clicked on dificulty then chose hard and found no hard location near him then proceded to click on moderate and found 9 locations in this area |
+| 4 |  Search trails based on dificulty | first the user click on the search bar then type hard but could get any results that way then he clicked on explore then clicked on dificulty then chose hard and found no hard location near him then proceded to click on moderate and found 9 locations in this area |
 
 
 ## Step 3.5 Findings
-Organize your findings here.
+Cons:
+<ul><li>The user found the drop menu in the search bar to be confusing because it not a common and hard to figure out how to navigate.</li><li>The user did strugle looking for how to choose the difuculty level of trail</li></ul>
+Pros:
+<ul><li>the user did find it conveniet to scroll down compare to using the search bar with the locations near him being on the homepage.</li><li>the user found the show quickly</li><li>The login was fast for him and yes to find</li></ul>
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+I op out of extra credit.
