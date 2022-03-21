@@ -86,40 +86,58 @@ ___
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Searching for Churches Near Me |
+| Description / Steps | The user, once creating an account, searches for churches near them using the search bar. |
+| Primary Actor | User |
+| Preconditions | User must be logged in to ChurchSearch |
+| Postconditions | There will be a search history of the user’s previous searches |\
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
+1. Competitor 1 [wwww.yelp.com](https://www.yelp.com)
 2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
 
 ## Step 3.3 Write a Useability Test
+Signing up for a Yelp account
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Click the SignUp Button  |   |
+| 2 | Enter preferred information  | Depending on the option they used for signup it will either bring them to the yelp homepage or another step. |
+| 3 | Change near to desired location  |   |
+| 4 | Search for Christian Churches |   |
 
 ## Step 3.4 Observe User Interactions
 
-| Step | Tasks | Observations |
+| Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Click the SignUp Button  | The user was able to identify the signup button easily.  |
+| 2 | Enter preferred information  | Since the user decided to signup using their Google account, they were directed to the Yelp homepage. |
+| 3 | Change near to desired location  | This was a simple task, they changed their location to their hometown. |
+| 4 | Search for Christian Churches | The appreciated how visible the search bar was. They searced for "Christian churches" and was able to find what they searched for. Another point the appreciated was how once they entered their desired location they site does not ask tehm to re-enter it. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+Improvements
+1) A user should be able to insert multiple locations for a search.
+2) The "add a photo" and "write a review" tab should not direct the user to another tab, instead they should be able to add on the main business page. 
+3) The yelp talk tab should be more explained. When navigating through the yelp site, the user identified that someone who is not advanced in technology may not understand exactly what this tab is about. 
+
+Benefits:
+1) Overall, the site is well developed and easy to use. 
+2) The sign up prcoess is not long and overbearing. 
+
+What Our Team Did Well:
+- The usability test was able to cover different aspects. 
+
+What Could We Improve On?
+- The team could possibly find a task that is a little bit more challenging for a usability test.
+
+Statement:
+This experience was a success. Considering it was the first one, both the user and I felt comfortable walking through and explaingin the series of actions. However, a possible difficutly conducting a usability test is that the user may forget to elaborate/explain the task and the steps they are taking. 
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+
+**"Don't assume."**
+
+There is a very famous line from the movie Under Siege 2: Dark Territory about assumptions - which cannot be repeated. Regarding UI/UX design, one should not assume that they know exaclty what their audience want. They should also never assume that a user would use a product in a certain way. As a result, it is important for the designer to try to place themselves within the users shoes or even ask others for advice and tips throughout the process. This is important to keep in mind becasue we may forget that sometimes our assumptions are structured by our biases. Moreover, based on our decisions, it will and can impact many.
