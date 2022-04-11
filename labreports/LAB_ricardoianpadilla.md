@@ -134,7 +134,7 @@ Step 3.3 Write a Useability Test
 
 ## Step 3.1 Product Use Case
 
-| Use Case #1 | |
+| Use Case | |
 |---|---|
 | Title | Finding a offtrail location.|
 | Description |How the user will navigate the app to find a location that they wish to discover.|
@@ -143,13 +143,13 @@ Step 3.3 Write a Useability Test
 | Preconditions |<ul><li>App downloaded</li><li>Internet</li></ul>|
 | Postconditions |Given desired location with ease and speed less that 1 second with a target goal of .5 seconds.|
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Competitive applications
 
 List of Competitors
 1. Competitor 1  https://www.alltrails.com/
 2. Competitor 2 https://www.gaiagps.com/
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Writen Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
@@ -158,22 +158,37 @@ List of Competitors
 | 3 | Go to alltrails shop | The user can click on the shop on the main page. |
 | 4 |  Search trails based on dificulty | The user can click explore and has the option to find locations based on the difficult level or location.  |
 
-
 ## Step 3.4 Observe User Interactions
 
+```Competitor 1```
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |  Search for a trail base on users city |  user clicked on searchbar then click on search bar and clicked on all then trails then locations then exited search bar and scrolled through the main page on near me |
-| 2 |  Sign into or create account  |  user click button and didnt create an account and just went back to the home page |
+| 1 |  Search for a trail base on users city |  The user clicked on searchbar then clicked on "all" then clicked on "trails" then clicked on "locations" then exited search bar and scrolled through until he found "near me" section of the home page. |
+| 2 |  Sign into or create account  |  The user click the sign button and didnt create an account and just went back to the home page |
 | 3 | Go to alltrails shop   |   user click on the shop then on alltrails gear in the dropdown menu then scrolled to see avalible products|
 | 4 |  Search trails based on dificulty | first the user click on the search bar then type hard but could get any results that way then he clicked on explore then clicked on dificulty then chose hard and found no hard location near him then proceded to click on moderate and found 9 locations in this area |
 
+```Competitor 2```
+| Step | Tasks | Notes |
+|---|---|---|
+| 1 | Search for a trail base on users city  |The user could not find how to do so without signing up for the first 15 seconds.After 20 seconds he founs in the footer a find trails link. He trys inputing his zip code into the search bar but then gets a error page 404 which i consider a fail for this site |
+| 2 | Sign into or create account  |  The user looks around for 10 second then clicks on the expandable menu then clicks sign up. he chooses not to sign up because he doesn't want emails from this application.|
+| 3 | Go to alltrails shop. Note: because this site didn't have a shop I asked the tester to find how to sign up for a premium feature)| The user remembered that in the footer there was a Outside++ option when looking for the map. He quickly finds where he can sign up for a premium feature.|
+| 4 |  Search trails based on dificulty | After the failed expirence of the user trying to find a location based on location the user decided to click on a option location text link near him. and was greeted with a list that showed the difficulty level under each option. He wasnt able to search based on difficulty but was able to sort the option base on difficulty.  |
+
 
 ## Step 3.5 Findings
+```Competitor 1```
 Cons:
 <ul><li>The user found the drop menu in the search bar to be confusing because it not a common and hard to figure out how to navigate.</li><li>The user did strugle looking for how to choose the difuculty level of trail</li></ul>
 Pros:
-<ul><li>the user did find it conveniet to scroll down compare to using the search bar with the locations near him being on the homepage.</li><li>the user found the show quickly</li><li>The login was fast for him and yes to find</li></ul>
+<ul><li>The user did find it conveniet to scroll down compare to using the search bar with the locations near him being on the homepage.</li><li>The user found the show quickly.</li><li>The login was fast for him and yes to find</li></ul>
+
+```Competitor 2```
+Cons:
+<ul><li>The user encountered an error with no solution on top of having difficulty finding the maps. Based on the users reaction looking for something for more than 10 seconds is frustraing to the user.</li><li>The user didnt like how the home page to the site was purely a signup page. He felt thatn he has to sign up before getting access to the application.</li></ul>
+Pros:
+<ul><li>When the user did find the map it had a good layout</li>
 
 # 4. Your UX Rule (Extra Credit)
 I op out of extra credit.
