@@ -17,8 +17,9 @@ https://www.indeed.com/  and  https://www.linkedin.com/
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Indeed | 17 |This site was strait to the point but was alittle too dull and could have added ways to make the user do less work when it cam to uplouding the resume.Because the resume is require to use this site I feel it should have been apart of the regristration process instead of the user having to find it in the setting on profile.|
 | Linkedin | 18.5 | Over all this was a great site, but with a few flaws of adding unnecessary option based on the users intention. |
+| Indeed | 17.75 |This site was strait to the point but was alittle too dull and could have added ways to make the user do less work when it cam to uplouding the resume.Because the resume is require to use this site I feel it should have been apart of the regristration process instead of the user having to find it in the setting on profile.|
+
 
 ## 2.2 Site 1
 
@@ -26,7 +27,7 @@ This is the starting page.
 ![image.](/linkedinUXimages/1.png)
 Clicking the Join now button to create an account.
 ![image.](/linkedinUXimages/2.png)
-inputting my email and password for account.
+Inputting my email and password for account.
 ![image.](/linkedinUXimages/3.png)
 Entering name info.
 ![image.](/linkedinUXimages/4.png)
@@ -46,25 +47,25 @@ Clicking skip since this is a dummby account.
 ![image.](/linkedinUXimages/11.png)
 Clicking Skip
 ![image.](/linkedinUXimages/12.png)
-Clicking Skip
+Clicking Skip(Clicking skip for the third time shows that there are things being put into the create an account process that are not needed. This in my opion is a waste of the users time. Although the waste of time is small it is annoying in some cases.)
 ![image.](/linkedinUXimages/13.png)
-Clicking Skip
+Clicking Skip(Fourth time!!)
 ![image.](/linkedinUXimages/14.png)
 Clicking next.
 ![image.](/linkedinUXimages/15.png)
-Clicking finish.
+Clicking finish(I understand they want to make the user aware of there features but making apart of the sign up process is timely it should be optional to save the users time).
 ![image.](/linkedinUXimages/16.png)
-Clicking me then View profile.
+Clicking me then View profile( profile was easy to find).
 ![image.](/linkedinUXimages/17.png)
-Clicking add profile section.
+Clicking add profile section(because ive used linked in before i knew where to find the add skills but to a new user it would take roughly a minute or less to find).
 ![image.](/linkedinUXimages/18.png)
 Clicking skill
 ![image.](/linkedinUXimages/19.png)
-adding project management as a skill
+Adding project management as a skill
 ![image.](/linkedinUXimages/20.png)
-clicking save
+Clicking save
 ![image.](/linkedinUXimages/21.png)
-Clicking jobs
+Clicking jobs(which is easy to find)
 ![image.](/linkedinUXimages/22.png)
 Clicking search jobs
 ![image.](/linkedinUXimages/23.png)
@@ -92,13 +93,13 @@ Submiting the application
 
 
 ## 2.3 Site 2
-clicking the fast signin popup to sign in through google
+Clicking the fast signin popup to sign in through google
 ![image.](/IndeedUXimages/1.png)
 Accepting conditions
 ![image.](/IndeedUXimages/2.png)
-Clicking the profil icon to find where to put skills
+Clicking the profile icon to find where to put skills
 ![image.](/IndeedUXimages/3.png)
-clicking profil
+clicking profile
 ![image.](/IndeedUXimages/4.png)
 I find theres no way to input skills but there is a way to uploud a resume which can contain skills.
 ![image.](/IndeedUXimages/5.png)
@@ -108,19 +109,19 @@ I click on the find a job button.
 ![image.](/IndeedUXimages/7.png)
 I click the apply button
 ![image.](/IndeedUXimages/8.png)
-then i click on a diffrent apply button.
+Then i click on a diffrent apply button.
 ![image.](/IndeedUXimages/9.png)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? | 3.0 |  the site was simple there was no thinking other than trying to find where i could put my skills |
-| 2. **Users are busy:** Did this site value your time?  |  3.0 |  signing up for this site was fast with zero detours |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2.5 |yes it would have been nice though if they required a resume during the regristration process so that you would have to find it in the setteting to input it |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1.0 | There was zero direct it just drops you to the general site with no guidance but the site is intuitive|
-| 5. **Omit Words:** How careful was this site with its use of copy? | 3.0  | I didnt see any repetition of words |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.5 |it was not too hard but dull and didnt feel as smooth as i wanted it too be |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2.0 | I couldnt find any statements on assessibility on the manner but they do have an moble app and text reader for websites do exist but i feel they should have atleast have a statement on the manner just like LinkedIn.|
-| **TOTAL** | 17.0  |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3.0 |  The site was simple there was no thinking other than trying to find where I could put my skills. |
+| 2. **Users are busy:** Did this site value your time?  |  3.0 |  Signing up for this site was fast with zero detours. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2.5 |Yes it would have been nice though if they required a resume during the regristration process so that you wouldn't have to find it in the setteting to input it. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1.75 | There was zero direct it just drops you to the general site with no guidance but the site was very intuitive.|
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3.0  | I didn't see any repetition of words. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  2.5 |It was not too hard but dull and didnt feel as smooth as I wanted it too be. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2.0 | I couldnt find any statements on assessibility on the manner but they do have an moble app and text reader for websites do exist but I feel they should have atleast have a statement on the manner just like LinkedIn.|
+| **TOTAL** | 17.75  |   |
 
 
 # Step 3 Competitive Usability Test
@@ -135,12 +136,12 @@ Step 3.3 Write a Useability Test
 
 | Use Case #1 | |
 |---|---|
-| Title | Finding a offtrail location|
-| Description |How the user will navigate the app to find a location that they wish to discover|
-| Steps |<ol> <li>The user will login/register</li><li>Using the toolbar the user will navigate to the map which will show nearby location which they can choose or use the search-bar to find location in a diffrent area.</li><li>The user can now choose a location and get information such as location,images of the location, and a decription on how to get to the location.</li></ol> |
-| Primary Actor |hiker/user intrested in hiking|
+| Title | Finding a offtrail location.|
+| Description |How the user will navigate the app to find a location that they wish to discover.|
+| Steps |<ol> <li>The user will login/register.</li><li>Using the toolbar the user will navigate to the map which will show nearby location which they can choose or use the search-bar to find location in a diffrent area.</li><li>The user can now choose a location and get information such as location,images of the location, and a decription on how to get to the location.</li></ol> |
+| Primary Actor |Hiker/User intrested in hiking.|
 | Preconditions |<ul><li>App downloaded</li><li>Internet</li></ul>|
-| Postconditions |Given desired location|
+| Postconditions |Given desired location with ease and speed less that 1 second with a target goal of .5 seconds.|
 
 ## Step 3.2 Identifier a competitive product
 
@@ -152,10 +153,10 @@ List of Competitors
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 | Search for a trail base on users city  |The user will have a search bar indicating to enter the disired location they wish to hike   |
-| 2 | Sign into or create account  |  The user must login or sign up into the site on the main page |
-| 3 | Go to alltrails shop | the user can click on the shop on the main page |
-| 4 |  Search trails based on dificulty | the user can click explore and has the option to find locations based on the difficult level or location  |
+| 1 | Search for a trail base on users city  |The user will have a search bar indicating to enter the disired location they wish to hike.   |
+| 2 | Sign into or create account  |  The user must login or sign up into the site on the main page. |
+| 3 | Go to alltrails shop | The user can click on the shop on the main page. |
+| 4 |  Search trails based on dificulty | The user can click explore and has the option to find locations based on the difficult level or location.  |
 
 
 ## Step 3.4 Observe User Interactions
