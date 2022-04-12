@@ -8,11 +8,11 @@ ___
 **Collaborators:** ag1454, dorsecles, kfirestone25 and ......  
 ___
 
-# Step 1: Confirm Lab Setup
+# Step 1: Lab Setup
 - [x] I have forked the repository and created my lab report
 - [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
-# Step 2: Evaluate Online Job Search Sites
+# Step 2: Evaluation of Online Job Search Sites
 https://www.indeed.com/  and  https://www.linkedin.com/
 ## 2.1 Summary
 | Site | Score | Summary |
@@ -125,13 +125,6 @@ Then i click on a diffrent apply button.
 
 
 # Step 3 Competitive Usability Test
-List of Competitors
-
-      -Competitor 1 https://www.alltrails.com/
-
-      -Competitor 2 https://www.gaiagps.com/
-Step 3.3 Write a Useability Test
-
 ## Step 3.1 Product Use Case
 
 | Use Case | |
@@ -158,7 +151,7 @@ List of Competitors
 | 3 | Go to alltrails shop | The user can click on the shop on the main page. |
 | 4 |  Search trails based on dificulty | The user can click explore and has the option to find locations based on the difficult level or location.  |
 
-## Step 3.4 Observe User Interactions
+## Step 3.4 Observation of User Interactions
 
 ```Competitor 1```
 | Step | Tasks | Observations |
@@ -179,16 +172,22 @@ List of Competitors
 
 ## Step 3.5 Findings
 ```Competitor 1```
+
 Cons:
 <ul><li>The user found the drop menu in the search bar to be confusing because it not a common and hard to figure out how to navigate.</li><li>The user did strugle looking for how to choose the difuculty level of trail</li></ul>
 Pros:
 <ul><li>The user did find it conveniet to scroll down compare to using the search bar with the locations near him being on the homepage.</li><li>The user found the show quickly.</li><li>The login was fast for him and yes to find</li></ul>
 
 ```Competitor 2```
+
 Cons:
 <ul><li>The user encountered an error with no solution on top of having difficulty finding the maps. Based on the users reaction looking for something for more than 10 seconds is frustraing to the user.</li><li>The user didnt like how the home page to the site was purely a signup page. He felt thatn he has to sign up before getting access to the application.</li></ul>
 Pros:
 <ul><li>When the user did find the map it had a good layout</li>
 
-# 4. Your UX Rule (Extra Credit)
-I op out of extra credit.
+# 4. My UX Rule 
+```Title:``` The Forceless rule
+```Pithy usability rule:``` In the design of your application the user shouldn't be prompted with any unnecessary steps to use the application. Adding extra steps to a user's experience is considered forceful and time-consuming.
+
+```Support/Reason:```
+While users should be guided through the process of an application through the proper design of a site, it should be done without any unnecessary steps. During the process of completing this assignment. The most frustrating part of most of the sites is introducing an option that is not needed to use the application. For example on LinkedIn, the user simply wanted to sign up and was given 4 extra pages where I read through thinking it was required for the sign-up process but found it was only about a feature of the site that can be skipped meaning it's not necessary to use the site. Second in the second competitor of our usability test the tester of the site thought it was necessary to sign up in order to simply search a location. This was because on the home page of the application the user is only greeted with a signup page. Being that the user can access the map without signing up the home page should be the map as that is the application of the site. Being that most sites force users to see or do things that are not necessary for the use of their application, I feel this isn't respecting the time of the user as my roommate found frustration with competitor 2 of this assignment.
