@@ -5,12 +5,14 @@ ___
 **Name:** Grace Taylor  
 **GitHub Handle:** gracet712  
 **Repository:** https://github.com/gracet712/cis411_lab3_uiux  
-**Collaborators:**   
+**Collaborators:** Hope Tressler & Oakes Museum Team (Ray, Xavier, Joseph, Tim)
 ___
+
+Link to starred repo for Step 0: https://github.com/trevordbunch/cis411_lab3_uiux
 
 # Step 1: Confirm Lab Setup
 - [X] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [X] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -176,40 +178,57 @@ This offers clear instructions on next steps, obvious buttons to continue the pr
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title |Visitor Accesses Exhibit Details Using QR Code|
+| Description / Steps |1. User chooses exhibit (physically).<br/>2. User selects "Scan Code" option.<br/>3. QR code scan is initiated & completed.<br/>4. A new page is displayed with exhibit-specific content associated with that QR code.<br/>5. The app logs that this user has viewed the content for this exhibit. |
+| Primary Actor |Visitor to Oakes Museum |
+| Preconditions |1. User is logged into the app.<br/>2. User is on tour home page.<br/>3. User has given app camera permissions. |
+| Postconditions |1. Exhibit-specific content is displayed.<br/>2. App registers that user has visited that exhibit - marked as complete on list of all exhibits. |
 
 ## Step 3.2 Identifier a competitive product
+Use Case: Visitor accesses exhibit-specific information by scanning a QR code on/near the exhibit.
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 -  [PocketSights](https://pocketsights.com/) (Used for test)
+2. Competitor 2 - [visiTour](https://www.studentbridge.com/visitour/)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Starting on home page of PocketSights website - Navigate to a tour given a specific title ("Pella's Gorgeous Gardens").   | Normally this would be done on a GPS-enabled phone while physically on site, but this offers a usability test of the Web version for remote users.  |
+| 2 | Navigate to information about Brinkhoff Park.  | This is a stop about three-quarters way through the tour and simulates a user looking for information about a specific site.  |
+| 3 | Locate Brinkhoff Park on the in-site map.  | This requires users to go back a page and locate the map, which may potentially be a point of frustration.  |
+| 4 | Read more about the ninth stop on the tour.  | This can be done in multiple ways - selecting the point on the map, scrolling down to the ninth step, or clicking a link for another page dedicated to only that site.  |
+| 5 | Determine what organization created this tour.  |The organization - Visit Pella - is listed at the top in small font.   |
+| 6 |Navigate to the place where comments on this tour would be displayed.  | The tour does not actually have any comments, but finding the place where they are located is intuitive.  |
+| 7 | Change to a satellite view and zoom in on tour stop 10.  | This is a fairly intuitive use of the map.  |
+| 8 | Using the map, determine whether tour stops 1 and 2 are within walking distance of each other.  | They are.  |
+| 9 | Navigate to a page with information specific to tour stop 1 through the map.  | It is possibly not completely obvious that you can do this through the map rather than scrolling down and picking a link.  |
+| 10 | Determine where this tour is (city and state). | The tour is in Pella, Iowa.  |
+| 11 | Visit what you feel is the most interesting or engaging part of the site.  | This may give feedback for what parts of our project we should focus on most. |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Starting on home page of PocketSights website - Navigate to a tour given a specific title ("Pella's Gorgeous Gardens").   |  |
+| 2 | Navigate to information about Brinkhoff Park.  |   |
+| 3 | Locate Brinkhoff Park on the in-site map.  |   |
+| 4 | Read more about the ninth stop on the tour.  |   |
+| 5 | Determine what organization created this tour.  |   |
+| 6 |Navigate to the place where comments on this tour would be displayed.  |   |
+| 7 | Change to a satellite view and zoom in on tour stop 10.  |  |
+| 8 | Using the map, determine whether tour stops 1 and 2 are within walking distance of each other.  |  |
+| 9 | Navigate to a page with information specific to tour stop 1 through the map.  | .  |
+| 10 | Determine where this tour is (city and state). | |
+| 11 | Visit what you feel is the most interesting or engaging part of the site.  | |
 
 ## Step 3.5 Findings
 Organize your findings here.
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+Pithy usability rule:
+
+Users are extraterrestrials.
+
+Designers should carefully consider assumptions they make about the way users think. Just like many sci-fi books and movies explore sapient life that thinks in completely different ways from us - undermining many of our own assumptions - designers should assume that users cannot be relied upon to see the "obvious" path or make a natural leap in logic the way that the developers do. Conclusions about users should be based on data gathered during usability tests or in other ways, not based on designers assuming that users will think like them. It is impossible to avoid generalizations, but the average user may think and navigate a website in a completely different way from how the designer would do it.
