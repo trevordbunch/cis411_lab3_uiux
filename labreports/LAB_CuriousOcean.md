@@ -14,13 +14,14 @@ ___
 
 # Step 2: Evaluate Online Job Search Sites
 
-## 2.1 Summary
+
+## 2.1 LinkedIn Summary Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkedIn | Score 1 | Summary 1 |
+| Indeed | Score 2 | Summary 2 |
 
-## 2.2 Site 1
+## 2.2 LinkedIn
 Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
