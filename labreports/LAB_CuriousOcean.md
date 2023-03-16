@@ -36,16 +36,16 @@ LinkedIn has a unique feature where you can apply with your LinkedIn account, wh
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 |   |
+| 2. **Users are busy:** Did this site value your time?  | 3  |   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3  |   |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  3 |   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  |   |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 |   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |   |
+| **TOTAL** | 21  | A+  |
 
-## 2.3 Site 2
+## 2.3 Indeed
 Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
