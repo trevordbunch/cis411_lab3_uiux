@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkedIn | 19.5 / 21 | Overall, highly intuitive, clear directions, well designed, easy to use. Feed can be somewhat distracting from other tasks. |
+| Handshake | 19.0 / 21 | Overall, highly intuitive, clear directions. Some places to improve in design. Easy to use, specifically designed for college students' job searches. |
 
 ## 2.2 Site 1 - LinkedIn (preferred)
 Job Search Process with Screenshots & Steps:
