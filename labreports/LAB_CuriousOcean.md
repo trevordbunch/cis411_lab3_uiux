@@ -23,6 +23,8 @@ ___
 
 ## 2.2 LinkedIn
 Insert Recorded Screenshots with captions and steps.
+![lab3proof](../lab3proof/Linkedin1.png)
+Step 1: Since I already
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
