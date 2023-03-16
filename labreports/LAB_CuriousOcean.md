@@ -24,7 +24,13 @@ ___
 ## 2.2 LinkedIn
 Insert Recorded Screenshots with captions and steps.
 ![lab3proof](../lab3proof/Linkedin1.png)
-Step 1: Since I already
+Step 1: Since I already had a LinkedIn profile, I displayed the ease of accessibility to find my profile. As one can see, in the top right there is a drop-down menu that gives me multiple options for my accounts, such as "View Profile", "Settings and Privacy", "Help" and much more. 
+
+![lab3proof](../lab3proof/LInkedInProof2.PNG)
+Step 2: Here I am able to add/remove/change any skills that I have learned during my career. I also have the ability to add certifications, and reviews from co-workers. 
+
+![lab3proof](../lab3proof/LinkedInProof3.PNG)
+Step 3:
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
