@@ -30,7 +30,9 @@ Step 1: Since I already had a LinkedIn profile, I displayed the ease of accessib
 Step 2: Here I am able to add/remove/change any skills that I have learned during my career. I also have the ability to add certifications, and reviews from co-workers. 
 
 ![lab3proof](../lab3proof/LinkedInProof3.PNG)
-Step 3:
+Step 3: Here I was able to type into the search bar on the top and search for a job. I had a multitude of options within my search, such as location, experience level, job type, company, date the job was posted, and even if the job was on site or remote. 
+
+LinkedIn has a unique feature where you can apply with your LinkedIn account, which includes your resume. This is one of its best features, as it cut back on time that would be wasted filling in information already on your resume.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
