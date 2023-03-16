@@ -21,11 +21,10 @@ ___
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1 - Indeed
-Insert Recorded Screenshots with captions and steps.
+Note I already have an Indeed account.
 
 I. Action 1: Create an account on the site and update your skills or preferred job interests.
 
-   Note I already have an Indeed account.
 1. Navigate to [Indeed homepage](https://www.indeed.com/).
    ![Home Page](/images/indeed/1_action1_homepage.png)
 2. Click the sign in button in the top right corner.
@@ -52,21 +51,51 @@ The popup input field has two pieces of information to input, skill which is typ
 9. Click save.
 ![Updated qualification page](/images/indeed/9_action1_qualifications_updated_with_skills.png)
 I am brought back to the qualifications page where I will now add a certification to see if the process is any different.
-10.  Click add certifications.
+10.   Click add certifications.
 ![Add certifications](/images/indeed/10_action1_add_cert.png)
 The popup input field is almost identical to that which we saw when adding skills. 
-11.   Click save.
+11.    Click save.
 ![Updated qualification page](/images/indeed/11_action1_qualifications_updated_2.png)
-12. That is it for the process of getting into my account and adding skills/certifications. 
+1.  That is it for the process of getting into my account and adding skills/certifications. 
 
 II. Action 2: Search for a job and take all the necessary steps right up to applying for the job.
 
-<h1> continue here ray </h1>
+1.  Navigate to the [Indeed homepage](https://www.indeed.com/) and insert my search query.
+![Home Page](/images/indeed/12_action2_homepage.png)
+The search bar was very easy to find at the top of the page.
+2.  Click search.
+![Search results](/images/indeed/13_action2_results.png)
+There are search result filter dropdowns that I could use to become more granular, however I am not picky and want to see what the initial results show.
+3.  Scroll until I find an internship that I will like... it does not take much searching as there are only three results. I have a family friend that does IT for the Hershey company so I will choose the second option. 
+![Hershey listing](/images/indeed/14_action2_hershey.png)
+There are two scroll bars, one to scroll through the search results and another scroll bar to view the job posting information. 
+4. I use the scroll bar for the job listing to scroll until I can see relevant information like responsibilities, qualifications, and education.  
+![Job information](/images/indeed/15_action2_info.png)
+From here I can determine that I am qualified for this internship.
+5. Click the blue apply on company site button, I am redirected to the [job on Hershey's career website](https://careers.thehersheycompany.com/job/Hershey-Intern-Cyber-Defense-%28Summer-2023%29-PA-17033/990496400/).
+![Job listing on Hershey's career website](/images/indeed/16_action2_hersheysite.png)
+From here I can read the same information that I just read on Indeed, I also have the option to look for more jobs using the prominent search bar.
+6. Click the purple apply now button.
+![Apply button](/images/indeed/17_action2_apply.png)
+The apply button shows me two ways to apply, I am going to select apply now without Linkedin because it always messes up the formatting and I end up having to retype everything anyway.
+7. Click apply now without Linkedin. I am now brought to the Hershey career login page, I do not have an account so I will create one by clicking "create an account".
+![Hershey career login page](/images/indeed/18_action2_login.png)
+8. I autofill my information with LastPass.
+![Create account](/images/indeed/19_action2_create_acc.png)
+9. I have to click the "read and accept the data privacy statement".
+![Data privacy statement](/images/indeed/20_action2_data_privacy.png)
+It does not look like it will force me to scroll to the bottom to click accept and I am lazy and do not feel like reading this so I will click accept.
+10. Click the accept blue button and then the create account blue button. I am presented with an email verification.
+![One time password](/images/indeed/21_action2_otp.png)
+This step is confusing, as it says they sent me a one-time password even though they just asked me to set a password. It seems that this is more of an email verification check than a otp.
+11. I enter the one-time password and click continue. I am finally brought to an application page.
+![Hershey application page](/images/indeed/22_action2_apply.png)
+I am glad all the required application information is presented on one page, I hate when you have to click through multiple pages. There are also buttons to expand and collapse all sections which can make my application process easier. They also have nice easy to find save and apply buttons. 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
+| 1. **Don't make me think:** How intuitive was this site? |3|The Indeed website is incredibly simple, there was not a single moment where I was confused as to where to go next.|
+| 2. **Users are busy:** Did this site value your time?  |2|The website got me to my destination very quickly, the problem is that all Indeed is a complied job board site that redirects me to another website where I have to create an account all over again. Typically for job applications but it would be nicer if I never had to leave Indeed's website.|
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
