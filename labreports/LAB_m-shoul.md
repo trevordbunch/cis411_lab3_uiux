@@ -4,12 +4,12 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Michael Shoul  
 **GitHub Handle:** [m-shoul](https://github.com/m-shoul)  
-**Repository:** [m-shoul / cis411_lab2_arch](https://github.com/m-shoul/cis411_lab3_uiux)
+**Repository:** [m-shoul / cis411_lab2_arch](https://github.com/m-shoul/cis411_lab3_uiux)  
 **Collaborators:**   
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
+- [x] I have forked the repository and created my lab report
 - [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
