@@ -1,6 +1,6 @@
 # Lab Report: UX/UI
 ___
-**Course:** CIS 411, Spring 20213 
+**Course:** CIS 411, Spring 2023  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Tim Kratz  
 **GitHub Handle:** timkratz 
