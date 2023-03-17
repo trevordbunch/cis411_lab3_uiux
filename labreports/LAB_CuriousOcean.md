@@ -75,17 +75,17 @@ Step 3: Once again, Indeed loves the brightness of their website. I think in tot
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Finding a Recipe |
+| Description / Steps | The user is hungry and bold, deciding to try something new. They log into their account and search in the query "Grilled Reuben Sandwich". RecipeForSuccess will display a recipe with its skill level(If the skill level is higher than the users, it will warn the user). The user will follow the directions and steps and have the option of leaving a review, sharing the recipe, and taking a photo of their final product. |
+| Primary Actor | User who is hungry and wants to try a new recipe. |
+| Preconditions | User has an account and ingredients for desired recipe. |
+| Postconditions | User is able to create the recipe. |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [www.bbcgoodfood.com](www.bbcgoodfood.com)
+2. Competitor 2
 
 ## Step 3.3 Write a Useability Test
 
