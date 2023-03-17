@@ -229,7 +229,7 @@ Pipestone Commercial Historic District - navigate to Calumet Inn:<br>
 |4|The user then started clicking through the map pins one by one.|Interestingly enough the user thought the most effective way to find the Inn was by clicking the green pins with location one by one. The user did not attempt to click any options such as skip which would have made the process quicker.|
 |5|The user clicked through the pins and continue tour before they eventually ended at Calumet Inn.|The user was successful at getting to the end location. The user was not really frustrated about how slow the experience was, even though there was no dropdown menu they did not attempt to look for one.|
 
-Gettysburg for Gettysburg Battle Auto Tour - navigate to Virginia Monument:
+Gettysburg for Gettysburg Battle Auto Tour - navigate to Virginia Monument:<br>
 [View the screen recording here (no audio)](https://youtube.com/shorts/MQba7tBQZHI?feature=share)
 | Step | Tasks | Observations |
 |---|---|---|
