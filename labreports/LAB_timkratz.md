@@ -23,7 +23,7 @@ ___
 ## 2.2 Site 1: LinkedIn
 (Updating Skill)
 <<<<<<< HEAD
-![LAB](../assets/screenshot1.jpg)
+![LAB](../Assets/screenshot1.jpg)
 =======
 ![LAB](../assets/screenshot1.jpg)
 >>>>>>> aa71c85f4752997df3f0db79db4f555a334fb932
