@@ -51,18 +51,22 @@ Insert Recorded Screenshots with captions and steps.
 Step 1: Right off the back, the website blasts me with so much white space. The icons are all in a soft grey, struggling to stand out and become noticable. It offers me a position to create a profile and add it, and get help for my resume and saved jobs or demographics.
 
 ![lab3proof](../lab3proof/IndeedProof2.PNG)
+Step 2: Again, quite an ugly page. I'm blasted with white space, hurting my eyes. I have the ability to edit my profile and upload resume, or build a unique Indeed Resume... which eats away at my time. 
+
+![lab3proof](../lab3proof/IndeedProof3.PNG)
+Step 3: Once again, Indeed loves the brightness of their website. I think in total the only bright thing is the sunflower by their logo on the first picture. Here I was able to find several jobs for my search query of "cyber security". I had the option of deciding my location. Interestingly enough, Indeed does not have their own unique application system. They merely point me in the right direction for the role of "Director of Cybersecurity Education", offering a link to Messiah's website. 
 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  | It was clear and concise.  |
+| 2. **Users are busy:** Did this site value your time?  |  1 | No it did not. It wanted me to make a unique Indeed resume.  |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  |  The website was boring and bland. It had extra options for stuff like demographics and reviews, but they do not seem important to me. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 1.5 | Yes, it provided me with a position. But it did not offer filtering by experience.  |
+| 5. **Omit Words:** How careful was this site with its use of copy? |  1 | Not at all   |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  1 |  It was terrible. It wastes my time and hurts my eyes. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |  For all its faults, this is the one thing that Indeed is successful at. |
+| **TOTAL** | 11.5  | F  |
 
 
 # Step 3 Competitive Usability Test
