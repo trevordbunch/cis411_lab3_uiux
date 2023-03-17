@@ -25,36 +25,36 @@ ___
 <<<<<<< HEAD
 ![LAB](../Assets/screenshot1.jpg)
 =======
-![LAB](../assets/screenshot1.jpg)
+![LAB](../Assets/screenshot1.jpg)
 >>>>>>> aa71c85f4752997df3f0db79db4f555a334fb932
 My account was created before this assignment. This is the sign in page
 
-![LAB](../assets/screenshot2.jpg)
+![LAB](../Assets/screenshot2.jpg)
 Once you sign in you are directed to the home page
 
-![LAB](../assets/screenshot3.jpg)
+![LAB](../Assets/screenshot3.jpg)
 If you click on the tab that says "me" and then the "view profile" tab you will be directed to my profile
 
-![LAB](../assets/screenshot4.jpg)
+![LAB](../Assets/screenshot4.jpg)
 This is my account profile page
 
-![LAB](../assets/screenshot5.jpg)
+![LAB](../Assets/screenshot5.jpg)
 When you click on the "add profile section" it brings up different options to add to your profile. I then selected "add skills".
 
-![LAB](../assets/screenshot6.jpg)
+![LAB](../Assets/screenshot6.jpg)
 This is the add skills page
 
-![LAB](../assets/screenshot7.jpg)
+![LAB](../Assets/screenshot7.jpg)
 To add a skill you can search or type for one and then also select areas where you can apply this skill
 
 (Looking For Job)
-![LAB](../assets/screenshot8.jpg)
+![LAB](../Assets/screenshot8.jpg)
 To look for a job you click on the "jobs" tab
 
-![LAB](../assets/screenshot9*.jpg)
+![LAB](../Assets/screenshot9*.jpg)
 After you search and find a job this is what comes up
 
-![LAB](../assets/screenshot10.jpg)
+![LAB](../Assets/screenshot10.jpg)
 When you click on the apply button it directs you to the application of the job that you are applying for and all you have to do is click on apply now to start the application
 
 
@@ -71,35 +71,35 @@ When you click on the apply button it directs you to the application of the job 
 
 ## 2.3 Site 2: Indeed
 (Updating Skill)
-![LAB](../assets/screenshot11.jpg)
+![LAB](../Assets/screenshot11.jpg)
 This is what shows up when you first go on Indeed
 
-![LAB](../assets/screenshot12.jpg)
+![LAB](../Assets/screenshot12.jpg)
 When you click "sign in" you are taken to this page in which it asks for your email
 
-![LAB](../assets/screenshot13.jpg)
+![LAB](../Assets/screenshot13.jpg)
 You are then asked to select if you are either a job seker or employer
 
-![LAB](../assets/screenshot14.jpg)
+![LAB](../Assets/screenshot14.jpg)
 This page asks for you to create a password
 
-![LAB](../assets/screenshot15.jpg)
+![LAB](../Assets/screenshot15.jpg)
 You are then directed back to the homepage after your account has been created
 
-![LAB](../assets/screenshot16.jpg)
+![LAB](../Assets/screenshot16.jpg)
 By clicking the person icon at the top of the page you are then able to click on "profile" to be taken to your profile
 
-![LAB](../assets/screenshot17.jpg)
+![LAB](../Assets/screenshot17.jpg)
 Once you are on your profile there is an option to "add skill"
 
 (Looking For Job)
-![LAB](../assets/screenshot18.jpg)
+![LAB](../Assets/screenshot18.jpg)
 From the homepage or by selecting "discover jobs" you are able to search and look for jobs
 
-![LAB](../assets/screenshot19.jpg)
+![LAB](../Assets/screenshot19.jpg)
 This is what shows up once you look up jobs. You then can select "apply on company site" when you find a job you are interested in and it will take you to that companies site
 
-![LAB](../assets/screenshot20.jpg)
+![LAB](../Assets/screenshot20.jpg)
 This is the application site that you are taken to in this scenario and in order to apply for this job all you have to do is click on "apply now" to start
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
