@@ -27,6 +27,19 @@ Job Search Process with Screenshots & Steps:
 
 *Note - I already have an account on this site and will be proceeding with the following steps under that assumption.
 
+The process of getting to my profile to add/update skills is as follows (from LinkedIn home page):  
+1. Enter credentials and select "Sign in."
+2. Click the drop-down arrow under "Me" in the top right.
+3. Select "View Profile."
+4. Scroll down to the "Skills" section.
+5. To add skills - Select the + button.
+6. Type a skill in the search box.
+7. Select a skill from the drop-down menu.
+8. Click "Save" to add the skill to your profile.
+9. To update skills - Select the pencil button.
+10. Select the pencil button beside any skill to update where it is used or delete the skill.
+11. Select "Save" to save the change to your profile.
+
 #### Step 1 - Go To LinkedIn Home Page
 ![LinkedIn Home Page - Login Screen](/assets/linkedin_login.png)
 
@@ -116,12 +129,20 @@ Job Search Process with Screenshots & Steps:
 
 *Note - I already have an account on this site and will be proceeding with the following steps under that assumption.
 
+Steps to get to profile and add/update skills:  
+1. Log in as indicated below.
+2. From home page - select your initials in the upper right hand corner.
+3. Select "My Profile."
+4. Scroll down until the "Skills" section appears on the left.
+5. Search for skills in the search bar.
+6. Select a skill from the results list to add it to your profile.
+
 #### Step 1 - Log In
 ![Handshake Login through Messiah University](/assets/handshake_login.png)
 
 URL: https://messiah.joinhandshake.com/login
 
-This login page is simple and intuitive - Handshake integrates with Messiah to allow students to sign in easily. The large blue button provides an obvious call to action, and other options include signing up for an account and downloading an app.
+This login page is simple and intuitive - Handshake integrates with Messiah to allow students to sign in easily. Users who are logged in to Messiah already will not need to sign in, but other users will be redirected to Messiah's login page (not pictured here). The large blue button provides an obvious call to action, and other options include signing up for an account and downloading an app.
 
 #### Step 2 - Home Page
 ![Handshake Home Page](/assets/handshake_home.png)
@@ -211,20 +232,47 @@ List of Competitors
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 | Starting on home page of PocketSights website - Navigate to a tour given a specific title ("Pella's Gorgeous Gardens").   |  |
-| 2 | Navigate to information about Brinkhoff Park.  |   |
-| 3 | Locate Brinkhoff Park on the in-site map.  |   |
-| 4 | Read more about the ninth stop on the tour.  |   |
-| 5 | Determine what organization created this tour.  |   |
-| 6 |Navigate to the place where comments on this tour would be displayed.  |   |
-| 7 | Change to a satellite view and zoom in on tour stop 10.  |  |
-| 8 | Using the map, determine whether tour stops 1 and 2 are within walking distance of each other.  |  |
-| 9 | Navigate to a page with information specific to tour stop 1 through the map.  | .  |
-| 10 | Determine where this tour is (city and state). | |
-| 11 | Visit what you feel is the most interesting or engaging part of the site.  | |
+| 1 | Starting on home page of PocketSights website - Navigate to a tour given a specific title ("Pella's Gorgeous Gardens").   | Hard to find tour from main page - lots of competing paths for people interested in making tours, viewing tours, making accounts, etc.<br/>Once on Latest Tours tab easy to find - search box clear and effective |
+| 2 | Navigate to information about Brinkhoff Park.  | Easy to find<br/>Convenient links for each stop on the tour in intuitive location  |
+| 3 | Locate Brinkhoff Park on the in-site map.  | Takes time to get back to previous page to get to map; better if link were on info page  |
+| 4 | Read more about the ninth stop on the tour.  | Easy to find - link in intuitive place  |
+| 5 | Determine what organization created this tour.  | Not too hard to find - at top in intuitive location  |
+| 6 |Navigate to the place where comments on this tour would be displayed.  | In natural comments place at bottom<br/>Intuitive; in keeping with convention  |
+| 7 | Change to a satellite view and zoom in on tour stop 10.  | Easy - normal Google Maps interface; in keeping with convention |
+| 8 | Using the map, determine whether tour stops 1 and 2 are within walking distance of each other.  | Easy - normal Google Maps interface; in keeping with convention |
+| 9 | Navigate to a page with information specific to tour stop 1 through the map.  | Easy - Google Maps interface integrated with site-specific photos/details in intuitive way  |
+| 10 | Determine where this tour is (city and state). | At top of page - good place |
+| 11 | Visit what you feel is the most interesting or engaging part of the site.  |Main page for the tour with all the stops listed and map present |
+
+#### Additional Questions Asked After Usability Test:
+<u>Most frustrating part:</u>  
+Finding tours from home page - "Latest Tours" tab is ambiguous - could mean your personal most recent tours.
+
+<u>Best part:</u>  
+Having all tour stops listed along with map all on same page for a given tour.
+
+<u>One thing to change:</u>  
+Add a "Search Tours" bar clearly on home page.
 
 ## Step 3.5 Findings
-Organize your findings here.
+#### Improvements:
+* Add "Search Tours" bar clearly on the home page. This would allow users to easily search for tours and avoid ambiguity in the "Latest Tours" tab name.
+
+* Embed the Google Map interface on the page specific to each individual stop - highlighting the stop in question - as well as on the overall tour page. This would save users time and hassle moving back and forth between the pages.
+
+* Include the number associated with each tour stop on the list of links to the right and on each stop-specific page. These numbers are used to identify stops on the map, and users already on a stop-specific page won't want to scroll down on the main page to find the stop number.
+
+#### Beneficial Experiences:
+* Once on "Latest Tours" tab - obvious, clear search bar with instructions on how to search for tours. This clearly directs the user, aligns with convention, and prevents the user from needing to think too much.
+
+* On main tour-specific page - Google Maps interface embedded with pictures, tour stop numbers, and additional details if the user clicks on a picture. Users are familiar with Google Maps, so this is an excellent and easy-to-use feature.
+
+#### Additional Questions:
+Our team collaborated on finding a potentially competitive service for our usability test, but worked independently after that. One thing that went well in this usability test was getting a clear picture of several areas of improvement and excellence for our competitor's site. Some takeaways are that familiar interfaces or features are a plus and that users like obvious paths and direction. A second thing that went well was being able to monitor and ask for feedback from a volunteer who had inisghtful observations about the site, offering good experience for future tests on our own application.
+
+One thing to improve for next time is potentially using a mobile app since that is more directly comparable to our own project. The problem here is that testing such an app is only really comparable to our project if we are in the physical location the tour covers, which was not practical for this test. However, users of our app - or a PocketSights tour - would not struggle with finding tours from the home page of the website, since they would have the app installed and be physically walking around following the tour. Additionally, I might screen record the user (with permission) to gain more information about what is frustrating, intuitive, or engaging.
+
+Overall, this usability test went well. I learned that directing the user along intuitive paths and offering familiar features are key to the user experience. I also gained experience working with a volunteer on a usability test. Things to improve include conducting the test on a mobile platform and using screen recodrding to gather information.
 
 # 4. Your UX Rule (Extra Credit)
 Pithy usability rule:
