@@ -22,11 +22,7 @@ ___
 
 ## 2.2 Site 1: LinkedIn
 (Updating Skill)
-<<<<<<< HEAD
 ![LAB](../Assets/screenshot1.jpg)
-=======
-![LAB](../Assets/screenshot1.jpg)
->>>>>>> aa71c85f4752997df3f0db79db4f555a334fb932
 My account was created before this assignment. This is the sign in page
 
 ![LAB](../Assets/screenshot2.jpg)
