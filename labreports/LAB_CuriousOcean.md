@@ -88,15 +88,15 @@ List of Competitors
 2. Competitor 2 [www.paprikaapp.com](www.paprikaapp.com)
 3. Competitor 3 [tasty.co](tasty.co)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Useability Test: Accessing the ease and flow of navigating a recipie/cookbook moblie app
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Access app  |   |
+| 2 |  Understand icons, navigation |   |
+| 3 | Explore User profile settings  |   |
+| 4 | Search for recipe, read intrustions and comment on clarity/confusion  |   |
+| 5 |  Interview test subject  |  Ask what they liked, didn't like, and what they saw as helpful. |
 
 ## Step 3.4 Observe User Interactions
 
