@@ -22,7 +22,7 @@ ___
 | Indeed | Score 2 | Summary 2 |
 
 ## 2.2 LinkedIn
-Insert Recorded Screenshots with captions and steps.
+
 ![lab3proof](../lab3proof/Linkedin1.png)
 Step 1: Since I already had a LinkedIn profile, I displayed the ease of accessibility to find my profile. As one can see, in the top right there is a drop-down menu that gives me multiple options for my accounts, such as "View Profile", "Settings and Privacy", "Help" and much more. 
 
@@ -36,17 +36,22 @@ LinkedIn has a unique feature where you can apply with your LinkedIn account, wh
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? | 3 |   |
-| 2. **Users are busy:** Did this site value your time?  | 3  |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3  |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |  3 |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? | 3  |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 | It was very intuitive. Everything felt natural and enjoyable.  |
+| 2. **Users are busy:** Did this site value your time?  | 3  | It very much did. I felt like LinkedIn was clear and concise about every feature and what they did. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3  | It did. Like I said earlier, they were very clear with what everything did and how it could help me.  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2 | Kinda. It jobs specific to my query, but also offered similar jobs.  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3  | Very careful.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |  3 | I was able to navigate with ease. Even if I could get lost, I would be able to read and figure out where I was.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 | It was very accessible to both screen reader and mouse-less interface.  |
 | **TOTAL** | 21  | A+  |
 
 ## 2.3 Indeed
 Insert Recorded Screenshots with captions and steps.
+![lab3proof](../lab3proof/IndeedProof1.PNG)
+Step 1: Right off the back, the website blasts me with so much white space. The icons are all in a soft grey, struggling to stand out and become noticable. It offers me a position to create a profile and add it, and get help for my resume and saved jobs or demographics.
+
+![lab3proof](../lab3proof/IndeedProof2.PNG)
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
