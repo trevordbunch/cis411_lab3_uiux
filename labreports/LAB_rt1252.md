@@ -5,7 +5,7 @@ ___
 **Name:** Ray Truex  
 **GitHub Handle:** rt1252  
 **Repository:** [Your Forked Repository](https://github.com/rt1252/cis411_lab3_uiux)  
-**Collaborators:**   
+**Collaborators:**   [Grace Taylor](https://github.com/gracet712)
 ___
 
 # Step 1: Confirm Lab Setup
@@ -95,16 +95,32 @@ I am glad all the required application information is presented on one page, I h
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 | 1. **Don't make me think:** How intuitive was this site? |3|The Indeed website is incredibly simple, there was not a single moment where I was confused as to where to go next.|
-| 2. **Users are busy:** Did this site value your time?  |2|The website got me to my destination very quickly, the problem is that all Indeed is a complied job board site that redirects me to another website where I have to create an account all over again. Typically for job applications but it would be nicer if I never had to leave Indeed's website.|
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 2. **Users are busy:** Did this site value your time?  |1|The Indeed website got me to my destination very quickly, the problem is that all Indeed is a complied job board site that redirects me to another website where I have to create an account all over again. This is typically for job applications but it would be nicer if I never had to leave Indeed's website.|
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |3| The Indeed website definitely had a visual hierarchy, you could tell what was the most important, you did not even need an account to search for jobs. The areas were very nicely broken up into smaller sections, for example accessing my profile and making changes could have been very complex but it was made easy with nice buttons. The colors of the buttons also help indicate what was the most important. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |3|There was not a single time were I was annoyed because I did not know where to navigate to next. The websites main goal was to clearly get me to search for a job. This was made clear by the prevalence of the job search bar.|
+| 5. **Omit Words:** How careful was this site with its use of copy? |3|This was honestly what the website did best. It made everything else so easy to navigate and find because there was not tons of junk on the page. The pages were so minimalistic that there is no way that you could not get confused about what a page's purpose is.|
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |3|The navigation/workflow of the website was so simple, most internet proficient users would have absolutely no problem using this site. From the homepage once signed in you had a few options. In the top left you have discover jobs (what most people come to use), company reviews, and find salaries. In the top left side you had a messaging bubble to view messages, a bell icon to show any notifications, and a user icon to display profile options. This layout could not get not get any simpler.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |2|This category is a little more difficult for me to score as I am not super knowledgeable in the realm of accessibility. I did not notice any accessibility icons on the page (typically the person with their arms out in a circle), they did have a footer about their accessibility policy. The policy says that their website follows the WCAG standards. However, the only accessibility technology that I see that they support are third party tools and extensions. I also assume that the double scroll bar when searching for jobs could be problematic for certain users.  |
+| **TOTAL** |18|Overall I really liked the website other than the fact that I was redirected to another website to actually apply.  |
 
-## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+## 2.3 Site 2 - Linkedin
+Note I already have an Indeed account.
+
+I. Action 1: Create an account on the site and update your skills or preferred job interests.
+
+1. Navigate to [Linkedin homepage](https://www.linkedin.com/home).
+![Home Page](/images/linkedin/01_linkedin_home.png)
+My credentials are autofilled by LastPass again, I will click the sign in button.
+2. I am brought to my "feed".
+![Feed](/images/linkedin/02_feed.png)
+Linkedin has a few more social networking features than Indeed, so I am presented with quite a few more options. The home page is a lot more crowded than on Indeed. I do not think this is a bad thing since Indeed has more functionality, just worth noting.
+3. To get to my profile to update my profile with additional skills I am going to click the me button that has an image of my profile picture.
+![Profile button](/images/linkedin/03_me.png)
+This is very similar to the Indeed profile button, it shows a dropdown of options that I have. I really am not sure here where to go to update my skills/experience. I am not 100% sure where to go next, I am going to try clicking view profile.
+4. Okay I was right, clicking view profile was the correct option. I am presented with my profile, I will scroll down until I find my experience, education, certifications, and skills.
+![Profile](/images/linkedin/04_profile.png)
+Note, I have zoomed out to be able to show what the education, certifications, and skills look like.
+5. I am going to add a new skill but before I do, I am going to click the show all skills button so I do not accidentally readd a skill that I already have. 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
