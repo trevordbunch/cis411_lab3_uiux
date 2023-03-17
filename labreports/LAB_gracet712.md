@@ -151,6 +151,8 @@ URL: https://messiah.joinhandshake.com/stu/users/18465462
 
 Like LinkedIn, this is an easy, intuitive way to add skills to your profile. Handshake generates names of skills for you, so users do not have to come up with good phrasing themselves. However, it is far down on the profile page and on the left, not in the center with things like experience and education - potentially overlooked by users.
 
+### Job Search Detailed Steps
+
 #### Step 1 - Log In
 ![Handshake Login through Messiah University](/assets/handshake_login.png)
 
