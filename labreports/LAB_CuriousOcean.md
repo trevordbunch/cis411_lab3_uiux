@@ -85,7 +85,8 @@ Step 3: Once again, Indeed loves the brightness of their website. I think in tot
 
 List of Competitors
 1. Competitor 1 [www.bbcgoodfood.com](www.bbcgoodfood.com)
-2. Competitor 2
+2. Competitor 2 [www.paprikaapp.com](www.paprikaapp.com)
+3. Competitor 3 [tasty.co](tasty.co)
 
 ## Step 3.3 Write a Useability Test
 
