@@ -40,6 +40,14 @@ The process of getting to my profile to add/update skills is as follows (from Li
 10. Select the pencil button beside any skill to update where it is used or delete the skill.
 11. Select "Save" to save the change to your profile.
 
+![Adding Skills to LinkedIn](/assets/linkedin_skills.png)
+
+URL: https://www.linkedin.com/in/grace-t-b781a722b/edit/forms/skills/new/?profileFormEntryPoint=PROFILE_SECTION
+
+This is intuitive, easy - users do not have to come up with titles of skills on their own, offerins some level of standardization - and convenient. The skills section is fairly far down the profile page, which might make it difficult to find.
+
+### Job Search Detailed Steps
+
 #### Step 1 - Go To LinkedIn Home Page
 ![LinkedIn Home Page - Login Screen](/assets/linkedin_login.png)
 
@@ -136,6 +144,12 @@ Steps to get to profile and add/update skills:
 4. Scroll down until the "Skills" section appears on the left.
 5. Search for skills in the search bar.
 6. Select a skill from the results list to add it to your profile.
+
+![Handshake Add Skills Page](/assets/handshake_skills.png)
+
+URL: https://messiah.joinhandshake.com/stu/users/18465462
+
+Like LinkedIn, this is an easy, intuitive way to add skills to your profile. Handshake generates names of skills for you, so users do not have to come up with good phrasing themselves. However, it is far down on the profile page and on the left, not in the center with things like experience and education - potentially overlooked by users.
 
 #### Step 1 - Log In
 ![Handshake Login through Messiah University](/assets/handshake_login.png)
