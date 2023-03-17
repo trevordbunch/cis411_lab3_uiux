@@ -288,7 +288,7 @@ Our team collaborated on finding a potentially competitive service for our usabi
 
 One thing to improve for next time is potentially using a mobile app since that is more directly comparable to our own project. The problem here is that testing such an app is only really comparable to our project if we are in the physical location the tour covers, which was not practical for this test. However, users of our app - or a PocketSights tour - would not struggle with finding tours from the home page of the website, since they would have the app installed and be physically walking around following the tour. Additionally, I might screen record the user (with permission) to gain more information about what is frustrating, intuitive, or engaging.
 
-Overall, this usability test went well. I learned that directing the user along intuitive paths and offering familiar features are key to the user experience. I also gained experience working with a volunteer on a usability test. Things to improve include conducting the test on a mobile platform and using screen recodrding to gather information.
+Overall, this usability test went well. I learned that directing the user along intuitive paths and offering familiar features are key to the user experience. I also gained experience working with a volunteer on a usability test. Things to improve include conducting the test on a mobile platform and using screen recording to gather information.
 
 # 4. Your UX Rule (Extra Credit)
 Pithy usability rule:
