@@ -216,26 +216,45 @@ List of Competitors
 
 ## Step 3.4 Observe User Interactions
 
-Pipestone Commercial Historic District - navigate to Calumet Inn:
+I had my friend Xander Smith try to complete the usability tests.
+
+Pipestone Commercial Historic District - navigate to Calumet Inn:<br>
+[View the screen recording here (no audio)](https://www.youtube.com/shorts/EFGx5NPBiu8)
+
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+|1|The user was instructed to do standard tour mode and locate Calumet Inn.|The user was expecting the prompts to select standard tour.|
+|2|The user closed the location services popup.|The user was not expecting the popup but easily closed it.|
+|3|The user waited for the map to auto-zoom into the tour location.|The user was not expecting this but waited patiently. They noted that it was a pleasant surprise.|
+|4|The user then started clicking through the map pins one by one.|Interestingly enough the user thought the most effective way to find the Inn was by clicking the green pins with location one by one. The user did not attempt to click any options such as skip which would have made the process quicker.|
+|5|The user clicked through the pins and continue tour before they eventually ended at Calumet Inn.|The user was successful at getting to the end location. The user was not really frustrated about how slow the experience was, even though there was no dropdown menu they did not attempt to look for one.|
 
 Gettysburg for Gettysburg Battle Auto Tour - navigate to Virginia Monument:
+[View the screen recording here (no audio)](https://youtube.com/shorts/MQba7tBQZHI?feature=share)
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |The user was instructed to do the demo tour and locate Virginia Monument. ||
+| 2 |The user pressed the start button. They quickly pressed the screen again, accidentally clicking the map on the screen.|The user became frustrated with having to click exactly on the play button for the tour which caused them to misclick on the map.|
+|3|The user started listening to the audio for the start page.| The user listened to the audio for a little before choosing to click the next button.|
+|4|The user then waited a few seconds on the next page for a few seconds. Then they started pressing the next button on the bottom right corner.|Interestingly enough again the user did not choose to even look to press the map/list button.|
+|5|The user successfully landed on the Virginia Monument page where they were able to press the page button to read about the location they are at.|The user was once again successful at reaching the end location. The user did express that this tour was not as good as the last one due to not showing the map pins by default.|
 
 ## Step 3.5 Findings
-Organize your findings here.
+- Provide at least 3 improvements you believe could be made to the usability of the workflow in question.
+  - The workflow could have been improved by both apps having the option to have a dropdown menu for the locations/attractions.
+  - The workflow could have been improved on the Gettysburg app by not having to click in specific locations, such as a certain play button, the whole image should be clickable.
+  - The application should start on a dropdown menu of locations or a map, not the first potential location (what if users tour the exhibits out of order).
+- Outline at least 2 experiences in the workflow that you believe were of benefit to the user.
+  - The map pins on the PocketSights - Pipestone tour were of extreme benefit for the user in reaching the desired location. 
+  - The next button on the Gettysburg tour app were not the best option to achieve the desired outcome but they worked for the user.
+- What do you believe your team did well in conducting the usability test?
+  - The instructions were very clear to the tester, the tester did not have any problem understanding what to do.
+- What could your team improve for next time (hint: there will be a next time)?
+  - The user should have been better instructed to think out loud and to provide more comments about their feelings. 
+- Offer a brief statement (no more than several sentences) about your experience conducting a usability test.
+  - The usability test went well, the user was able to accomplish the tasks without any help from the moderators. The test should have been improved by recording audio.
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+<h2>"Design for your users, not for your ego."</h2>
+
+It is important to remember that the end users are the people who will be using your website. Do not follow your own preferences but follow the data (data over feelings) of what users will prefer. Keep the users needs in mind, it is important to create an easy, enjoyable, and effective user experience. Do not design with your ego, designing with your ego might lead to a product that you think is aesthetically pleasing to yourself, but maybe not to your users. Keep in mind the end goals that the users are the reason that they have hired you.
