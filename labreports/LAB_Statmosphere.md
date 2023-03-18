@@ -5,7 +5,7 @@ ___
 **Name:** Andrew Roberti  
 **GitHub Handle:** Statmosphere  
 **Repository:** [Forked Repository](https://github.com/Statmosphere/cis411_lab3_uiux)  
-**Collaborators:**   
+**Collaborators:** aidan-hubley, 02NRA, JDAyres, jg1579
 ___
 
 # Step 1: Confirm Lab Setup
@@ -17,7 +17,7 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Snagajob | Score 1 | Summary 1 |
+| Snagajob | Score 1 | Very simplistic (at times overly) yet difficult to understand. |
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Snagajob
@@ -55,37 +55,42 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Joining a prayer circle off of a received link. |
+| Description / Steps | User receives a link to join a prayer circle. User clicks on the link and is redirected to a sign in/up page. User clicks the sign up button. User enters their information and is logged in. User is automatically added into the circle upon logging in. |
+| Primary Actor | A new personal user who has received an invite |
+| Preconditions | Associates have created a circle and have invited someone to join who does not own an account. |
+| Postconditions | The user creates an account and becomes a part of the prayer circle. |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [faithmeet](www.faithmeet.com)
+2. Competitor 2 [prayerchainonline](www.prayerchainonline.net)
+3. Competitor 3 [biblefolk](biblefolk.com)
+4. Competitor 4 [101christainsocialnetwork](www.101christainsocialnetwork.com)
+5. Competitor 5 [indiegospel](indiegospel.net)
+
+I will be conducting the test on 101christainsocialnetwork.
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Click on Bible in the navigation bar. | How intuitive is the navigation bar? |
+| 2 | Select a book of the Bible. | A list of Bible books is displayed. |
+| 3 | Select a chapter from your chosen book. | This is at the top of the page but might get overlooked. |
+| 4 | Click on a number next to a Bible verse. | A list of Bible verse is displayed. |
+| 5 | Read the meaning and commentary section. | Does the meaning and commentary section provide good insight? |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Click on Bible in the navigation bar. |   |
+| 2 | Select a book of the Bible. |   |
+| 3 | Select a chapter from your chosen book. |   |
+| 4 | Click on a number next to a Bible verse. |   |
+| 5 | Read the meaning and commentary section. |   |
 
 ## Step 3.5 Findings
 Organize your findings here.
