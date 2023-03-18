@@ -5,12 +5,12 @@ ___
 **Name:** Justin Ayres 
 **GitHub Handle:** JDAyres  
 **Repository:** https://github.com/JDAyres/cis411_lab3_uiux  
-**Collaborators:**   
+**Collaborators:** aidan-hubley, Statmosphere, 02NRA, jg1579
 ___
 
 # Step 1: Confirm Lab Setup
 - [x] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -120,7 +120,7 @@ Notes: The filters are useful, but some users might find them limited or difficu
 
 **Step 6:** Select Job
 
-What to do: lick on a job listing to view the full job description and requirements.
+What to do: click on a job listing to view the full job description and requirements.
 
 Notes: The job listing page is cluttered with ads and sponsored job postings, which might make it difficult for users to focus on the actual job posting.
 ![LinkedInHomePage](../Indeed/7.png)
