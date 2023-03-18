@@ -33,12 +33,33 @@ Insert Recorded Screenshots with captions and steps.
 Account was already created in advance
 <br>
 
+![Sign In](../assets/LinkedIn/One/SignIn1.png)
+![Pt2](../assets/LinkedIn/One/SignIn2.png)
+
 1. Navigate to site and login
    - Logging in is easy because of the information saved after logging out. HOwever, teh fact that saved information sign in is different than the regular sign in is convulted/confusing, especially since the regular sign in also conatins a link to a third-party service sign in as well as the usual sign up area
+  
+![Profile](../assets/LinkedIn/One/SignIn3.png)
+
 2. Navigating to profile is easy, but the amount of pop-up views is a bit of a nuisance
+
+![Skills 1](../assets/LinkedIn/One/Skill1.png)
+![S2](../assets/LinkedIn/One/Skill2.png)
+![S3](../assets/LinkedIn/One/Skill3.png)
+![S4](../assets/LinkedIn/One/Skill4.png)
+
 3. Added skill, couldn't decide which to add, so used Chess as an example of tactile
+
+![Ap1](../assets/LinkedIn/Two/App1.png)
+
 4. To apply for a job is not easy, even if we are not required to complete the application, due to the fact that it feels wrong to apply for something you don't want to do regardless of it being a hypothetical
+
+![Ap2](../assets/LinkedIn/Two/App2.png)
+
 5. Settings change is a good feature, but for me doing this lab, I'd rather not
+
+![Ap3](../assets/LinkedIn/Two/App3.png)
+
 6. Links to external site, checked with other applications, they are the same.
 
 
