@@ -125,16 +125,26 @@ List of Competitors
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 | Click on the person icon  |   |
-| 2 | Click on the message icon  |   |
-| 3 | Click on the "Today and Messiah" button  |   |
-| 4 | Scroll down to the links and resources  |   |
-| 5 | Click on the Student Search button  |   |
-| 6 | Exit out of that tab and search chapel  |   |
-| 7 | Click on the Chapel Attendence button  |   |
+| 1 | Click on the person icon  | This person was not expecting to have options change password, and instead expected it to change users. Said that design is boring, but gets its point across.    |
+| 2 | Click on the message icon  | The person was expecting it to give them more information instead of you giving it information. Was confused when it asked "Request a new card." Said it was a boring layout, not that much information shown. They also think that instead of a message icon, it shoule be a help icon.   |
+| 3 | Click on the "Today at Messiah" button  | This was what they were expecting. It shows all the news and announcements at messaih for that day. The background you could barely see falcon link and that distracted. They liked the font, colors, and symbols used.    |
+| 4 | Scroll down to the links and resources  |This person was pleasently surprised. Easy to look icons. Does not understand the icons and some of the names of the buttons.    |
+| 5 | Click on the Student Search button  | This is a plain screen. Small, does not take up the full screen. Only in one corner. Does not pop to the eyes beacuse there are no colors. There are no images.    |
+| 6 | Exit out of that tab and search chapel  | Took a while to go back to the top of the page to find search bar. When typed chapel, nothing showed up at first, had to do it again for anything to pop up.  |
+| 7 | Click on the Chapel Attendence button  | Notices the required chapels, but does not know what "Chapel Adjustment" means. This also very small, and only occupies part of the screen and is not easy to the eyes.  |
 
 ## Step 3.5 Findings
-Organize your findings here.
+I think that an improvement to this workflow would be to have consistent design choices all throughout the links. Consisten colors, use of space, images, and symbols. Another improvement would be to have the search bar follow the screen as the user scrolls down the screen. This would benefit the user so that they don't have to search for the search bar. The last improvement I would suggest is to to change the wording on some of the widgets. For example one widget said "falcon mail." This is confusing because no one refers to their email as "falcon mail," and it confuses them. 
+
+One experience that benefitted the user was all the links in one spot. The user liked that they could just scan over all the widgets and find the one they are looking for. Another beneficial experience was that the widgets got their point across and did not add any unnecessary words. 
+
+I believe that I did well in exposing some of the problem widgets in falconlink, and comparing them to a good design in the "Today at Messiah" tab. 
+
+I think I could improve next time by asking better questions and giving them more tasks to complete. 
+
+My experience in conducting a usability test was a enlightening one. I learned what goes on in someone's head when evaluating a website. Its very interesting to see what they first notice, what don't notice, and what they don't even think about. I can see why companies perform a lot of these and on a much larger scale. These tests can help improve the layout of the website, color, information given, and more. 
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+Keeping up with today's style. 
+
+One of the things I look at first when click on a website, is how old it looks. If the website looks like it was made 20 years ago, I immediately click off because I do not trust the information given. A websites style should correspond with modern design. People's interests and what catches their eye changes regularly, so being flexible is a necessity for a good website. For example, take a loog at https://www.elksystems.com/. This website we I first clicked on it, I could immediately see that it has not been updated for quite some time, or the creator does not keep up with today's style. It is a basic looking website and if I was a client looking for IT services, I would take my business elsewhere. This can be changed if we look at other mainstream websites such as IBM and microsoft and copy their style. 
