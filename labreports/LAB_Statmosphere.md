@@ -89,7 +89,7 @@ I will be conducting the test on 101christainsocialnetwork.
 | 1 | Click on Bible in the navigation bar. | (This covers all of the tasks.) The user was successfully able to navigate to their chosen verse. It required more scrolling than was felt neccessary. |
 | 2 | Select a book of the Bible. |  |
 | 3 | Select a chapter from your chosen book. |  |
-| 4 | Click on a number next to a Bible verse. |  |
+| 4 | Click on a number next to a Bible verse. | User was successful in finding their chosen verse and commentary. |
 | 5 | Read the meaning and commentary section. | This section did not seem to be referring to the selected verse. |
 
 ## Step 3.5 Findings
