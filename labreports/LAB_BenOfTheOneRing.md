@@ -55,38 +55,39 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Listing an item|
+| Description / Steps | 1. User clicks on the Sell button. <br> 2. User chooses a category from a list that corresponds to the type of item they are selling. <br> 3. User uploads photos of the items. <br> 4. The user will add a title, description, and price of the item they want to sell. <br> 5. User can review the listing and then click the post button to officially post it.   |
+| Primary Actor |Messiah student |
+| Preconditions |1. Have a Messiah Account <br> 2. User must be logged into the app <br> 3. User must have a item to list and a photo and a description. |
+| Postconditions |User will have an item listed and available to sell |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Facebook Marketplace]([https://www.facebook.com/marketplace])
+2. Competitor 2 [Craigslist]([https://harrisburg.craigslist.org/])
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |Open the Facebook marketplace|   |
+| 2 |login or create an account|   |
+| 3 |Find a lawn mower that is being sold|   |
+| 4 |Save the listing|   |
+| 5 |Return to home|    |
+| 6 |Find the saved listing|   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
-
+| 1 |Open the Facebook marketplace|   |
+| 2 |login or create an account|   |
+| 3 |Find a lawn mower that is being sold|   |
+| 4 |Save the listing|   |
+| 5 |Return to home|    |
+| 6 |Find the saved listing|   |
 ## Step 3.5 Findings
 Organize your findings here.
 
