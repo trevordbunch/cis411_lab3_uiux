@@ -21,7 +21,7 @@ ___
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 [Crowdstrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/userHome)
-Insert Recorded Screenshots with captions and steps.  
+
 ![image](files://C:\Users\wadeb\Desktop\uiux1.png)  
 What the job looks like when you first get to the website.   
 ![image](files://C:\Users\wadeb\Desktop\uiux2.png)  
@@ -51,19 +51,45 @@ And it finally showed my a review of the information I put it in and asked me to
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2  | This is a fairly good website accessibility wise. For the colorblind there are only two colors being used so still be fairly easy to tell where the website wants you to click  |
 | **TOTAL** | 2.6  | Overall I think this website does a great job of not making the users think too much due to the color, design layout, and consistency.   |
 
-## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+## 2.3 [FedEx](https://careers.fedex.com/fedex/jobs?stretchUnits=MILES&stretch=10&location=Lewisberry&lat=40.13509&lng=-76.85969&woe=7)
+
+![image](files://C:\Users\wadeb\Desktop\fedex1.png)  
+This shows the job summary and apply button.  
+![image](files://C:\Users\wadeb\Desktop\fedex2.png)  
+This is where you register your account.  
+![image](files://C:\Users\wadeb\Desktop\fedex3.png)  
+These are security questions that you have to do in order to register.  
+![image](files://C:\Users\wadeb\Desktop\fedex4.png)  
+This makes sure that you are applying for the correct posistion and pay.  
+![image](files://C:\Users\wadeb\Desktop\fedex5.png)
+This was a weird part of the application process that was a waste of my time.   
+![image](files://C:\Users\wadeb\Desktop\fedex6.png)  
+This showed that FedEx is an equal oppurtunity employer.   
+![image](files://C:\Users\wadeb\Desktop\fedex7.png)  
+This had you fill out the minimum requirements, which I think should be at the start.  
+![image](files://C:\Users\wadeb\Desktop\fedex8.png) 
+This had you fill out you basic information.  
+![image](files://C:\Users\wadeb\Desktop\fedex9.png)  
+This had you fill out past jobs.  
+![image](files://C:\Users\wadeb\Desktop\fedex10.png)  
+This asked if there was any accomadations necessary.  
+![image](files://C:\Users\wadeb\Desktop\fedex11.png)  
+This asked you your gener and race. These were not optional however you could choose not to share.  
+![image](files://C:\Users\wadeb\Desktop\fedex12.png)  
+This asked if you were a veteran. When you clicked on an option, that option appeared over the above text and distorted it.  
+![image](files://C:\Users\wadeb\Desktop\fedex13.png)  
+This asked for if you have a disability. I could have added more screenshots of the process but did not want to overload. This could be too much already.  
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  | This website pretty much did not require much thinking, as it showed you the options. It used simple colors and was easy to manuever.  |
+| 2. **Users are busy:** Did this site value your time?  | 1  | This site did not value my time as it had too many part to the application process which did not need to be there or were in the wrong spots that would have been better towards the start. For example, the minimal requirements were in the middle, but it should have been at the start so you knew that you could even do the job before going through the other parts.   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | The website used the color purple to make the buttons it wanted you to click, however it did not show what parts were optional or required until after you submitted.   |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  | This website did a good job at guiding you exactly where it wanted you to.  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 1  | This website did not omit words. In fact it added uneccessary parts which wasted my time.   |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2  | Navigation was not a problem, it was designed pretty nice. However I every much preferred the navigation bar as the other website because this did not show how many more screens you had to go through just your overall progress.  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2  | This website seems to be alright for colorblind people beacuse there are once again only two colors being used.   |
+| **TOTAL** | 1.9  | Overall I was not a fan of this website due to the amount of wasted time, and not knowing how many steps I have left. However this website was good with the aestetics, and presented itself nice.   |
 
 
 # Step 3 Competitive Usability Test
