@@ -2,9 +2,9 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Jonathan Gaston 
+**GitHub Handle:** JG1579  
+**Repository:**  https://github.com/JG1579/cis411_lab3_uiux?organization=JG1579&organization=JG1579
 **Collaborators:**   aidan-hubley,JDAyres,Statmosphere
 ___
 
@@ -15,13 +15,12 @@ ___
 # Step 2: Evaluate Online Job Search Sites
 
 ## 2.1 Summary
-| Site | Score | Summary |
-|---|---|---|
+
 | Indeed | 21 | Was quick and painless for both actions. A nice and easy website for people job searching |
 | ZipRecruiter | 15 | Was looking for too many details through the sign up process. It should have been in another section. The job search was on the other hand very easy. Other than the sign up it was a fairly good site|
 
 ## 2.2 Indeed
-Insert Recorded Screenshots with captions and steps.
+
 
 ![image](/assests/indeed1.jpg)
 -This provides a good plethora of options for a new/returning user
@@ -46,7 +45,7 @@ Insert Recorded Screenshots with captions and steps.
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |  3 | Mobile site works just as well  |
 | **TOTAL** |  21 |   |
 
-## 2.3 Site 2
+## 2.3 Ziprecruiter
 Insert Recorded Screenshots with captions and steps.
 ![image](/assests/zip1.jpg)
 -It seems to want to know why I choose it
