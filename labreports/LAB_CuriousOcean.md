@@ -108,8 +108,14 @@ List of Competitors
 | 4 | Search for recipe, read intrustions and comment on clarity/confusion  | Ask user  |
 | 5 |  Interview test subject  |  Ask what they liked, didn't like, and what they saw as helpful. |
 
-## Step 3.5 Findings
-Organize your findings here.
+## Step 3.5 Findings on the app Tasty
+I interviewed a friend, Anna Brock. I chose her because she is an Art Major and I believe that would allow her to have a unique insight for layout and icon reability. I had Anna go through the app Tasty, a competitor listed above. 
+
+**What Worked** Subject found the list of options for dietary restrictions very helpful. It allows both vegans and normal people to eat and use the app. Subject also enjoyed the insight and helpfulness of videos and pictures. It enchanced the instructions. The search bar was able to be refine the query to the subject's experience. Being able to change the serving size was also something that brought great joy to the subject. 
+
+**What Didn't Work** Subject felt like there was an information overload and they did not like being recommended to buy products as they were reading. The process of adding to a personal cookbook was confusing and subject struggeled to add recipies to the personal cookbook. Subject also did not like that they could not substitute ingredients during the process. 
+
+**Room for Improvement** Subject suggested adding an allergy filter. Tasty asked for vegan options, but they did not offer a specific query for allergies. They also suggested adding an option to search for "Don't show me recipes with" and add an option for non-alcoholic recipes. 
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
