@@ -17,20 +17,20 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
+| Snagajob | Score 1 | Summary 1 |
 | Site 2 | Score 2 | Summary 2 |
 
-## 2.2 Site 1
+## 2.2 Snagajob
 Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 1 | Creating a profile was easy. Finding jobs was tougher as I needed a specific company or position. Some companies that I know did not appear. |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Application took only 3 steps and had a gauge with percentage completed. Jobs showed just the relevant information. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 0 | Steps on application were things you could put on profile. I found it unclear if this was because I neglected these on my profile or if it would've asked me regardless. How much was my profile taken into consideration when applying? |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2 | First job posting was front and center but there was too much white space. Could've easily made it even more prominent. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Was not overly wordy nor did it not provide enough information. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 1 | It felt like you were only ever given one option for jobs at a time. I found that searches were not very intuitive. |
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
 | **TOTAL** |   |   |
 
