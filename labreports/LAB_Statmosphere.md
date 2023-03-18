@@ -86,14 +86,18 @@ I will be conducting the test on 101christainsocialnetwork.
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 | Click on Bible in the navigation bar. |   |
-| 2 | Select a book of the Bible. |   |
-| 3 | Select a chapter from your chosen book. |   |
-| 4 | Click on a number next to a Bible verse. |   |
-| 5 | Read the meaning and commentary section. |   |
+| 1 | Click on Bible in the navigation bar. | (This covers all of the tasks.) The user was successfully able to navigate to their chosen verse. It required more scrolling than was felt neccessary. |
+| 2 | Select a book of the Bible. |  |
+| 3 | Select a chapter from your chosen book. |  |
+| 4 | Click on a number next to a Bible verse. |  |
+| 5 | Read the meaning and commentary section. | This section did not seem to be referring to the selected verse. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+1. The constant overhead bars and side bars were distracting. There was more scrolling then was needed. There appeared to be inaccuracies.  
+2. The UI was intuitive for the Books and chapters of the Bible. The version used could be changed to suit the user.  
+3. Instructions were straightforward and didn't lead to confusion outside of any issues with the website. 
+4. I believe I could use more practice in setting tasks and recognizing what I should be looking to get out of those tasks.  
+5. The website was serviceable but could've been optimized to give a better user experience. It felt like their interests were more geared towards navigating the user towards their other sites rather than keeping with this one.
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
