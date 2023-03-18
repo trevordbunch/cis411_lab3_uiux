@@ -5,12 +5,12 @@ ___
 **Name:** Noah Brenneis  
 **GitHub Handle:** NoahBrenneis  
 **Repository:** github.com/NoahBrenneis/cis411_lab3_uiux  
-**Collaborators:**   
+**Collaborators:** hopetressler, eliguy5474, CuriousOcean, noahcal11  
 ___
 
 # Step 1: Confirm Lab Setup
 - [x] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -75,20 +75,39 @@ List of Competitors
 | 2 | Sign up or create an account | This step can come later if necessary because it does not affect being able to look up recipes, only to save them |
 | 3 | Search for a recipe or keyword | The search bar is at the top, and autofills suggestions |
 | 4 | Select a recipe to look at | You can also hover over a recipe to see a preview of its ingredients, or bookmark it directly from the search menu |
-| 5 | Bookmark the chosen recipe | You may have to go to a separate website to view directions |
+| 5 | Analyze and bookmark the chosen recipe | You may have to go to a separate website to view directions |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| 4 |   |   |
-| 5 |   |   |
+| 1 | Navigate to the [website](www.yummly.com) | The user was able to simply search up the website on Google and find it as the first result |
+| 2 | Sign up or create an account | The signup button was the first option in the navigation menu at the top left, and the user could sign in with social media and Google |
+| 3 | Search for a recipe or keyword | The user clicked on the search bar and was able to have their search term autofilled |
+| 4 | Select a recipe to look at | While it was easy for the user to find and select a recipe, they got popups every time they selected one, which were annoying to close. They were pleasantly surprised to see reviews for each recipe |
+| 5 | Analyze and bookmark the chosen recipe | The recipe the user had selected had the recipe ight on the page. The user was pleasantly surprised to see that there were premade collections to place the bookmarked recipe in as opposed to a general bookmarks page. They were concerned that the popup that shows how to bookmark a recipe does not reappear if they miss it |
 
 ## Step 3.5 Findings
-Organize your findings here.
+*Potential improvements:*
+- Place a sign up button outside the navigation menu so it can be selected with a single click
+- Reduce the amount of popups that appear after selecting a recipe
+- Make the popup that shows how to bookmark a recipe reappear until it is performed
+
+*Beneficial experiences:*
+- Signup could be completed with two clicks: select a login method, then confirm using that platform
+- Searching for a recipe was simplified by autofill, allowing the user to type less
+
+*What we did well:*
+
+Our team did well collaborating and making sure we all had the same use case to work with. That way, our usability tests would all be similar in nature and easy to check between one another.
+
+*What we could improve:*
+
+It was difficult to decide on what app to perform the usability test on, since some people had already done it by the time others had started.
+
+*Overall experience:*
+
+While it was simple enough to write and perform the test, it was difficult to get valuable responses from the user. For most of the test, the user did not have any frustrations or surprises with the process, and their reactions were very neutral. Thankfully, the times they did have a reaction were good enough to make up for this, so I was able to get a good amount of data from it.
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
