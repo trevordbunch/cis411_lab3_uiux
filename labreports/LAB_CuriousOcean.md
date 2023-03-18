@@ -4,8 +4,8 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Shane Wahlberg
 **GitHub Handle:** CuriousOcean 
-**Repository:** Your Forked Repository  
-**Collaborators:** Elijah Murray, Hope Tressler, Noah Calisti, Noah Brenniss
+**Repository:** CuriousOcean Repository  
+**Collaborators:** Elijah Murray, Hope Tressler, Noah Calisti, Noah Brennis
 ___
 
 # Step 1: Confirm Lab Setup
