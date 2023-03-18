@@ -27,6 +27,13 @@ ___
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
 
+https://docs.google.com/document/d/104wDUig1c-sJ_9fGAA8pnJ_PauYR7YNMJVATOpOCt-Y/edit?usp=sharing
+
+This is what you are greeted with on Indeed.
+Step 1: Type in your keywords for the job you are looking for and where.
+Step 2: Create an account if needed.
+Step 3: Scroll through the available jobs and read the descriptions.
+Step 4: Apply for a job if you wish to.
 
 
 | Category | Grade (0-3) | Comments / Justification |
@@ -51,10 +58,21 @@ Insert Recorded Screenshots with captions and steps.
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
 
+https://docs.google.com/document/d/1jat6rPeA64pviIvyJvgFCMsfn9GoyX8Wo4p_bjIiqys/edit?usp=sharing
+
+This is what you are greeted with on Ziprecruiter.
+Step 1: Choose between talking to an AI, or search your job via keywords and where.
+Step 2: Create an account if needed.
+Step 3: Use the filters to make sure you're finding the right job field.
+Step 4: Scroll through the numerous jobs posted from your searches.
+Step 5: Apply for a job if you wish.
+
+
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
 
-| 1. **Don't make me think:** How intuitive was this site? | Grade: 3  |   |
+| 1. **Don't make me think:** How intuitive was this site? | Grade: 3  | The site is quick and easy, it acts as all other job search websites, simply type in keywords, use the filters, and find you job.  |
 
 | 2. **Users are busy:** Did this site value your time?  | Grade: 2 | The site first seems like you do not need an account and plug in information when you first access the website, but all of the sudden, when you press enter for your search, you have to plug in an email and create an account.  |
 
@@ -77,40 +95,46 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | LinkedIn & Simplyhired vs. the #1's in job search. |
+| Description / Steps | Users will create an account or signin, and use LinkedIn for a certain amount of time, users will go through steps   of navigating LinkedIn and then compare LinkedIn to Ziprecruiter and Indeed. |
+| Primary Actor | College students, business owners, people searching for jobs. |
+| Preconditions | - User must have small amount of computer profeciency and should know how to access LinkedIn and navigate it. 
+                  - User should have knowledge on what these websites are and what they are meant for.
+                  - User should navigate around all three websites with confidence and should be able to explain a difference between them.
+                  - User should come in with no bias towards any website.|
+| Postconditions | - User should be able to explain which of the websites were their favorite to use and why.
+                   - User should be able to explain the differences between them and rate each website from 1-10. 
+                   - User should rank the websites 1-4 and explain their choices after.|
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
 1. Competitor 1 [www.linkedin.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+2. Competitor 2 [www.simplyhired.com](www.simplyhired.com)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Open up the 4 websites and sign in if you have an account.  | User was able to interact and open up all of the websites with no worries. If not, this will be a failed useability test. |
+| 2 | Navigate through the 4 websites and express what they like and don't like about them.   | The users will later be told to rank the websites and then grade them /10. |
+| 3 | User should know how to interact with websites, view connections, search for jobs, etc.   | User should spend about 5-10 minutes on each website before grading and moving onto the next.   |
+| 4 | User must compare the competitors to Indeed and Ziprecruiter and explain which ones they liked more and why. User must rank each website and score each website /10.  | User should score them based on appearance, easily accessible, easy to navigate, if they would use it more in the future, and how intuitive the sites are.   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Open up the 4 websites and sign in if user has an account.  | The user was my roommate, he was able to access these websites easily with no difficulty.   |
+| 2 | User should navigate through the 4 websites and express what they like and don't like about them based on first appearance.   | My roommate stated that Indeed was bland and Ziprecruiter was more sleek and interesting. He said LinkedIn was different and he likes it the most and he stated that Simplyhired looked the same as Ziprecruiter and Indeed, just different colors.  |
+| 3 | User should go more in depth and interact with the websited, view connections, and search for jobs for about 5-10 minutes on each website.  | My roommate spent the most amount of his time on LinkedIn, he checked his connections, viewed job opportunities, and interacted with his connections. He spent about 7 minutes on the other websites and simply searched numerous jobs on them.   |
+| 4 | User must compate the competitors to Indeed and Ziprecruiter, rank each website 1-4 and grade them /10, and explain which ones they liked more and why.  | My roommates ranking went 1. LinkedIn 2. Ziprecruiter 3. Simplyhired 4. Indeed. He gave LinkedIn a 9/10, he liked that is was much more interactive and that he could connect with other people in his field of study. He gave Ziprecruiter a 7/10, he stated that the website looked nice and the job searches came up fast, but he wishes they were more interactive. He gave both Simplyhired and Indeed a 6/10. He stated the same for Ziprecruiter, but also added that the websites were just simply too plain and he wished for more from them.  |
+
 
 ## Step 3.5 Findings
 Organize your findings here.
+
+The findings that I have noticed is that there are numerous job search apps out there that do the same thing, but they all do it in different ways that can be more or less effective for the user. It all depends on users computer profeciency and how much time they have. Additionally, users may have different preferences on how websites look and how they should look, this can lead them to trusting websites or not trusting websites and can easily sway their opinions.
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
