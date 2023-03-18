@@ -22,23 +22,23 @@ ___
 
 ## 2.2 [Crowdstrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/userHome)
 
-![image](files://C:\Users\wadeb\Desktop\uiux1.png)  
+![image](uiux1.png)  
 What the job looks like when you first get to the website.   
-![image](files://C:\Users\wadeb\Desktop\uiux2.png)  
+![image](uiux2.png)  
 This is what the website shows when you hit apply, the autofill with resume was orange to start with.   
-![image](files://C:\Users\wadeb\Desktop\uiux3.png)  
+![image](uiux3.png)  
 I hit the autofill with resume button and it made me create an account.   
-![image](files://C:\Users\wadeb\Desktop\uiux4.png)  
+![image](uiux4.png)  
 This is where I had to drop my resume.   
-![image](files://C:\Users\wadeb\Desktop\uiux5.png)   
+![image](uiux5.png)   
 This is where I add my personal information, the alert said it couldnt fully grab my data from my resume.    
-![image](files://C:\Users\wadeb\Desktop\uiux6.png)  
+![image](uiux6.png)  
 This is where it asked my to put in my experiences.   
-![image](files://C:\Users\wadeb\Desktop\uiux7.png)  
+![image](uiux7.png)  
 This is where it asked my questions about why I wanted to work at the company.   
-![image](files://C:\Users\wadeb\Desktop\uiux8.png)  
+![image](uiux8.png)  
 This is where it asked me to accept the terms and condionts.   
-![image](files://C:\Users\wadeb\Desktop\uiux9.png) 
+![image](uiux9.png) 
 And it finally showed my a review of the information I put it in and asked me to submit it.   https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Data-Science-and-Data-Engineering-Internship---Summer-2023--Remote-_R12052?workerSubType=f79adfd173da01f3129fd137e373b210
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -53,31 +53,31 @@ And it finally showed my a review of the information I put it in and asked me to
 
 ## 2.3 [FedEx](https://careers.fedex.com/fedex/jobs?stretchUnits=MILES&stretch=10&location=Lewisberry&lat=40.13509&lng=-76.85969&woe=7)
 
-![image](files://C:\Users\wadeb\Desktop\fedex1.png)  
+![image](fedex1.png)  
 This shows the job summary and apply button.  
-![image](files://C:\Users\wadeb\Desktop\fedex2.png)  
+![image](fedex2.png)  
 This is where you register your account.  
-![image](files://C:\Users\wadeb\Desktop\fedex3.png)  
+![image](fedex3.png)  
 These are security questions that you have to do in order to register.  
-![image](files://C:\Users\wadeb\Desktop\fedex4.png)  
+![image](fedex4.png)  
 This makes sure that you are applying for the correct posistion and pay.  
-![image](files://C:\Users\wadeb\Desktop\fedex5.png)
+![image](fedex5.png)
 This was a weird part of the application process that was a waste of my time.   
-![image](files://C:\Users\wadeb\Desktop\fedex6.png)  
+![image](fedex6.png)  
 This showed that FedEx is an equal oppurtunity employer.   
-![image](files://C:\Users\wadeb\Desktop\fedex7.png)  
+![image](fedex7.png)  
 This had you fill out the minimum requirements, which I think should be at the start.  
-![image](files://C:\Users\wadeb\Desktop\fedex8.png) 
+![image](fedex8.png) 
 This had you fill out you basic information.  
-![image](files://C:\Users\wadeb\Desktop\fedex9.png)  
+![image](fedex9.png)  
 This had you fill out past jobs.  
-![image](files://C:\Users\wadeb\Desktop\fedex10.png)  
+![image](fedex10.png)  
 This asked if there was any accomadations necessary.  
-![image](files://C:\Users\wadeb\Desktop\fedex11.png)  
+![image](fedex11.png)  
 This asked you your gener and race. These were not optional however you could choose not to share.  
-![image](files://C:\Users\wadeb\Desktop\fedex12.png)  
+![image](fedex12.png)  
 This asked if you were a veteran. When you clicked on an option, that option appeared over the above text and distorted it.  
-![image](files://C:\Users\wadeb\Desktop\fedex13.png)  
+![image](fedex13.png)  
 This asked for if you have a disability. I could have added more screenshots of the process but did not want to overload. This could be too much already.  
 
 | Category | Grade (0-3) | Comments / Justification |
