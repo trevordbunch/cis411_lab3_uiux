@@ -102,13 +102,13 @@ This page is very similar in nature to LinkedIn. I think that both are fine and 
 | Preconditions | 1. The user has the app installed. 2. The user is at the exhibit they want to scan. 3. The app has camara permissions for the scan.|
 | Postconditions |1. The app will mark that the user visited this exhibit so they can track where they have been. |
 
-## Step 3.2 Identifier a competitive product
+## Step 3.2 Identify a competitive product
 
 List of Similar Sites
 1. Competitor 1 [Pocket Sights](https://pocketsights.com/)
 2. Competitor 2 [SelfTour](https://www.selftour.guide/)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 This test is being conducted for Pocket Sights.
 | Step | Tasks | Notes |
 |---|---|---|
@@ -125,14 +125,14 @@ This test is being conducted for Pocket Sights.
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   Navigate to the tour called Saints and Sinners Tour |   |
-| 2 |  Pull up the information for Carn Castle. |   |
-| 3 | Who wrote the poem describing the Welsh Battle?  |   |
-| 4 |  How many comments does the tour have? |   |
-| 5 | Who did the photographs for the tour?  |   |
-|6|Where does this tour take place?||
-|7|What company gave the site an award for mobility integration?||
-|8|Go to the section where the site talks about how they can make specific apps for you.||
+| 1 |   Navigate to the tour called Saints and Sinners Tour | The user said the search bar for searching specific tours was not clear but navigating was intuitive. The user thought the nav bar was very helpful. On the homepage the user only looked at the nav bar.  |
+| 2 |  Pull up the information for Carn Castle. | Once the user found the tour instead of scrolling down and finding the stops in order the user saw a list of stops on the side and clicked. The first time looking at the tour the user thought the tour stops section was very hard to find before realizing it was just a matter of scrolling down. Once the stop list was found the user really liked how it was descriptive and used numbers to tell you where you are. The user did feel though that the stops should have went above the map that way the numbers on the map made sense. The user missed the secondary nav bar that would have allowed them to jump right to the tour stops without scrolling. |
+| 3 | Who wrote the poem describing the Welsh Battle?  |The user found this info really easily and liked how the page was laid out. They also liked how there were audio and video buttons at the top so you could get more information. The pictures of the location though were very small and the user thought they were ads. The actual ads on the side of the page were also distracting to the user. 
+| 4 |  How many comments does the tour have? |  Took awhile for the user to find the comments on the tour because they did not know they were at the bottom of the page. Same as with the tour stops the comments are on the secondary nav bar but the user missed the bar so it took long to find. |
+| 5 | Who did the photographs for the tour?  | The user found it very easy to know who contributed to the project as they thought it was labled very well. |
+|6|Where does this tour take place?| Thought it was very easy to find where the tour was as it is one of the first things listed on the page.|
+|7|What company gave the site an award for mobility integration?| The user went to the about page from the nav bar and thought it was very easy to get there. Once on the page the user found the award immediatly because they felt like the only noticible thing on the page was the awards as they were the only thing in color. |
+|8|Go to the section where the site talks about how they can make specific apps for you.| The user was incredibly frustrated with this task as it is very unclear where to find this information. It is found under white labled apps which the user had no idea what those are and only found it after clicking through all the other tabs. The only helpful thing was that it was under the mobile apps section in the nav bar. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+I think something that went really well for the usability test was that we focused on the key feature of the website to be tested. This made sure that the user got to go through the main part of the experience. I also think that the tasks were easy to follow. 
