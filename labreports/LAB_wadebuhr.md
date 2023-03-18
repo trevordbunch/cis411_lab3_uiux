@@ -17,8 +17,8 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| Crowdstrike | 2.6 | Crowdstrike's approach of using two colors really sold where it wanted you to click during the entire process and it was bold enough that it caught your eye in every screen. The design was nice in that the navigation bar was always at the top and told you what sections you have completed, need to complete, and how many left you need to do. This website also did not waste my time for the most part except the error of reading my resume.  |
+| FedEx | 1.9 | FedEx's website was disappointing. They also used two colors, so it showed you where it wanted you go. The design was also easy on the eyes. However where this website really lacked was the overload of information it through at you and what you needed to complete. The naviagtion bar did not tell you how much you needed to complete and only showd a percentage of the entire process.  |
 
 ## 2.2 [Crowdstrike](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/userHome)
 
