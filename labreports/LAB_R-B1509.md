@@ -28,10 +28,24 @@ ___
 ## 2.2 Site 1
 Insert Recorded Screenshots with captions and steps.
 
+### LinkedIn
+#### Steps
+Account was already created in advance
+<br>
+
+1. Navigate to site and login
+   - Logging in is easy because of the information saved after logging out. HOwever, teh fact that saved information sign in is different than the regular sign in is convulted/confusing, especially since the regular sign in also conatins a link to a third-party service sign in as well as the usual sign up area
+2. Navigating to profile is easy, but the amount of pop-up views is a bit of a nuisance
+3. Added skill, couldn't decide which to add, so used Chess as an example of tactile
+4. To apply for a job is not easy, even if we are not required to complete the application, due to the fact that it feels wrong to apply for something you don't want to do regardless of it being a hypothetical
+5. Settings change is a good feature, but for me doing this lab, I'd rather not
+6. Links to external site, checked with other applications, they are the same.
+
+
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  | Intuitive for jobs, yes, but Profile login is just a little confusing, and how skills are listed and tested is somethign else |
+| 2. **Users are busy:** Did this site value your time?  |  3 |  Definetly quick to link to another site |
 | 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
 | 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
