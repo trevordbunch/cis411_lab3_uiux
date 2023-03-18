@@ -135,4 +135,29 @@ This test is being conducted for Pocket Sights.
 |8|Go to the section where the site talks about how they can make specific apps for you.| The user was incredibly frustrated with this task as it is very unclear where to find this information. It is found under white labled apps which the user had no idea what those are and only found it after clicking through all the other tabs. The only helpful thing was that it was under the mobile apps section in the nav bar. |
 
 ## Step 3.5 Findings
-I think something that went really well for the usability test was that we focused on the key feature of the website to be tested. This made sure that the user got to go through the main part of the experience. I also think that the tasks were easy to follow. 
+## Improvements:
+The site needs to have some things labeled more clearly that way users can know exactly where to find things such as the apps that they make. 
+
+The about page could be much more informative and highlight the helpful information instead of making everything grey except the awards.
+
+The tour stops should go above the map that way users have something to compare the map to. Otherwise the map can be hard to follow and feels alittle out of place unless you are familiar with the area.
+
+The secondary nav bar could be more clear when on a tour page as it is very helpful for navigating around the page but not very clear to find it.
+
+A tour search bar should be included on the homepage.
+
+## Postive Experiences:
+The user liked how the tour pages were laid out and thought they conveyed information well other than the ads being there. 
+
+The site does not feel crammed and looks nice other than things being hard to find. 
+
+The user liked how tour stops were setup by number and how they had descriptions and pictures that corresponded to the map.
+
+## Usability Test Reflection:
+
+I think something that went really well for the usability test was that we focused on the key feature of the website to be tested. This made sure that the user got to go through the main part of the experience. I also think that the tasks were easy to follow. It was also good that I sat with the user the entire time and recorded what they did that way I could track as much information as possible. 
+
+I do think in the future though there could be more specific tasks to take users through. I also think some of the prompts could have been more vague to force users to explore more. I alos think in the future it will be helpful to have more people do the test so we can see a variety of results. A reason for this is when I was using the site I thought certain things were very clear while the testing user did not.
+
+## Statement:
+Overall the usability test was a pleasant experience and the user was very helpful in highlighting the pros and cons of the site. Even with there being frustrations with the app the user stuck it out and was able to do a good job on the testing finding all of the answers on their own.
