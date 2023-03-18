@@ -99,21 +99,17 @@ List of Competitors
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |Create Account   |   |
-| 2 |  |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |Create Account   |Allows user to sign in using external accounts. User can also Provide a email or just browse as a quest|
+| 2 |Select an exhibit  |User can use drop downs to find a specific exhibit to view and learn more about the exhibit  |
+| 3 |Take virtual tour   |User are able to select a specific tour they would like to go one. It should also track where they are at in the tour   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |Create Account   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |Create Account   |Test user was able to complete this task.<br> They were pleased that they could just browse as a guest and not need to sign in.    |
+| 2 |Select an exhibit   |It took a little bit of the test user to find the desired exhibit.<br> They were frustrated that they had to go through a virtual tour first to then be able to select the individual exhibits.    |
+| 3 |Take virtual tour   |It was easy for the test user to complete this task. <br> All tours were provided to the user as soon as they signed it.<br> They like that when they listened to the virtual tour it gave them direction on where to walk not kist read about the exhibits.<br> They didn't expect there to be a transcript for the audio tour but where happy that one was provided.   |
 
 ## Step 3.5 Findings
-Organize your findings here.
+Two things that benefited the user in the workflow was the ability for them to sign in as a quest and also the transcripts for the virtual tour. Signing in as a quest saved the user time and also didn't make them worry about having to sign up for another thing that they may not want anymore after the tour. The transcripts were useful because if the user didn't wasn't to listen or couldn't they could just read and quickly move on to the next exhibit. There are three thing that could be improved for the workflow. The first one being keeping the exhibits separate from the virtual tour so that the user can view each one in any order they want. Second is adding more whitespace so that the pages are easier for the user to read. Lastly is to make the transcript part of the exhibit page not a button the user has to hit just to save time and confusion. Conducting a Useability Test was tricky because we never knew how the test user would react when going through the app. Something that you thought would work well and make it easier for the user ended up actually making it harder because they had to learn something new to continue.
