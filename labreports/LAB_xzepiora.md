@@ -96,37 +96,43 @@ This page is very similar in nature to LinkedIn. I think that both are fine and 
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | User finds current exhibit by scanning a QR code. |
+| Description / Steps |1. The user is at an exhibit they want to learn more about. 2. User selects the scan QR code button from the app. 3. The app scans the QR code. 4. The app loads the exhibit page with information and additional images. |
+| Primary Actor | The Muesuem Visitor|
+| Preconditions | 1. The user has the app installed. 2. The user is at the exhibit they want to scan. 3. The app has camara permissions for the scan.|
+| Postconditions |1. The app will mark that the user visited this exhibit so they can track where they have been. |
 
 ## Step 3.2 Identifier a competitive product
 
-List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+List of Similar Sites
+1. Competitor 1 [Pocket Sights](https://pocketsights.com/)
+2. Competitor 2 [SelfTour](https://www.selftour.guide/)
 
 ## Step 3.3 Write a Useability Test
-
+This test is being conducted for Pocket Sights.
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Navigate to the tour called Saints and Sinners Tour |This tour can be found by looking up Ireland in their tour search bar, as it is one of the top results.  Or by simply looking up the name of the tour |
+| 2 | Pull up the information for Carn Castle.  |This is the fourth spot on the tour. Clicking the name will pull up more inforamtion about the location.   |
+| 3 | Who wrote the poem describing the Welsh Battle?  |In the Carn Castle information there is a poem written by Sir Samuel Ferguson.   |
+| 4 |  How many comments does the tour have? | The answer is 0 and this can be found at the bottom of the page. |
+| 5 |  Who did the photographs for the tour? | Mike Kinsella. This answer can be found towards the top where he is credited.  |
+|6|Where does this tour take place?| Mayo County Ireland is the answer and it can be found at the top of the page.|
+|7|What company gave the site an award for mobility integration?|The answer is Ford and this can be found in the about us section.|
+|8|Go to the section where the site talks about how they can make specific apps for you.|This is under the mobile app section in the nav bar. It is the white lable apps tab.|
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |   Navigate to the tour called Saints and Sinners Tour |   |
+| 2 |  Pull up the information for Carn Castle. |   |
+| 3 | Who wrote the poem describing the Welsh Battle?  |   |
+| 4 |  How many comments does the tour have? |   |
+| 5 | Who did the photographs for the tour?  |   |
+|6|Where does this tour take place?||
+|7|What company gave the site an award for mobility integration?||
+|8|Go to the section where the site talks about how they can make specific apps for you.||
 
 ## Step 3.5 Findings
 Organize your findings here.
