@@ -2,14 +2,14 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Noah Brenneis  
+**GitHub Handle:** NoahBrenneis  
+**Repository:** github.com/NoahBrenneis/cis411_lab3_uiux  
 **Collaborators:**   
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
+- [x] I have forked the repository and created my lab report
 - [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
@@ -55,27 +55,27 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Search for a Recipe |
+| Description / Steps | 1. The user navigates to the search menu within the app<br> 2. The user inputs a search term and presses the Search button<br> 3. A list of recipes is brought up based on the search term, organized by how well they match the user's current skill levels<br> 4. The user looks through the recipes until they find one they like<br> 5. The user either bookmarks the recipe for later use or selects it to begin cooking |
+| Primary Actor | User |
+| Preconditions | The user has an account |
+| Postconditions | The user will have bookmarked or completed a new recipe |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Epicurious](www.epicurious.com)
+2. Competitor 2 [Yummly](www.yummly.com)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Navigate to the [website](www.yummly.com) | I chose yummly over epicurious because it focuses more on recipes over simply having articles |
+| 2 | Sign up or create an account | This step can come later if necessary because it does not affect being able to look up recipes, only to save them |
+| 3 | Search for a recipe or keyword | The search bar is at the top, and autofills suggestions |
+| 4 | Select a recipe to look at | You can also hover over a recipe to see a preview of its ingredients, or bookmark it directly from the search menu |
+| 5 | Bookmark the chosen recipe | You may have to go to a separate website to view directions |
 
 ## Step 3.4 Observe User Interactions
 
@@ -84,8 +84,8 @@ List of Competitors
 | 1 |   |   |
 | 2 |   |   |
 | 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 4 |   |   |
+| 5 |   |   |
 
 ## Step 3.5 Findings
 Organize your findings here.
