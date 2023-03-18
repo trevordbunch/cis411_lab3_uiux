@@ -167,7 +167,7 @@ Once I am done searching for the desired position, the site takes me to a page w
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors:
-1. Competitor 1: [Facebook Marketplace]([www.awesomesauce.com](https://www.facebook.com/marketplace))
+1. Competitor 1: [Facebook Marketplace](https://www.facebook.com/marketplace)
 2. Competitor 2: [Craigslist](https://harrisburg.craigslist.org/location/harrisburg-pa?lat=40.34800&lon=-76.80700&search_distance=11.00000)
 3. Competitor 3: [OfferUp](https://offerup.com/)
 
