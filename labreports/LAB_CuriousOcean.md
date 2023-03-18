@@ -5,12 +5,12 @@ ___
 **Name:** Shane Wahlberg
 **GitHub Handle:** CuriousOcean 
 **Repository:** Your Forked Repository  
-**Collaborators:**   
+**Collaborators:** Elijah Murray, Hope Tressler, Noah Calisti, Noah Brenniss
 ___
 
 # Step 1: Confirm Lab Setup
 - [X] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -18,8 +18,8 @@ ___
 ## 2.1 LinkedIn Summary Summary
 | Site | Score | Summary |
 |---|---|---|
-| LinkedIn | Score 1 | Summary 1 |
-| Indeed | Score 2 | Summary 2 |
+| LinkedIn | 21 | A+. Very friendly, clear, and did not make me think too much or waste my time.  |
+| Indeed | 11.5 | F. Almost the exact opposite of what LinkedIn was like. Wasted my time and hurt my eyes to look at.  |
 
 ## 2.2 LinkedIn
 
