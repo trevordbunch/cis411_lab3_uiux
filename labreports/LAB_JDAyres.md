@@ -5,7 +5,7 @@ ___
 **Name:** Justin Ayres 
 **GitHub Handle:** JDAyres  
 **Repository:** https://github.com/JDAyres/cis411_lab3_uiux  
-**Collaborators:** aidan-hubley, Statmosphere, 02NRA, jg1579
+**Collaborators:** ChatGPT, aidan-hubley, Statmosphere, 02NRA, jg1579
 ___
 
 # Step 1: Confirm Lab Setup
@@ -148,40 +148,73 @@ Notes: The application process varies depending on the employer, which might cau
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Creating an account in Prayer Circle|
+| Description / Steps |This use case describes the steps to create an account in Prayer Circle after receiving a link to join a prayer group from a friend. <br> 1. User receives a link to join a prayer group from a friend. <br> 2. User clicks on the link.<br>3. User is redirected to the app's sign-up page.<br>4. User enters their email address and creates a password.<br>5. User agrees to the app's terms and conditions and privacy policy.<br>6. User clicks on the "Sign Up" button.<br> 7. User is taken to their profile page where they can customize their profile picture, display name, and other details.<br>8. User is automatically added to the prayer group and can start participating in prayers with the group members.|
+| Primary Actor |New user who received the link|
+| Preconditions | 1. User has received a link to join a prayer group from a friend. <br> 2. User has not previously created an account in the prayer app. <br> 3. The prayer group has already been created|
+| Postconditions | 1. User has successfully created an account in the prayer app.<br> 2. User is automatically added to the prayer group. |
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. [faithmeet](https://www.faithmeet.com)
+2. [PrayerChainOnline](https://www.prayerchainonline.net)
+3. [biblefolk](http://biblefolk.com)
+4. [101ChristianSocialNetwork](https://www.101christiansocialnetwork.com)
+5. [IndieGospel](https://indiegospel.net)
+6. [PrayerMate](https://www.prayermate.net/app)
+
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Navigate to the homepage of indiegospel.net  |  Observe how long it takes for the user to locate the homepage button or link |
+| 2 | Search for a specific artist or song  | Evaluate the search function's ease of use and accuracy  |
+| 3 |  Click on a song or artist to view their page | Assess how easily the user is able to navigate to the desired page and if the page is visually appealing and user-friendly  |
+| 4 | Navagate to and explore the community section  | Assess the user's ability io navigate to the community section and easily locate and view groups  |
+| 5 |  Listen to a song or watch a video |  Assess the ease of playing media on the site, including the availability of playback controls |
+| 6 |  Explore the events section and view an upcoming event | Evaluate the user's ability to navigate to the events section and easily locate and view an upcoming event |
+| 7 |  Overall evaluation | Ask the user for their overall impression of the site, including likes, dislikes, and suggestions for improvement  |
+
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Navigate to the homepage of indiegospel.net  | The landing page of the site is different from the homepage. |
+| 2 | Search for a specific artist or song  | The search function is not super accurate and the page for viewing search results is cluttered and confusing. |
+| 3 |  Click on a song or artist to view their page | some artist pages can be confusing. |
+| 4 | Navigate to and explore the community section  | Absurdly huge footer, there is also a different navigation bar from the home page.|
+| 5 |  Listen to a song or watch a video | The site stops the song once you exit the tab, wish there was an option to keep the song playing in the background. |
+| 6 |  Explore the events section and view an upcoming event | There were upcoming events that had already occurred and were not removed from the page. |
+| 7 |  Overall evaluation | 4.5/10 Confusing amount of navigation features, doesn't maintain selected song throughout site. Overall, design feels outdates and navigation is clunky. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+**Improvements:**
+
+1. Improve the accuracy of the search function and make the search results page less cluttered and confusing.
+2. Simplify the artist pages to make them more user-friendly and less confusing.
+3. Streamline the navigation features to make them more intuitive and less overwhelming.
+
+**Experiences:**
+
+1. The ability to listen to songs and watch videos is a benefit to the user, as it allows them to experience the music firsthand and get a better sense of the artist's style.
+2. The community section provides a space for users to connect with other fans and share their thoughts and opinions about the music.
+
+**What did our Team do Well:**
+
+I believe that we did a great job communicating with each other and clarifying exactly what we were all looking for in terms of qualities in the site as well as what kind of navigation we want to be looking at.
+
+**How can We Improve:**
+
+One main we I think our team could improve is jumping on group assignments like this sooner. Everything worked out fine this time thankfully, however with future projects it would be a good Idea not to work on the team portion of assignments as a group the last day to work on them.
+
+**My Experience Conducting a Usability Test:**
+
+Overall I really like conducting this, it was fun to hang out with my buddies to figure out what we want to test. It was also just an interesting experience to explore competitors applications, or future applications, and compare them to what we will be doing. I also just enjoyed exploring webpages and finding both good and bad qualities and thinking of ways to improve them. Also, Aidan gave me free pizza which was pretty dope.
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+Usability Rule: "Consistency is Key."
+
+Consistency in design is important because it allows users to easily recognize and understand how to interact with a product. When a user sees the same design elements and patterns repeated throughout a product, they can quickly build mental models of how the product works and how to navigate it. This reduces cognitive load and makes the product feel more intuitive and user-friendly. Consistency can be applied to various design elements, such as typography, color schemes, layout, and interaction patterns. By applying consistency in design, we can create a better user experience that is easier to use and more efficient. Inconsistent design can be frustrating and confusing, leading to user frustration and ultimately a poor user experience. Therefore, it is important to strive for consistency in design to create a cohesive and user-friendly product.
