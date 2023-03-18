@@ -107,28 +107,31 @@ This asked for if you have a disability. I could have added more screenshots of 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Messiah's  [Falconlink](https://falconlink.webapps.messiah.edu)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Click on the person icon | It shows options to change password, my files, and logout  |
+| 2 | Click on the message icon | Shows feedback options  |
+| 3 | Click on the "Today and Messiah" button  | Messiah News  |
+| 4 | Scroll down to the links and resources |   |
+| 5 | Click on the Student Search button  | This alows you to enter in a students last name gives them public information about them.   |
+| 6 | Exit out of that tab and search chapel  |   |
+| 7 | Click on the Chapel Attendence button  | Shows how many chapels you have and need.   |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Click on the person icon  |   |
+| 2 | Click on the message icon  |   |
+| 3 | Click on the "Today and Messiah" button  |   |
+| 4 | Scroll down to the links and resources  |   |
+| 5 | Click on the Student Search button  |   |
+| 6 | Exit out of that tab and search chapel  |   |
+| 7 | Click on the Chapel Attendence button  |   |
 
 ## Step 3.5 Findings
 Organize your findings here.
