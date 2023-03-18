@@ -2,15 +2,20 @@
 ___
 **Course:** CIS 411, Spring 2021  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
-**GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository  
+**Name:** Rachel Beattie 
+**GitHub Handle:** [Your GitHub Handle](https://github.com/R-B1509) 
+**Repository:** [Your Forked Repository](https://github.com/R-B1509/cis411_lab3_uiux) 
 **Collaborators:**   
+[Zach Booher](https://github.com/Sturty75),
+[Ben Clarke](https://github.com/BenOfTheOneRing),
+[Michael Shoul](https://github.com/m-shoul),
+[Josh Phillipes](https://github.com/jp1478),
+[Tim Kratz](https://github.com/timkratz)
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -55,27 +60,29 @@ Insert Recorded Screenshots with captions and steps.
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title | Listing item |
+| Description / Steps | 1. User clicks on ```sell``` <br>2. Selects category for listed item type <br>3. uploads images of selected merchandise <br>4. User adds in title, description and price <br>5. User reviews listed information of item and submits it for others viewing via ```post ```|
+| Primary Actor | Messiah Student (Current, former) |
+| Preconditions | 1. Obtained Messiah Authenticated Account <br>2. Application User Profile is logged in <br>3. Holds an Item to list along with photos and a description in mind|
+| Postconditions | Item listed for sale uploaded|
 
 ## Step 3.2 Identifier a competitive product
 
 List of Competitors
-1. Competitor 1 [www.awesomesauce.com](www.awesomesauce.com)
-2. Competitor 2 [Bangarang Peter](https://www.youtube.com/watch?v=4PNOccSUb1Q)
+1. Competitor 1 [Facebook Marketplace](https://www.facebook.com/marketplace/)
+2. Competitor 2 [Craigs List](https://harrisburg.craigslist.org)
 
 ## Step 3.3 Write a Useability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |  Navigate to Facebook Marketplace |   |
+| 2 | Login/Create account  |   |
+| 3 |  Find lawn mower for sale  |   |
+| 4 |  Save selected item on listings |   |
+| 5 |  Return to Home Page |   |
+
+| 6 | Navigate to saved listing  |   |
 
 ## Step 3.4 Observe User Interactions
 
