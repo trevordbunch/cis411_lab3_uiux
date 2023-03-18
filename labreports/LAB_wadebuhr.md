@@ -98,11 +98,11 @@ This asked for if you have a disability. I could have added more screenshots of 
 
 | Use Case #1 | |
 |---|---|
-| Title | |
-| Description / Steps | |
-| Primary Actor | |
-| Preconditions | |
-| Postconditions | |
+| Title |Login as a Student |
+| Description / Steps |1. As the app opens, it loads into a student login page <br> 2. After the student enters in his messiah account and password, the page waiting for the login to be authenticated loads. <br> 3. After the login has been authenticated, the main app loads and shows the apps pinned in falcon link, a search, and an account button. |
+| Primary Actor |Student |
+| Preconditions |Student must have a authenticated and active messaih username and password |
+| Postconditions |Student is can act like they are in Messiah's Falconlink.  |
 
 ## Step 3.2 Identifier a competitive product
 
