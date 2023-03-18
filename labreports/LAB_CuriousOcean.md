@@ -92,21 +92,21 @@ List of Competitors
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 | Access app  |   |
-| 2 |  Understand icons, navigation |   |
-| 3 | Explore User profile settings  |   |
-| 4 | Search for recipe, read intrustions and comment on clarity/confusion  |   |
+| 1 | Access app  | Access it  |
+| 2 |  Understand icons, navigation |  Have user try to understand icons and what they are supposed to do |
+| 3 | Explore User profile settings  | Edit profile and explore all options  |
+| 4 | Search for recipe, read intrustions and comment on clarity/confusion  | Ask user  |
 | 5 |  Interview test subject  |  Ask what they liked, didn't like, and what they saw as helpful. |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 | Access app  | Access it  |
+| 2 |  Understand icons, navigation |  Have user try to understand icons and what they are supposed to do |
+| 3 | Explore User profile settings  | Edit profile and explore all options  |
+| 4 | Search for recipe, read intrustions and comment on clarity/confusion  | Ask user  |
+| 5 |  Interview test subject  |  Ask what they liked, didn't like, and what they saw as helpful. |
 
 ## Step 3.5 Findings
 Organize your findings here.
