@@ -78,7 +78,7 @@ Competitor:
 1. Whisk [https://whisk.com/](https://whisk.com/)
 2. Tasty [tasty.co](tasty.co)
 
-## Step 3.3 Write a Useability Test
+## Step 3.3 Write a Usability Test
 
 | Step | Tasks | Notes |
 |---|---|---|
@@ -88,6 +88,8 @@ Competitor:
 | 4 | Search for recipe, read instructions and comment on clarity/confusion | Ask user |
 
 ## Step 3.4 Observe User Interactions
+
+[Screen recording (no audio)](https://youtu.be/x7VQTM1zcwY)
 
 | Step | Tasks | Observations |
 |---|---|---|
