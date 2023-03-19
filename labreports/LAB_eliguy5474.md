@@ -4,13 +4,13 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Elijah Murray  
 **GitHub Handle:** eliguy5474  
-**Repository:** 
-**Collaborators:**   
+**Repository:** https://github.com/eliguy5474?tab=repositories
+**Collaborators:**  Shane, Hope, Noah Calisti, Noah Brennis
 ___
 
 # Step 1: Confirm Lab Setup
 - [Y] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [Y] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
