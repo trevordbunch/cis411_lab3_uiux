@@ -87,18 +87,22 @@ SIEM was then added to my skills.
 I clicked on the Jobs part of the top nav bar and was taken [here](https://app.joinhandshake.com/stu/postings).
 
 
+![Handshake](17.png) 
+I scrolled down the right bar to find the Apply Externally button. 
 
+![Handshake](18.png) 
+Clicking the button created this popup which I could then use to attach/submit my resume and move to the external site. 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 1   |While the other aspects were fine, attempting to find my profile took me a lot longer then it really should have. I had to actively think and look for my profile page.    |
+| 2. **Users are busy:** Did this site value your time?  |3   |Aside from making me search for my profile page this site did not waste my time   |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 1 | It did not make my profile page clear at all. The other steps were fine.    |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  |Yes, it very clearly and easily lead me to the jobs page.   |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3   |No issues with copy. No paragraph long buttons or anything that stood out.   |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |1  |Once again, my profile picture/name being such a small part and in such a distant part of the screen made it hard to navigate where I wanted. The other aspects of the nav bar are clear.   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 1   |Once again I do not know the in and outs of accessibility as I do not use those programs, however Handshake does not have alt attribute tags for screen readers. This makes it less accessible than LinkedIn.   |
+| **TOTAL** | 1 | Bad, has promise and the clear ability to be a good website, but it has a few major drawbacks that make it more of a chore to use  |
 
 
 # Step 3 Competitive Usability Test
