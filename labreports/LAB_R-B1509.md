@@ -37,22 +37,22 @@ Account was already created in advance
 ![Pt2](../assets/LinkedIn/One/SignIn2.png)
 
 1. Navigate to site and login
-   - Logging in is easy because of the information saved after logging out. HOwever, teh fact that saved information sign in is different than the regular sign in is convulted/confusing, especially since the regular sign in also conatins a link to a third-party service sign in as well as the usual sign up area
+   - Logging in is easy because of the information saved after logging out. However, the fact that saved information sign in is different than the regular sign in is confusing, especially since the regular sign in also contains a link to a third-party service sign in as well as the usual sign up area.
   
 ![Profile](../assets/LinkedIn/One/SignIn3.png)
 
-2. Navigating to profile is easy, but the amount of pop-up views is a bit of a nuisance
+2. Navigating to profile is easy, but the amount of pop-up views is a bit of a nuisance.
 
 ![Skills 1](../assets/LinkedIn/One/Skill1.png)
 ![S2](../assets/LinkedIn/One/Skill2.png)
 ![S3](../assets/LinkedIn/One/Skill3.png)
 ![S4](../assets/LinkedIn/One/Skill4.png)
 
-3. Added skill, couldn't decide which to add, so used Chess as an example of tactile
+3. Added skill, though I couldn't decide which one to add, so I used Chess as an example of tactical strength.
 
 ![Ap1](../assets/LinkedIn/Two/App1.png)
 
-4. To apply for a job is not easy, even if we are not required to complete the application, due to the fact that it feels wrong to apply for something you don't want to do regardless of it being a hypothetical
+4. To apply for a job is not easy, even if we are not required to complete the application, due to the fact that it feels wrong to apply for something you don't want to do regardless of it being a hypothetical.
 
 ![Ap2](../assets/LinkedIn/Two/App2.png)
 
@@ -76,6 +76,40 @@ Account was already created in advance
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
+
+
+![Sign In]()
+![Pt]()
+
+1. Navigate to site and registered
+   - I used my google account, but one of the steps was repetatitve
+   - If they are logging us in via Google account, shouldn't they know the First and Last name, or can't they ask permission to get the information?
+   - The required Title desired leaves much to <strong>be</strong> desired.
+  
+![Profile](../assets/)
+
+2. Profile building was long... and kind of pointless with repeat things to skip
+
+![Skills 1](../assets/)
+![S2](../assets/)
+![S3](../assets/)
+![S4](../assets/)
+
+3. It's easy to tell that the main focus of the site is solely job hunting, that being said... If I were to judge LinkIn in comparison to this I would take back a few complaints on the divider's placement there. Here it's building itself like Pinterest.
+
+![Ap1](../assets/)
+
+4. To apply for a job is not easy, even if we are not required to complete the application, due to the fact that it feels wrong to apply for something you don't want to do regardless of it being a hypothetical
+
+![Ap2](../assets/)
+
+5. Settings change is a good feature, but for me doing this lab, I'd rather not
+
+![Ap3](../assets/)
+
+6. Links to external site, checked with other applications, they are the same.
+
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -123,11 +157,12 @@ List of Competitors
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |   |   |
-| 2 |   |   |
-| 3 |   |   |
-| ... |   |   |
-| n |   |   |
+| 1 |  Navigate to Facebook Marketplace |   |
+| 2 | Login/Create account  |   |
+| 3 |  Find lawn mower for sale  |   |
+| 4 |  Save selected item on listings |   |
+| 5 |  Return to Home Page |   |
+| 6 | Navigate to saved listing  |   |
 
 ## Step 3.5 Findings
 Organize your findings here.
