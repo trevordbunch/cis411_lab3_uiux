@@ -15,9 +15,9 @@ Systems, products, and solutions are more than a series of feature functions and
 
 This lab has 2 parts:
 1. Evaluate two Online Job Search sites: Use Steve Krug's principles to assess two websites/apps.
-2. Conduct Competitive Usability Test: Assess how well a product competitor performs in a useablity test and determine the implications for your product design.
+2. Conduct Competitive Usability Test: Assess how well a product competitor performs in a useability test and determine the implications for your product design.
 
-Detailed instructions are [here](LAB_INSTRUCTIONS.md), and you are expected to compile your findings into a labreport following this [template](labreports/LAB_TEMPLATE.md).
+Detailed instructions are [here](LAB_INSTRUCTIONS.md), and you are expected to compile your findings into a labreport following this [template](labreports/LAB_Template.md).
 
 ## 3. Submissions
 You are expected to create a lab report as a markdown file under the labreports directory using the **LAB_[GITHUB Handle].md** naming convention in your forked repository.  After you have reviewed your work, then you should submit a `Pull Request` to this repository with your lab report and any accompanying images/files (e.g., required diagrams).  Add the `Pull Request` URL into the courseroom LMS (Canvas) for grading.
@@ -26,7 +26,7 @@ You are expected to create a lab report as a markdown file under the labreports 
 Lab Specific Help (since this may be your first GitHub experience or writing requirements, we have some additional resources for you :) ).
 - [Detailed instructions](LAB_INSTRUCTIONS.md)
 - [Lab template](labreports/LAB_Template.md)
-- Krug, S. (2006) *Don't Make Me Think! A Common Sense Approach to Web Usability*. 2nd Edition. Retrived from: [https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+- Krug, S. (2006) *Don't Make Me Think! A Common Sense Approach to Web Usability*. 2nd Edition. Retrieved from: [https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
 
 Understanding Markdown Syntax
 - [Markdown Guide](https://www.markdownguide.org/)

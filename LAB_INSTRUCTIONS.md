@@ -3,7 +3,7 @@
 # Step 0: Create a GitHub account
 1. If you don't have a GitHub account already, [create one](https://github.com/join). If you do, **record the name of your handle in your lab report** and **record a link to one repository you either follow or star**.
 2. If you don't already have _git_ installed on your development machine, [do so](https://git-scm.com/downloads).
-3. Install a text editor or some sort of application for local development. Lately, I'm partial to [Visual Studio Code](https://code.visualstudio.com/) and my instructions assume it's use, but you're welcome to diviate. _Each one should choose their own sword, etc. etc._
+3. Install a text editor or some sort of application for local development. Lately, I'm partial to [Visual Studio Code](https://code.visualstudio.com/) and my instructions assume it's use, but you're welcome to deviate. _Each one should choose their own sword, etc. etc._
 
 # Step 1: Fork this repository and create your lab report file
 1. After logging in, navigate to the [root](https://github.com/trevordbunch/cis411_lab3_uiux) of this repository.
@@ -11,7 +11,7 @@
 3. Navigate to your forked repository in your GitHub account and copy the reference to your repository in from the <button class="btn btn-sm btn-primary">Clone or Download</button> button.
 4. Open the terminal or command line interface on your development machine, navigate to your chosen working directory, and execute the following command: ```git clone [YOUR COPIED GITHUB CLONE REFERENCE]```.
 5. Navigate to that directory ```cd cis411_lab3_ui/ux```.
-6. Create a lab report mardown file (ex. ```cp labreports/LAB_Template.md labreports/LAB_[GITHUB USERNAME].md``` ).
+6. Create a lab report markdown file (ex. ```cp labreports/LAB_Template.md labreports/LAB_[GITHUB USERNAME].md``` ).
 7. Add your lab report ```git add *```
 8. Add the file to your branch ```git commit -a -m "your commit message"```.
 9. Push the change to GitHub ```git push -u origin main```.
