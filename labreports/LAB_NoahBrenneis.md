@@ -18,7 +18,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | LinkedIn | 1 | Confusing and frustrating. Difficult to edit profile and job searches brought up more irrelevant results than relevant ones. |
-| Site 2 | Score 2 | Summary 2 |
+| Indeed | 3 | Simplistic and methodical. Every step is clearly laid out, and there are very few places to get lost. Job searches are improved thanks to autofill and other QoL features. |
 
 ## 2.2 LinkedIn
 I already had a LinkedIn account prior to this lab.
@@ -49,19 +49,34 @@ After selecting Apply under a job, I was brought to that company's website, wher
 | 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2 | I was able to tab through each page and reach the desired locations, although There was a lot to tab through |
 | **TOTAL** | 1 | This website was frustrating to use, since it was never obvious what needed to be selected to edit profile information, and job searches only had a spattering of relevant jobs versus the numerous unrelated results. |
 
-## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+## 2.3 Indeed
+I did not have an account on Indeed before this lab.
+
+![Indeed Account Creation](../assets/Indeed%20Signup.png)
+I was able to create an account simply by logging in with Google. I could have also entered my email address with similar results.
+
+![Indeed Resume Upload](../assets/Indeed%20Resume%20Upload.png)
+After creating an account, the first thing I saw was a way to upload my resume. I was then able to edit it and add necessary info that my original resume was missing.
+
+![Indeed Add Skills](../assets/Indeed%20Update%20Skills.png)
+Outside of the initial resume builder, I was also able to add skills from my profile page by viewing my resume.
+
+![Indeed Job Search](../assets/Indeed%20Job%20Search.png)
+I was able to enter a search term and a location to receive a list of jobs, as well as how much they match my resume.
+
+![Indeed Job Application](../assets/Indeed%20Job%20Application.png)
+After selecting a job, I was brought to a custom page for applying to it as opposed to simply being sent to their website. From there, I could upload my resume and fill out the application.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 | Each step of creating my resume was isolated and described well. When searching for a job, the autofill suggestions helped me narrow or broaden my search so I could find more jobs that I wanted. |
+| 2. **Users are busy:** Did this site value your time?  | 2 | While the overall process of creating a resume took some time, each step was short enough to not feel overly long. The job search was also easily accessible. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | Every step of the resume process was clearly defined and easy to understand. The job search interface was similarly intuitive. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | By the end of the resume builder, the site was asking me about preferred jobs, which would then lead into job recommendations. The job search site had recommendations based on my resume so I did not have to do a manual search first. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2 | Some of the sections of the resume builder were a bit wordy, and the job search section often had the same phrases across multiple listings. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | There were very few buttons to press, so it was easy to know how to get to a specific place. The resume builder was very step-by-step and easy to follow. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 3 | With how few options there are in the first place, tabbing to various spots on each page takes very little time. |
+| **TOTAL** | 3 | This website is very simple and easy to follow, and it has a lot of quality of life features that make the process of creating a profile and searching for a job better. |
 
 
 # Step 3 Competitive Usability Test
