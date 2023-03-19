@@ -21,10 +21,10 @@ ___
 | LinkedIn | 14 | LinkedIn was somewhat confusing and overwhelming to navigate. |
 
 ## 2.2 Indeed
-![Indeed Profile](Indeed1.jpg)  
+![Indeed Profile](../assets/Indeed1.JPG)  
 Indeed has a simple, understandable design, and I was easily able to update my resume. 
 
-![Indeed Search](Indeed2.jpg)  
+![Indeed Search](../assets/Indeed2.JPG)  
 Indeed provides a wide variety of conditions to help narrow down your search. It has an application page if compatible, 
 and a link to the company's site otherwise. 
 
@@ -40,12 +40,12 @@ and a link to the company's site otherwise.
 | **TOTAL** | 19 |   |
 
 ## 2.3 LinkedIn
-![LinkedIn Profile](LinkedIn1.jpg)  
+![LinkedIn Profile](../assets/LinkedIn1.JPG)  
 LinkedIn has a long profile page where you have to scroll to see most of the relevant information. 
 Many of the buttons have unclear labels, making it difficult to navigate. 
 I was able to update the banner of my profile easily. 
 
-![LinkedIn Search](LinkedIn2.jpg)
+![LinkedIn Search](../assets/LinkedIn2.JPG)
 The search page has a very granular filter system, but it is difficult to use. 
 I was unable to give a location, so I got results from all over the country.
 
