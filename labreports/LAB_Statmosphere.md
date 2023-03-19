@@ -18,7 +18,7 @@ ___
 | Site | Score | Summary |
 |---|---|---|
 | Snagajob | Score 1 | Very simplistic (at times overly) yet difficult to understand. |
-| Site 2 | Score 2 | Summary 2 |
+| Indeed | Score 2 | Summary 2 |
 
 ## 2.2 Snagajob
 Insert Recorded Screenshots with captions and steps.
@@ -31,22 +31,22 @@ Insert Recorded Screenshots with captions and steps.
 | 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2 | First job posting was front and center but there was too much white space. Could've easily made it even more prominent. |
 | 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Was not overly wordy nor did it not provide enough information. |
 | 6. **Navigation:** How effective was the workflow / navigation of the site? | 1 | It felt like you were only ever given one option for jobs at a time. I found that searches were not very intuitive. |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 0 | Did not see any options to optimize for accessibility. |
+| **TOTAL** | 12 | /21 |
 
-## 2.3 Site 2
+## 2.3 Indeed
 Insert Recorded Screenshots with captions and steps.
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 3 | Very easy to use. |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Gauge was present in the application, wasn't overly long. |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 3 | Did not have to work hard to find jobs. Highlighted job takes up most of the space with all the neccessary information. |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3 | Could enter the criteria needed and gave the best matched result. |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 3 | Was not overly wordy and still provided sufficient information. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 3 | Very easy to navigate. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 0 | Did not see any options to optimize for accessibility. |
+| **TOTAL** | 18 | /21 |
 
 
 # Step 3 Competitive Usability Test
