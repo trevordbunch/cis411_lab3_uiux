@@ -97,7 +97,21 @@ Competitor:
 | 4 | Search for recipe, read instructions and comment on clarity/confusion | Recipe was well structured and easy to understand. Ratings instead of tips would be nice. |
 
 ## Step 3.5 Findings
-Organize your findings here.
+**Good:**
+- Donut loading screen was cute
+- Navigation was easy, each tab clearly had a purpose
+- App was user friendly for searching recipes. Information presented was helpful
+- Instructions were clearly formatted & easy to understand even for inexperienced chefs 
+
+**Bad:**
+- Home screen was overwhelming. Too many categories and things to look at right away
+- User missed the "XX% recommended" at the top of the recipe, thought there was no rating for recipes
+
+**Improvements:**
+- Clean up the home screen to give users a more straightforward path
+- Ask a few more questions initally and make them more specific - "What's most important to you when cooking?" is too general
+- Make reviews more visible so users can quickly see the quality of a recipe
+- Add a difficulty level for recipes so inexperienced chefs don't get in over their heads
 
 # 4. Your UX Rule (Extra Credit)
 If you opt to do extra credit, then include it here.
