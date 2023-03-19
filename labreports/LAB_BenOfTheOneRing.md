@@ -1,16 +1,16 @@
 # Lab Report: UX/UI
 ___
-**Course:** CIS 411, Spring 2021  
+**Course:** CIS 411, Spring 2023  
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
-**Name:** Your Name  
+**Name:** Ben Clarke 
 **GitHub Handle:** Your GitHub Handle  
 **Repository:** Your Forked Repository  
-**Collaborators:**   
+**Collaborators:** m-shoul, jp1478, R-B1509, timkratz, Sturty75
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [x] I have forked the repository and created my lab report
+- [x] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -21,21 +21,73 @@ ___
 | Site 2 | Score 2 | Summary 2 |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
+### Captions and steps: 
+![LinkidIn](1.png)
+I already had a LinkedIn account before this lab. 
+
+I navigated to my main page [LinkedIn](https://www.linkedin.com/in/ben-clarke-88554a260/) using a bookmark on Chrome. 
+
+![LinkidIn](2.png) 
+I clicked on the add profile section, clicked on the "core" button, and then hit the add skills button. 
+
+![LinkidIn](3.png) 
+I clicked on the SIEM button. 
+
+![LinkidIn](4.png) 
+I clicked where I use the skill which is in my Security Analyst internship.
+
+![LinkidIn](5.png) 
+I clicked save and clicked the far right exit button.
+
+![LinkidIn](6.png) 
+I clicked on the jobs button at the top nav bar which took me to the [job page](https://www.linkedin.com/jobs/). Then clicked on one of my recent job searches.
+
+![LinkidIn](7.png) 
+
+It took me to that previous job search. I clicked on the of the listed jobs and hit apply. 
+
+![LinkidIn](8.png) 
+That took me to the [application website](https://www.linkedin.com/jobs/)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2 |The site was generally very intuitive, no major issues and the layout was fine.    |
+| 2. **Users are busy:** Did this site value your time?  |3   |The site did not have unnecessary pages or popups that distracted from my tasks.    |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |3   |Everything is clearly labeled and stands out.   |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |2   |This site lead me to where I wanted to go. I believe there are multiple ways to complete what I did, but I would have had to search for those other ways.   |
+| 5. **Omit Words:** How careful was this site with its use of copy? |3   |No long paragraphs of information. Kept things simple and precise   |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? |3   |Very easy to use and visible nav bar made navigation easy |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |2   |While I cannot have 100% certainty as I do not use those systems, the app seems to alt attributes for its pictures which would at least allow for a screen reader to work well. |
+| **TOTAL** | 3  |Very intuitive and easy to use website   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
+### Captions and steps: 
+![Handshake](9.png)
+I already had a Handshake account before this lab. I googled handshake and clicked on the 2nd to last recommendation that popped up. 
+
+![Handshake](10.png)
+That link took me to my [inbox](https://app.joinhandshake.com/stu/conversations#334554864). It actually took me a while to figure out where my actual profile/skills section may be under as the username circle is small and is in the very far top right of the page. 
+
+![Handshake](11.png)
+After clicking my username circle I clicked My profile on the drop-down.
+
+![Handshake](12.png)
+That took me to my [Profile Page](https://app.joinhandshake.com/stu/users/25363308) 
+
+![Handshake](13.png)
+I scrolled down to find my skills. 
+
+![Handshake](14.png)
+I typed SIEM in the search bar and clicked add SIEM skill. 
+
+![Handshake](15.png)
+SIEM was then added to my skills. 
+
+![Handshake](16.png)
+I clicked on the Jobs part of the top nav bar and was taken [here](https://app.joinhandshake.com/stu/postings).
+
+
+
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
