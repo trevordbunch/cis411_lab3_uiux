@@ -78,49 +78,52 @@ Account was already created in advance
 Insert Recorded Screenshots with captions and steps.
 
 
-![Sign In]()
-![Pt]()
+![Sign Up](../assets/Indeed/One/SignUp1.png)
+![Pt 2](../assets/Indeed/One/SignUp2.png)
+![Pt 3](../assets/Indeed/One/SignUp3.png)
+![Pt 4](../assets/Indeed/One/SignUp4.png)
+![Pt 5](../assets/Indeed/One/SignUp5.png)
+
+
 
 1. Navigate to site and registered
    - I used my google account, but one of the steps was repetatitve
    - If they are logging us in via Google account, shouldn't they know the First and Last name, or can't they ask permission to get the information?
    - The required Title desired leaves much to <strong>be</strong> desired.
   
-![Profile](../assets/)
+![Profile Build Aspect](../assets/Indeed/One/SignUp6.png)
+![Pt 2](../assets/Indeed/One/SignUp7.png)
+![Pt 3](../assets/Indeed/One/SignUp8.png)
+![Pt 4](../assets/Indeed/One/Su9.png)
+![Pt 5](../assets/Indeed/One/Su10.png)
+![Pt 6](../assets/Indeed/One/Su11.png)
 
 2. Profile building was long... and kind of pointless with repeat things to skip
 
-![Skills 1](../assets/)
-![S2](../assets/)
-![S3](../assets/)
-![S4](../assets/)
+![Job Serach](../assets/Indeed/Two/J1.png)
+![S2](../assets/Indeed/Two/J2.png)
 
 3. It's easy to tell that the main focus of the site is solely job hunting, that being said... If I were to judge LinkIn in comparison to this I would take back a few complaints on the divider's placement there. Here it's building itself like Pinterest.
 
-![Ap1](../assets/)
+![Ap1](../assets/Indeed/Two/App1.png)
+![Ap2](../assets/Indeed/Two/App2.png)
+![Ap3](../assets/Indeed/Two/App3.png)
+![Ap4](../assets/Indeed/Two/App4.png)
 
-4. To apply for a job is not easy, even if we are not required to complete the application, due to the fact that it feels wrong to apply for something you don't want to do regardless of it being a hypothetical
-
-![Ap2](../assets/)
-
-5. Settings change is a good feature, but for me doing this lab, I'd rather not
-
-![Ap3](../assets/)
-
-6. Links to external site, checked with other applications, they are the same.
+4. To apply for a job is fairly easy with the set up here. This time they saved information from Personal profile, so that's good.
 
 
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? |   |   |
-| 2. **Users are busy:** Did this site value your time?  |   |   |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  | Intuitive on the Job aspect, but profile build is sort of annoying if you don't know where your starting to look  |
+| 2. **Users are busy:** Did this site value your time?  | 3 | Very short and concise |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | Yes, but there is spacing issues, crowding of information with Job Search, but also too much spacing when signing up  |
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 3  | Yep, even if it was a little annoying  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2  | Fairly careful, though the repeat of asking for name when using a google signup makes me suspect that the form only connects the email to start out with, though I'm not entirely sure.  |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 2  | Linear, until you search for a job, then the flow is verticle. A little different with the job results and search  |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2  | It's fine with the touchscreen, but it's not like there is much for the controller to need fine detailing for  |
+| **TOTAL** |  16 |   |
 
 
 # Step 3 Competitive Usability Test
