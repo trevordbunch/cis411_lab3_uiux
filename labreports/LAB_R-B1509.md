@@ -22,11 +22,10 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Site 1 | Score 1 | Summary 1 |
-| Site 2 | Score 2 | Summary 2 |
+| LinkIn | 14 | While this has more features, it also is a bit crowded/noisy due to that. Furthermore, the added details, while contributing to validity, complicate the processes of the "Search" |
+| Indeed | 16 | A streamlined "Search" for jobs that offer little to no Networking associations |
 
 ## 2.2 Site 1
-Insert Recorded Screenshots with captions and steps.
 
 ### LinkedIn
 #### Steps
@@ -75,7 +74,6 @@ Account was already created in advance
 | **TOTAL** | 14  |   |
 
 ## 2.3 Site 2
-Insert Recorded Screenshots with captions and steps.
 
 
 ![Sign Up](../assets/Indeed/One/SignUp1.png)
