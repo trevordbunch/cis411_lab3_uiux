@@ -17,11 +17,15 @@ ___
 ## 2.1 Summary
 | Site | Score | Summary |
 |---|---|---|
-| Snagajob | Score 1 | Very simplistic (at times overly) yet difficult to understand. |
-| Indeed | Score 2 | Summary 2 |
+| Snagajob | 12 | Very simplistic (at times overly) yet difficult to understand. |
+| Indeed | 18 | Very detailed yet intuitive. Easy to navigate and find what I'm looking for. |
 
 ## 2.2 Snagajob
 Insert Recorded Screenshots with captions and steps.
+![Alt text](Screenshots/Snagajob%20Type%20of%20Work.jpg)
+![Alt text](Screenshots/Snagajob%20Login.jpg)
+![Alt text](Screenshots/Snagajob%20Application.jpg)
+![Alt text](Screenshots/Snagajob%20Job%20Search.jpg)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -36,6 +40,10 @@ Insert Recorded Screenshots with captions and steps.
 
 ## 2.3 Indeed
 Insert Recorded Screenshots with captions and steps.
+![Alt text](Screenshots/Indeed%20Job%20Search.jpg)
+![Alt text](Screenshots/Indeed%20Application.jpg)
+![Alt text](Screenshots/Indeed%20Company%20Review.jpg)
+![Alt text](Screenshots/Indeed%20Salaries.jpg)
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
@@ -100,4 +108,5 @@ I will be conducting the test on 101christainsocialnetwork.
 5. The website was serviceable but could've been optimized to give a better user experience. It felt like their interests were more geared towards navigating the user towards their other sites rather than keeping with this one.
 
 # 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+**Interactiveness**  
+This probably applies to more specific websites, but I think a good way to keep a user's attention would be to make the website interactive. Rather than having them follow a string of links or scrolling through a simple page, make something that the user can interact with. Examples could include having a side menu that needs to be dragged out or a graph with adjustable variables. Interaction requires more focus than scrolling, and makes it stand out amongst other websites.
