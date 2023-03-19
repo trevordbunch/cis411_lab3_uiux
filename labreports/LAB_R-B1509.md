@@ -65,14 +65,14 @@ Account was already created in advance
 
 | Category | Grade (0-3) | Comments / Justification |
 |---|---|---|
-| 1. **Don't make me think:** How intuitive was this site? | 2  | Intuitive for jobs, yes, but Profile login is just a little confusing, and how skills are listed and tested is somethign else |
-| 2. **Users are busy:** Did this site value your time?  |  3 |  Definetly quick to link to another site |
-| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? |   |   |
-| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? |   |   |
-| 5. **Omit Words:** How careful was this site with its use of copy? |   |   |
-| 6. **Navigation:** How effective was the workflow / navigation of the site? |   |   |
-| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? |   |   |
-| **TOTAL** |   |   |
+| 1. **Don't make me think:** How intuitive was this site? | 2  | Intuitive for jobs, yes, but Profile login is just a little confusing, and how skills are listed and tested is something else |
+| 2. **Users are busy:** Did this site value your time?  |  3 |  Definitely quick to link to another site, matches job skills with job listings |
+| 3. **Good billboard design:** Did this site make the important steps and information clear? How or how not? | 2  | Not the best, to be honest, first theirs the central alignment of three sections they think would interest you, then there is the selection of looking into more detail. The alignment changes from a center based scroll feed to that of left-right, but description of the job is underneath an overall summary block|
+| 4. **Tell me what to do:** Did this site lead you towards a specific, opinionated path? | 2  |  Yep  |
+| 5. **Omit Words:** How careful was this site with its use of copy? | 2  | If talking of the different backlinks towards one specific feature, than there are multiple ways, however most of them aren't redundant, the message section that is a pop-up does appear even when the message in the navigation bar is selected though. |
+| 6. **Navigation:** How effective was the workflow / navigation of the site? | 1  | In jobs, once you're looking at details the scroll bar for the div looks almost identical to the background color behind it. |
+| 7. **Accessibility:** How accessible is this site to a screen reader or a mouse-less interface? | 2  | In some aspects it is easier to navigate the website via touchscreen, the scrolling of the job description does not involve looking for the scroll bar because you can touch and drag. However, it also seems to register as trying to scroll down the whole webpage rather than a specific division more often than not.  |
+| **TOTAL** | 14  |   |
 
 ## 2.3 Site 2
 Insert Recorded Screenshots with captions and steps.
