@@ -146,27 +146,27 @@ List of Competitors
 
 | Step | Tasks | Notes |
 |---|---|---|
-| 1 |  Navigate to Facebook Marketplace |   |
-| 2 | Login/Create account  |   |
-| 3 |  Find lawn mower for sale  |   |
-| 4 |  Save selected item on listings |   |
-| 5 |  Return to Home Page |   |
-
-| 6 | Navigate to saved listing  |   |
+| 1 |  Navigate to Facebook Marketplace | Easily done through scrolling down in profile, far right icon in Nav Menu |
+| 2 | Login/Create account  | Saved information logged in already done so in Facebook App |
+| 3 |  Find lawn mower for sale  |  Used search in top bar |
+| 4 |  Save selected item on listings | Easy to save, not on listings, counted as a save action in the post |
+| 5 |  Return to Home Page | Easily done with haste |
+| 6 | Navigate to saved listing  | Confusion of named in instructions, confusion on where to find "saved" list, was found in shopping cart on "Saved Posts"  |
 
 ## Step 3.4 Observe User Interactions
 
 | Step | Tasks | Observations |
 |---|---|---|
-| 1 |  Navigate to Facebook Marketplace |   |
-| 2 | Login/Create account  |   |
-| 3 |  Find lawn mower for sale  |   |
-| 4 |  Save selected item on listings |   |
-| 5 |  Return to Home Page |   |
-| 6 | Navigate to saved listing  |   |
+| 1 |  Navigate to Facebook Marketplace | She went into app quickly, scrolled through to marketplace on profile quickly, typing had to ask Mom to slow down |
+| 2 | Login/Create account  | Already logged in  |
+| 3 |  Find lawn mower for sale  |  Went in quickly; She saved a random item - electric mixer |
+| 4 |  Save selected item on listings | Saved item at details, didn't know what I mean by Listings, (reference step 4 previous plan) |
+| 5 |  Return to Home Page | Easily done for her, but returning to saved list was harder. |
+| 6 | Navigate to saved listing | No idea where to find it at, used cart and recently saved item, was saved post page. It was in Shopping cart, which was top right tab in the corner of the screen |
 
 ## Step 3.5 Findings
-Organize your findings here.
-
-# 4. Your UX Rule (Extra Credit)
-If you opt to do extra credit, then include it here.
+<p> Three improvements include, adding a "Saved Items" icon outside of the "Shopping Cart" division, knowledge of terminology used in the app beforehand, as well as a name for "save" on the details of a listed item. Implicitly, the assumption is that the saved item will be on a wish list or something, but it is generally confusing because of how it is grouped with the "shopping cart".</p>
+<p> Experiences of benefit are the quickness of being able to navigate between the Market place and the Home page through the Navigation Menu, and the ease of being able to search for an item through tags.</p>
+<p> Our team was thorough in specifics of what they wanted to have the usability test on, maybe even a little too specific. </p>
+<p> Generality, we spoke of using the word "listings" to save items, and that being written in caused confusion on my part. I ended up speaking of the directions outright, then again, it was a rushed testing due to User probably being busy. </p>
+<p> On my part, verbal communication made this a little harder for the test, as well as a need to reinvestigate terminology used in communication due to trying to blur the specifics in instructions to the User in the Test. Though since one term was wrong, and because the user seemed to be in a rush, the "use test" seemed to be more like a race.</p>
