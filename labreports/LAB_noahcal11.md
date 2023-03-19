@@ -5,12 +5,12 @@ ___
 **Name:** Noah Calisti  
 **GitHub Handle:** noahcal11  
 **Repository:** [My Forked Repository](https://github.com/noahcal11/cis411_lab3_uiux.git)  
-**Collaborators:**   
+**Collaborators:** Shane Walhberg (CuriousOcean), Hope Tressler (hopetressler), Elijah Murray (eliguy5474), Noah Brenneis (NoahBrenneis)  
 ___
 
 # Step 1: Confirm Lab Setup
-- [ ] I have forked the repository and created my lab report
-- [ ] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
+- [X] I have forked the repository and created my lab report
+- [X] If I'm collaborating on this project, I have included their handles on the report and confirm that my report is informed, but not copied from my collaborators.
 
 # Step 2: Evaluate Online Job Search Sites
 
@@ -67,7 +67,7 @@ I knew what I was doing, so I clicked "Sign In" and made an account with my gmai
 | Use Case #1 | |
 |---|---|
 | Title | Finding a Recipe |
-| Description / Steps | The user is hungry and bold, deciding to try something new. They log into their account and search in the query "Grilled Reuben Sandwich". Recipe For Success will display a recipe along with its skill level (if the skill level is higher than the users, it will warn the user). The user will follow the directions and have the option of leaving a review, sharing the recipe, and taking a photo of their final product. |
+| Description / Steps | The user wants to make a new recipe. They log into their account and search in the query "Grilled Reuben Sandwich". Recipe For Success will display a recipe along with its skill level (if the skill level is higher than the users, it will warn the user). The user will follow the directions and have the option of leaving a review, sharing the recipe, and taking a photo of their final product. |
 | Primary Actor | User who is hungry and wants to try a new recipe. |
 | Preconditions | User has an account and ingredients for desired recipe. |
 | Postconditions | User is able to create the recipe. |
